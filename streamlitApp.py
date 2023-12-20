@@ -34,6 +34,8 @@ st.set_page_config(page_title = 'FantaSbori App',
                    layout = 'wide',
                    initial_sidebar_state = 'collapsed')
 
+# st.cache
+
 
 # In[ ]:
 
@@ -62,9 +64,8 @@ with st.sidebar:
                                   options = data['Squad'].unique(),
                                   default = data['Squad'].unique())
     
-    Player_filter = st.multiselect(label = 'Player',
-                                   options = data['Player'].unique(),
-                                   default = data['Player'].unique())
+    Player_filter = st.selectbox(label = 'Player',
+                                   options = data['Player'].unique())
 
 
 # In[ ]:
