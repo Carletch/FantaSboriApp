@@ -1,0 +1,294 @@
+#!/usr/bin/env python
+# coding: utf-8
+
+# In[1]:
+
+
+from datetime import datetime as dtime
+
+import pandas as pd
+import numpy as np
+
+import requests
+from bs4 import BeautifulSoup as bs
+
+import streamlit as st
+
+import plotly.express as px
+from numerize.numerize import numerize
+
+
+# In[2]:
+
+
+quotes_url = 'https://www.fantapazz.com/fantacalcio/listone-e-quotazioni'
+stats_url = 'https://www.fantapazz.com/fantacalcio/statistiche'
+
+
+# In[3]:
+
+
+def getSoup(url):
+    
+    page = requests.get(url)
+    soup = bs(page.text, features = 'lxml')
+    
+    return soup
+
+
+# In[4]:
+
+
+def filterSoup(soup):
+    
+    items = []
+
+    for row in soup.findAll('tr'):
+        cols = row.findAll('td')
+        cols = [element.text.strip() for element in cols]
+
+        items.append(cols)
+    
+    items = [item for item in items if item != []]
+    
+    return items
+
+
+# In[5]:
+
+
+quotes_soup = getSoup(quotes_url)
+quotes = filterSoup(quotes_soup)
+
+quotes = pd.DataFrame(quotes, columns = ['Role', 'Player', 'Current Quote', 'Jersey', 'Club'])
+quotes = quotes.drop('Jersey', axis = 1)
+quotes = quotes.drop_duplicates()
+
+quotes['Current Quote'] = quotes['Current Quote'].astype(int)
+quotes = quotes[['Role', 'Player', 'Club', 'Current Quote']]
+
+quotes.head()
+
+
+# In[6]:
+
+
+stats_soup = getSoup(stats_url)
+stats = filterSoup(stats_soup)
+
+stats = pd.DataFrame(stats, columns = ['Rank', 'Role', 'Player', 'Jersey', 'Club', 
+                                       'FM FP', 'MV FP', 'FM GdS', 'MV GdS', 'FM Sud', 'MV Sud',
+                                       'Games', 'Yellow Cards', 'Red Cards',
+                                       'Assists', 'Goals Scored', 'Penalties Scored', 'Missed Penalties',
+                                       'Goals Conceded', 'Penalties Saved', 'All Clean-Sheets'])
+stats = stats.drop(['Rank', 'Jersey', 'All Clean-Sheets'], axis = 1)
+stats = stats.drop_duplicates()
+
+stats = stats.replace('', np.NaN)
+stats[stats.columns[3:]] = stats[stats.columns[3:]].fillna(0)
+
+stats[stats.columns[3:9]] = stats[stats.columns[3:9]].astype(float)
+stats[stats.columns[10:]] = stats[stats.columns[10:]].astype(int)
+
+stats = stats.dropna(subset = ['Club'])
+
+stats.head()
+
+
+# In[7]:
+
+
+import random 
+
+squads = quotes.copy()
+squads['Initial Quote'] = squads['Current Quote'] - 5
+squads['Purchase Price'] = squads['Current Quote'] - 2
+squads['Owner'] = random.choices(['Fracca', 
+                                  'Marce', 
+                                  'Carle', 
+                                  'Nippon',
+                                  'Damian',
+                                  'Scap',
+                                  'Free Agent'], k = len(squads))
+squads['Squad'] = random.choices(['Garda Che Squadra', 
+                                  'Atletico Una Volta', 
+                                  'AC Ciughina', 
+                                  'AC Cipicchia', 
+                                  'Vecchie Rocce',
+                                  'Nottigam Dese',
+                                  'Free Agent'], k = len(squads))
+squads.loc[squads['Squad'] == 'Free Agent', 'Purchase Price'] = 0 
+squads = squads.drop('Current Quote', axis = 1)
+
+
+# In[8]:
+
+
+# squads = pd.read_csv(wd + 'FantaSboriFile.csv', columns = ['Role', 'Player', 'Club', 'Initial Quote', 'Purchase Price', 'Owner'])
+squads = squads.drop_duplicates()
+
+squads[['Initial Quote', 'Purchase Price']] = squads[['Initial Quote', 'Purchase Price']].astype(int)
+
+squads.head()
+
+
+# In[9]:
+
+
+data = quotes.merge(stats, how = 'right', on = ['Role', 'Player', 'Club'])
+data = data.merge(squads, how = 'outer', on = ['Role', 'Player', 'Club'])
+
+data['Current Gain/Loss'] = data['Current Quote'] - data['Purchase Price']
+data.loc[data['Purchase Price'] == 0, 'Current Gain/Loss'] = 0
+
+data['Role'] = data['Role'].str.replace('P', 'Portiere')                            .str.replace('D', 'Difensore')                            .str.replace('C', 'Centrocampista')                            .str.replace('A', 'Attaccante')
+
+data = data[['Role', 'Player', 'Club', 
+             'Squad', 'Owner', 'Purchase Price', 'Initial Quote', 'Current Quote', 'Current Gain/Loss',
+             'Games', 'Yellow Cards', 'Red Cards',
+             'Assists', 'Goals Scored', 'Penalties Scored', 'Missed Penalties',
+             'Goals Conceded', 'Penalties Saved',
+             'FM FP', 'MV FP', 'FM GdS', 'MV GdS', 'FM Sud', 'MV Sud']].copy()
+
+data.head()
+
+
+# In[ ]:
+
+
+round(data.describe(), 2)
+
+
+# In[ ]:
+
+
+
+       
+
+
+# In[ ]:
+
+
+st.set_page_config(page_title = 'FantaSbori App',
+                   layout = 'wide',
+                   initial_sidebar_state = 'collapsed')
+
+
+# In[ ]:
+
+
+header_left, header_mid, header_right = st.columns([1, 2, 1], gap = 'large')
+
+
+# In[ ]:
+
+
+with header_mid:
+    
+    st.title('FantaSbori APP')
+
+with st.sidebar:
+    
+    Role_filter = st.multiselect(label = 'Select Role',
+                             options = data['Role'].unique(),
+                             default = data['Role'].unique())
+    
+    Club_filter = st.multiselect(label = 'Select Club',
+                                 options = data['Club'].unique(),
+                                 default = data['Club'].unique())
+
+    Squad_filter = st.multiselect(label = 'Select Squad',
+                                  options = data['Squad'].unique(),
+                                  default = data['Squad'].unique())
+    
+    Player_filter = st.multiselect(label = 'Select Player',
+                                   options = data['Player'].unique(),
+                                   default = data['Player'].unique())
+
+
+# In[ ]:
+
+
+data1 = data.query('Role == @Role_filter &                     Club == @Club_filter &                     Squad == @Squad_filter &                     Player == @Player_filter')
+
+# total_impressions = float(df1['Impressions'].sum())
+# total_clicks = float(df1['Clicks'].sum())
+# total_spent = float(df1['Spent'].sum())
+# total_conversions= float(df1['Total_Conversion'].sum()) 
+# total_approved_conversions = float(df1['Approved_Conversion'].sum())
+
+# total1, total2, total3,total4,total5 = st.columns(5,gap='large')
+
+
+# In[ ]:
+
+
+
+
+
+# In[ ]:
+
+
+# Obtain information from tag <table>
+# stats_table = soup.find(‘table’, id = ’main_table_countries_today’)
+# stats_table
+
+
+# In[ ]:
+
+
+# Obtain every title of columns with tag <th>
+# stats_tableheaders = []
+
+# for i in stats_table.find_all(‘th’):
+# #  title = i.text
+#  headers.append(title)
+
+
+# In[ ]:
+
+
+# Create a dataframe
+# stats = pd.DataFrame(columns = headers)
+
+# Create a for loop to fill mydata
+# for j in stats_table.find_all(‘tr’)[1:]:
+#  row_data = j.find_all(‘td’)
+#  row = [i.text for i in row_data]
+#  length = len(stats)
+#  stats.loc[length] = row
+
+
+# In[ ]:
+
+
+# from selenium import webdriver
+
+# import time
+# from webdriver_manager.chrome import ChromeDriverManager
+# from selenium.webdriver.chrome.service import Service
+# from selenium.webdriver.chrome.options import Options
+
+# download_dir = "/Users/carletch/Downloads/"
+
+# options = Options()
+# options.add_experimental_option('prefs',  {
+#     "download.default_directory": download_dir,
+#     "download.prompt_for_download": False,
+#     "download.directory_upgrade": True,
+#     "plugins.always_open_pdf_externally": True
+#     }
+# )
+# service = Service(ChromeDriverManager().install())
+# driver = webdriver.Chrome(service = service, options = options)
+
+# driver.get('https://www.fanta.soccer/it/archivioquotazioni/A/2023-2024/')
+# time.sleep(3)
+# driver.quit()
+
+
+# In[ ]:
+
+
+
+
