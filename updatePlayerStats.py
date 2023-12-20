@@ -18,8 +18,8 @@ from bs4 import BeautifulSoup as bs
 # In[29]:
 
 
-source_dir = os.path.join(os.getwd(), 'data/')
-target_dir = os.path.join(os.getwd(), 'reports/')
+source_dir = os.path.join(os.getcwd(), 'data/')
+target_dir = os.path.join(os.getcwd(), 'reports/')
 
 print(f'Source directory: {source_dir}')
 print(f'Target directory: {target_dir}')
