@@ -23,7 +23,7 @@ jobs:
           python_version: 3.8
 
       - name: Install Python Dependencies
-        uses: py-actions/py-dependencies-install@v2
+        uses: py-actions/py-dependency-install@v2
         with:
          path: "requirements.txt"
 
