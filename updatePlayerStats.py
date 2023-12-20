@@ -14,6 +14,7 @@ from bs4 import BeautifulSoup as bs
 
 import os
 print(os.getcwd())
+print(os.listdir(os.getcwd()))
 
 # In[30]:
 
