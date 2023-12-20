@@ -145,7 +145,7 @@ print(stats.head())
 # In[37]:
 
 
-squads = pd.read_csv(source_dir + 'auctions_history.csv', sep = ';')
+squads = pd.read_csv(source_dir + 'auctions_history.csv', sep = ',')
 squads = squads.drop_duplicates()
 
 squads[['Initial Quote', 'Purchase Price']] = squads[['Initial Quote', 'Purchase Price']].astype(int)
@@ -181,7 +181,7 @@ print(data.head())
 # In[40]:
 
 
-data.to_csv(str(run_timestamp) + '_' + 'PlayersDB.csv', sep = ',', encoding = 'utf-8', index = False)
+data.to_csv(target_dir + 'players_db.csv', sep = ',', encoding = 'utf-8', index = False)
 
 # print(f'::set-output name=test_report::{result}')
 
