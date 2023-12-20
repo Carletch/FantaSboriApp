@@ -52,17 +52,15 @@ with header_mid:
 
 with st.sidebar:
     
-    Role_filter = st.multiselect(label = 'Role',
-                             options = data['Role'].unique(),
-                             default = data['Role'].unique())
-    
-    Club_filter = st.multiselect(label = 'Club',
-                                 options = data['Club'].unique(),
-                                 default = data['Club'].unique())
+    Squad_filter = st.selectbox(label = 'Squad',
+                                options = data['Squad'].drop_duplicates().sort_values()),
 
-    Squad_filter = st.multiselect(label = 'Squad',
-                                  options = data['Squad'].unique(),
-                                  default = data['Squad'].unique())
+    Club_filter = st.selectbox(label = 'Club',
+                                 options = data['Club Name'].drop_duplicates().sort_values()),
+    
+    Role_filter = st.multiselect(label = 'Role',
+                            options = data['Role'].unique(),
+                            default = data['Role'].unique())
     
     Player_filter = st.selectbox(label = 'Player',
                                    options = data['Player'].drop_duplicates().sort_values())
