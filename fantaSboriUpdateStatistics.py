@@ -23,7 +23,7 @@ stats_url = 'https://www.fantapazz.com/fantacalcio/statistiche'
 # In[31]:
 
 
-run_timestamp = datetime.now().strftime('%Y%m%d%H%M')
+run_timestamp = datetime.now().strftime('%Y%m%d')
 print(run_timestamp)
 
 
