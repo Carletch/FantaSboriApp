@@ -30,7 +30,13 @@ jobs:
       - name: Execute Python Script
         run: python updatePlayerStats.py
 
-      - name: Commit files 
+      - name: Check if there are any changes
+        id: verify_diff
+        run: |
+          git diff --quiet . || echo "changed=true" >> $GITHUB_OUTPUT
+
+      - name: Commit files
+        if: steps.verify_diff.outputs.changed == 'true'
         run: |
           git config --local user.name carletch 
           git config --local user.email "carletch.office@gmail.com"
@@ -40,3 +46,4 @@ jobs:
         env: 
           REPO_KEY: ${{secrets.GITHUB_TOKEN}} 
           username: github-actions
+          
