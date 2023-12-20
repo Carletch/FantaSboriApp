@@ -1,0 +1,541 @@
+﻿Role;Player;Club;Initial Quote
+P;Maignan;MIL;17
+P;Meret;NAP;16
+P;Sommer;INT;16
+P;Szczesny;JUV;15
+P;Provedel;LAZ;15
+P;Rui Patricio;ROM;12
+P;Di Gregorio;MON;12
+P;Skorupski;BOL;10
+P;Milinkovic-Savic V.;TOR;10
+P;Terracciano;FIO;10
+P;Carnesecchi;ATA;10
+P;Falcone;LEC;9
+P;Silvestri;UDI;9
+P;Ochoa;SAL;9
+P;Radunovic;CAG;8
+P;Montipo';VER;8
+P;Martinez Jo.;GEN;8
+P;Caprile;EMP;6
+P;Consigli;SAS;5
+P;Musso;ATA;5
+P;Turati;FRO;5
+P;Perin;JUV;3
+P;Berisha;EMP;3
+P;Cragno;SAS;3
+P;Cerofolini;FRO;2
+P;Christensen O.;FIO;2
+P;Sportiello;MIL;1
+P;Mirante;MIL;1
+P;Sepe;LAZ;1
+P;Leali;GEN;1
+P;Lamanna;MON;1
+P;Sommariva;GEN;1
+P;Pegolo;SAS;1
+P;Perilli;VER;1
+P;Padelli;UDI;1
+P;Scuffet;CAG;1
+P;Gollini;NAP;1
+P;Perisan;EMP;1
+P;Audero;INT;1
+P;Di Gennaro;INT;1
+P;Pinsoglio;JUV;1
+P;Aresti;CAG;1
+P;Fiorillo;SAL;1
+P;Rossi F.;ATA;1
+P;Costil;SAL;1
+P;Ravaglia F.;BOL;1
+P;Frattali;FRO;1
+P;Contini;NAP;1
+P;Brancolini;LEC;1
+P;Berardi A.;VER;1
+P;Gemello;TOR;1
+P;Boer;ROM;1
+P;Bagnolini;BOL;1
+P;Svilar;ROM;1
+P;Sorrentino A.;MON;1
+P;Martinelli T.;FIO;1
+P;Popa;TOR;1
+P;Stubljar;EMP;1
+P;Gori;MON;1
+P;Borbei;LEC;1
+P;Okoye;UDI;1
+P;Mandas;LAZ;1
+D;Di Lorenzo;NAP;20
+D;Dimarco;INT;20
+D;Hernandez T.;MIL;18
+D;Carlos Augusto;INT;17
+D;Danilo;JUV;16
+D;Posch;BOL;15
+D;Schuurs;TOR;15
+D;Zappacosta;ATA;15
+D;Bastoni;INT;14
+D;Dumfries;INT;14
+D;Pavard;INT;14
+D;Rrahmani;NAP;14
+D;Smalling;ROM;14
+D;Bremer;JUV;13
+D;Romagnoli;LAZ;13
+D;Tomori;MIL;13
+D;Darmian;INT;12
+D;Spinazzola;ROM;12
+D;Bakker;ATA;11
+D;Baschirotto;LEC;11
+D;Biraghi;FIO;11
+D;Doig;VER;11
+D;Mazzocchi;SAL;11
+D;Thiaw;MIL;11
+D;Acerbi;INT;10
+D;Buongiorno;TOR;10
+D;Calabria;MIL;10
+D;Casale;LAZ;10
+D;Cuadrado;INT;10
+D;Ebuehi;EMP;10
+D;Holm;ATA;10
+D;Mancini;ROM;10
+D;Mario Rui;NAP;10
+D;Milenkovic;FIO;10
+D;Scalvini;ATA;10
+D;Bijol;UDI;9
+D;Faraoni;VER;9
+D;Kolasinac;ATA;9
+D;Perez N.;UDI;9
+D;Bastoni S.;EMP;8
+D;De Vrij;INT;8
+D;Djimsiti;ATA;8
+D;Kristensen;ROM;8
+D;Kyriakopoulos;MON;8
+D;Mari';MON;8
+D;Martin;GEN;8
+D;N'dicka;ROM;8
+D;Natan;NAP;8
+D;Rodriguez R.;TOR;8
+D;Toloi;ATA;8
+D;Bellanova;TOR;7
+D;Bradaric;SAL;7
+D;Caldirola;MON;7
+D;Cambiaso;JUV;7
+D;D'ambrosio;MON;7
+D;Dodo';FIO;7
+D;Hien;VER;7
+D;Hysaj;LAZ;7
+D;Izzo;MON;7
+D;Kalulu;MIL;7
+D;Kamara H.;UDI;7
+D;Kristiansen;BOL;7
+D;Lucumi';BOL;7
+D;Luperto;EMP;7
+D;Marusic;LAZ;7
+D;Mina;FIO;7
+D;Olivera;NAP;7
+D;Parisi;FIO;7
+D;Pedersen;SAS;7
+D;Alex Sandro;JUV;6
+D;Azzi;CAG;6
+D;Beukema;BOL;6
+D;Birindelli;MON;6
+D;Dossena;CAG;6
+D;Dragusin;GEN;6
+D;Erlic;SAS;6
+D;Gallo;LEC;6
+D;Gatti;JUV;6
+D;Gendrey;LEC;6
+D;Gyomber;SAL;6
+D;Hateboer;ATA;6
+D;Juan Jesus;NAP;6
+D;Lazzari;LAZ;6
+D;Llorente D.;ROM;6
+D;Marchizza;FRO;6
+D;Palomino;ATA;6
+D;Romagnoli S.;FRO;6
+D;Toljan;SAS;6
+D;Vasquez;GEN;6
+D;Viti;SAS;6
+D;Vojvoda;TOR;6
+D;Wieteska;CAG;6
+D;Zappa;CAG;6
+D;Zemura;UDI;6
+D;Augello;CAG;5
+D;Dawidowicz;VER;5
+D;Djidji;TOR;5
+D;Ebosele;UDI;5
+D;Hatzidiakos;CAG;5
+D;Ismajli;EMP;5
+D;Kabasele;UDI;5
+D;Lovato;SAL;5
+D;Lykogiannis;BOL;5
+D;Martinez Quarta;FIO;5
+D;Masina;UDI;5
+D;Monterisi;FRO;5
+D;Obert;CAG;5
+D;Pezzella Giu.;EMP;5
+D;Pirola;SAL;5
+D;Pongracic;LEC;5
+D;Ranieri L.;FIO;5
+D;Ruggeri;ATA;5
+D;Sabelli;GEN;5
+D;Tressoldi;SAS;5
+D;Zortea;ATA;5
+D;Biraschi;GEN;4
+D;Calafiori;BOL;4
+D;Ehizibue;UDI;4
+D;Lazaro;TOR;4
+D;Patric;LAZ;4
+D;Pellegrini Lu.;LAZ;4
+D;Terracciano F.;VER;4
+D;Vina;SAS;4
+D;Vogliacco;GEN;4
+D;Bani;GEN;3
+D;Bereszynski;EMP;3
+D;Bisseck;INT;3
+D;Carboni A.;MON;3
+D;Di Pardo;CAG;3
+D;Dorgu;LEC;3
+D;Ferrari G.;SAS;3
+D;Goldaniga;CAG;3
+D;Gunter;VER;3
+D;Hefti;GEN;3
+D;Karsdorp;ROM;3
+D;Kjaer;MIL;3
+D;Lirola;FRO;3
+D;Magnani;VER;3
+D;Ostigard;NAP;3
+D;Sambia;SAL;3
+D;Sazonov;TOR;3
+D;Soumaoro;BOL;3
+D;Touba;LEC;3
+D;Venuti;LEC;3
+D;Zanoli;NAP;3
+D;Zima;TOR;3
+D;Amione;VER;2
+D;Bonifazi;BOL;2
+D;Cabal;VER;2
+D;Cacace;EMP;2
+D;Celik;ROM;2
+D;Cittadini;MON;2
+D;Coppola D.;VER;2
+D;Corazza;BOL;2
+D;Daniliuc;SAL;2
+D;De Sciglio;JUV;2
+D;De Winter;GEN;2
+D;Ebosse;UDI;2
+D;Fazio;SAL;2
+D;Ferreira J.;UDI;2
+D;Florenzi;MIL;2
+D;Haps;GEN;2
+D;Kayode;FIO;2
+D;Kristensen T.;UDI;2
+D;Kumbulla;ROM;2
+D;Missori;SAS;2
+D;Oyono;FRO;2
+D;Rugani;JUV;2
+D;Walukiewicz;EMP;2
+D;Amey;BOL;1
+D;Bettella;MON;1
+D;Bonfanti;ATA;1
+D;Bronn;SAL;1
+D;Capradossi;CAG;1
+D;Carboni F.;MON;1
+D;De Silvestri;BOL;1
+D;Dermaku;LEC;1
+D;Gila;LAZ;1
+D;Guarino;EMP;1
+D;Guessand A.;UDI;1
+D;Huijsen;JUV;1
+D;Kalaj;FRO;1
+D;Mateus Lusuardi;FRO;1
+D;Matturro;GEN;1
+D;N'guessan;TOR;1
+D;Okoli;FRO;1
+D;Pellegrino;MIL;1
+D;Pereira P.;MON;1
+D;Pierozzi;FIO;1
+D;Smajlovic;LEC;1
+D;Soppy;TOR;1
+D;Tonelli;EMP;1
+C;Adli;MIL;1
+C;Adopo;ATA;3
+C;Aebischer;BOL;6
+C;Akpa Akpro;MON;2
+C;Amatucci;FIO;2
+C;Aouar;ROM;16
+C;Arthur Melo;FIO;8
+C;Asllani;INT;3
+C;Badelj;GEN;5
+C;Baez;FRO;4
+C;Bajrami;SAS;13
+C;Baldanzi;EMP;14
+C;Barak;FIO;11
+C;Barella;INT;20
+C;Barrenechea;FRO;3
+C;Basic;LAZ;3
+C;Belardinelli;EMP;1
+C;Bennacer;MIL;9
+C;Blin;LEC;6
+C;Bohinen;SAL;4
+C;Boloca;SAS;5
+C;Bonaventura;FIO;15
+C;Bondo;MON;1
+C;Bourabia;FRO;4
+C;Bove;ROM;6
+C;Brescianini;FRO;6
+C;Cajuste ;NAP;6
+C;Calhanoglu;INT;17
+C;Camara E.;UDI;2
+C;Candreva;SAL;17
+C;Carboni V.;MON;1
+C;Castillejo;SAS;5
+C;Castrovilli;FIO;9
+C;Cataldi;LAZ;8
+C;Chukwueze;MIL;19
+C;Ciurria;MON;14
+C;Colpani;MON;12
+C;Coulibaly L.;SAL;8
+C;Cristante;ROM;10
+C;De Ketelaere;ATA;9
+C;De Roon;ATA;11
+C;Deiola;CAG;4
+C;Demme;NAP;1
+C;Duda;VER;8
+C;Duncan;FIO;6
+C;Ederson D.s.;ATA;12
+C;El Azzouzi;BOL;1
+C;El Shaarawy;ROM;16
+C;Elmas;NAP;14
+C;Fabbian;BOL;6
+C;Fagioli;JUV;12
+C;Faticanti;LEC;1
+C;Fazzini;EMP;5
+C;Felipe Anderson;LAZ;22
+C;Ferguson;BOL;18
+C;Folorunsho;VER;3
+C;Frattesi;INT;17
+C;Frendrup;GEN;7
+C;Freuler;BOL;7
+C;Gaetano;NAP;2
+C;Gagliardini;MON;7
+C;Garritano;FRO;3
+C;Gelli;FRO;3
+C;Gineitis;TOR;1
+C;Gonzalez J.;LEC;6
+C;Grassi;EMP;5
+C;Gudmundsson A.;GEN;14
+C;Guendouzi;LAZ;13
+C;Gyasi;EMP;7
+C;Harroui;FRO;8
+C;Hongla;VER;5
+C;Hrustic;VER;2
+C;Ikone';FIO;12
+C;Ilic;TOR;12
+C;Iling Junior;JUV;5
+C;Infantino;FIO;4
+C;Jagiello;GEN;2
+C;Jankto;CAG;8
+C;Joselito;VER;1
+C;Kaba;LEC;6
+C;Kamada;LAZ;15
+C;Kastanos;SAL;7
+C;Klaassen;INT;9
+C;Koopmeiners;ATA;24
+C;Kostic;JUV;14
+C;Kovalenko;EMP;4
+C;Krunic;MIL;7
+C;Kutlu;GEN;4
+C;Lazovic;VER;14
+C;Legowski;SAL;1
+C;Lindstrom;NAP;15
+C;Linetty;TOR;6
+C;Lipani;SAS;1
+C;Lobotka;NAP;13
+C;Locatelli;JUV;11
+C;Loftus-Cheek;MIL;14
+C;Lopez M.;FIO;7
+C;Lovric;UDI;15
+C;Luis Alberto;LAZ;22
+C;Lulic K.;FRO;1
+C;Machin;MON;6
+C;Maggiore;SAL;3
+C;Makoumbou;CAG;5
+C;Maldini;EMP;4
+C;Maleh;EMP;4
+C;Malinovskyi;GEN;15
+C;Mancosu;CAG;6
+C;Mandragora;FIO;10
+C;Marin;EMP;8
+C;Martegani;SAL;5
+C;Matheus Henrique;SAS;9
+C;Mazzitelli;FRO;5
+C;Mboula;VER;9
+C;Mckennie;JUV;8
+C;Messias;GEN;8
+C;Miranchuk;ATA;9
+C;Miretti;JUV;5
+C;Mkhitaryan;INT;13
+C;Moro N.;BOL;7
+C;Musah;MIL;9
+C;Nandez;CAG;8
+C;Ndoye;BOL;12
+C;Nicolussi Caviglia;JUV;1
+R;Nome;SQU;Qt
+C;Obiang;SAS;2
+C;Oristanio;CAG;5
+C;Orsolini;BOL;19
+C;Oudin;LEC;6
+C;Pafundi;UDI;1
+C;Pagano;ROM;1
+C;Paredes;ROM;7
+C;Pasalic;ATA;13
+C;Payero;UDI;5
+C;Pellegrini Lo.;ROM;15
+C;Pessina;MON;13
+C;Pobega;MIL;6
+C;Pogba;JUV;12
+C;Politano;NAP;15
+C;Prati;CAG;1
+C;Pulisic;MIL;20
+C;Quina;UDI;3
+C;Rabiot;JUV;22
+C;Racic;SAS;4
+C;Radonjic;TOR;12
+C;Rafia;LEC;6
+C;Ramadani;LEC;7
+C;Ranocchia F.;EMP;4
+C;Reijnders;MIL;13
+C;Reinier;FRO;8
+C;Renato Sanches;ROM;12
+C;Ricci S.;TOR;13
+C;Rog;CAG;1
+C;Romero L.;MIL;3
+C;Rovella;LAZ;4
+C;Sabiri;FIO;8
+C;Saelemaekers;BOL;4
+C;Samardzic;UDI;17
+C;Saponara;VER;10
+C;Sensi;INT;6
+C;Serdar;VER;5
+C;Sottil;FIO;8
+C;Strefezza;LEC;18
+C;Strootman;GEN;6
+C;Sulemana I.;CAG;3
+C;Suslov;VER;3
+C;Tameze;TOR;8
+C;Tchaouna;SAL;3
+C;Tchatchoua;VER;4
+C;Thorsby;GEN;8
+C;Thorstvedt;SAS;6
+C;Urbanski;BOL;2
+C;Vecino;LAZ;6
+C;Vignato S.;MON;2
+C;Viola;CAG;1
+C;Vlasic;TOR;17
+C;Volpato;SAS;2
+C;Walace;UDI;6
+C;Weah;JUV;10
+C;Zaccagni;LAZ;26
+C;Zalewski;ROM;8
+C;Zambo Anguissa;NAP;14
+C;Zarraga;UDI;2
+C;Zerbin;NAP;1
+C;Zielinski;NAP;21
+A;Osimhen;NAP;44
+A;Martinez L.;INT;40
+A;Rafael Leao;MIL;32
+A;Immobile;LAZ;31
+A;Berardi;SAS;30
+A;Lukaku;ROM;30
+A;Kvaratskhelia;NAP;30
+A;Dybala;ROM;28
+A;Vlahovic;JUV;28
+A;Giroud;MIL;28
+A;Scamacca;ATA;27
+A;Dia;SAL;26
+A;Thuram;INT;25
+A;Lookman;ATA;24
+A;Sanabria;TOR;23
+A;Arnautovic;INT;23
+A;Retegui;GEN;23
+A;Nzola;FIO;22
+A;Lauriente';SAS;21
+A;Zapata D.;TOR;19
+A;Chiesa;JUV;19
+A;Milik;JUV;18
+A;Gonzalez N.;FIO;17
+A;Okafor;MIL;16
+A;Toure' E.;ATA;15
+A;Beltran L.;FIO;15
+A;Lapadula;CAG;14
+A;Caprari;MON;14
+A;Sanchez;INT;14
+A;Abraham;ROM;14
+A;Caputo;EMP;14
+A;Ngonge;VER;14
+A;Muriel;ATA;13
+A;Pinamonti;SAS;13
+A;Deulofeu;UDI;13
+A;Jovic;MIL;13
+A;Zirkzee;BOL;13
+A;Krstovic;LEC;13
+A;Petagna;CAG;12
+A;Belotti;ROM;12
+A;Simeone;NAP;12
+A;Cambiaghi;EMP;12
+A;Shomurodov;CAG;12
+A;Azmoun;ROM;12
+A;Castellanos;LAZ;12
+A;Thauvin;UDI;11
+A;Pedro;LAZ;11
+A;Brekalo;FIO;11
+A;Henry;VER;11
+A;Mulattieri;SAS;11
+A;Almqvist;LEC;11
+A;Isaksen;LAZ;11
+A;Karlsson;BOL;11
+A;Kean;JUV;10
+A;Karamoh;TOR;10
+A;Djuric;VER;10
+A;Davis K.;UDI;10
+A;Mota;MON;10
+A;Brenner;UDI;10
+A;Cheddira;FRO;10
+A;Defrel;SAS;9
+A;Raspadori;NAP;9
+A;Colombo;MON;9
+A;Luvumbo;CAG;9
+A;Banda;LEC;9
+A;Bonazzoli;VER;8
+A;Pellegri;TOR;8
+A;Kouame';FIO;8
+A;Piccoli;LEC;7
+A;Success;UDI;7
+A;Botheim;SAL;7
+A;Lucca;UDI;7
+A;Caso;FRO;6
+A;Cancellieri;EMP;5
+A;Jovane;SAL;5
+A;Pavoletti;CAG;4
+A;Soule';FRO;4
+A;Alvarez A.;SAS;4
+A;Cuni;FRO;4
+A;Ekuban;GEN;3
+A;Seck;TOR;3
+A;Kvernadze;FRO;3
+A;Destro;EMP;2
+A;Van Hooijdonk;BOL;2
+A;Ceide;SAS;2
+A;Maric;MON;2
+A;Shpendi S.;EMP;2
+A;Ikwuemesi;SAL;2
+A;Puscas;GEN;1
+A;Ake' M.;UDI;1
+A;Braaf;VER;1
+A;Kallon;VER;1
+A;Kaio Jorge;FRO;1
+A;Valencia D.;SAL;1
+A;Ekong;EMP;1
+A;Vivaldo;UDI;1
+A;Bidaoui;FRO;1
+A;Yalcin;GEN;1
+A;Burnete;LEC;1
+A;Corfitzen;LEC;1
+A;Stewart;SAL;1
+A;Yildiz;JUV;1
