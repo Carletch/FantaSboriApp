@@ -164,4 +164,5 @@ print(data.head())
 
 data.to_csv(str(run_timestamp) + '_' + 'PlayersDB.csv', sep = ',', encoding = 'utf-8', index = False)
 
+# print(f'::set-output name=test_report::{result}')
 
