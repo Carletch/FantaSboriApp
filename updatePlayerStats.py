@@ -140,7 +140,7 @@ data.loc[data['Purchase Price'] == 0, 'Current Gain/Loss'] = 0
 
 data['Role'] = data['Role'].str.replace('P', 'Portiere')                            .str.replace('D', 'Difensore')                            .str.replace('C', 'Centrocampista')                            .str.replace('A', 'Attaccante')
 
-data = data[['Role', 'Player', 'Club', 'Club Name'
+data = data[['Role', 'Player', 'Club', 'Club Name',
              'Squad', 'Owner', 'Purchase Price', 'Initial Quote', 'Current Quote', 'Current Gain/Loss',
              'Games', 'Yellow Cards', 'Red Cards',
              'Assists', 'Goals Scored', 'Penalties Scored', 'Missed Penalties',
