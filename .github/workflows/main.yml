@@ -14,29 +14,29 @@ jobs:
         with:
           timezoneLinux: "Europe/Instabul"
 
-    - name: Checkout Repository Content
-      uses: actions/checkout@v2
+      - name: Checkout Repository Content
+        uses: actions/checkout@v2
 
-    - name: Setup Python Version
-      uses: actions/setup-python@v2
-      with:
-        python_version: 3.8
+      - name: Setup Python Version
+        uses: actions/setup-python@v2
+        with:
+          python_version: 3.8
 
-    - name: Install Python Dependencies
-      uses: py-actions/py-dependencies-install@v2
-      with:
-       path: "requirements.txt"
+      - name: Install Python Dependencies
+        uses: py-actions/py-dependencies-install@v2
+        with:
+         path: "requirements.txt"
 
-    - name: Execute Python Script
-      run: python updatePlayerStats.py
+      - name: Execute Python Script
+        run: python updatePlayerStats.py
 
-    - name: Commit files 
-      run: |
-        git config --local user.name Carletch 
-        git config --local user.email "carletch.office@gmail.com"
-        git add --all git commit -am "GH ACTION Headlines $(date)"
-        git push origin main 
+      - name: Commit files 
+        run: |
+          git config --local user.name Carletch 
+          git config --local user.email "carletch.office@gmail.com"
+          git add --all git commit -am "GH ACTION Headlines $(date)"
+          git push origin main 
 
-      env: 
-        REPO KEY: ${{secrets.GITHUB TOKEN}} 
-        username: github-actions
+        env: 
+          REPO KEY: ${{secrets.GITHUB TOKEN}} 
+          username: github-actions
