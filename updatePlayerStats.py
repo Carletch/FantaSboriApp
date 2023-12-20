@@ -1,10 +1,12 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[29]:
+# In[28]:
 
 
 from datetime import datetime
+
+import os
 
 import pandas as pd
 import numpy as np
@@ -12,10 +14,16 @@ import numpy as np
 import requests
 from bs4 import BeautifulSoup as bs
 
-import os
-print(os.getcwd())
-print(os.listdir(os.getcwd()))
-source_dir = '/home/runner/work/FantaSboriApp/FantaSboriApp/data/'
+
+# In[29]:
+
+
+source_dir = os.path.join(os.getwd(), 'data/')
+target_dir = os.path.join(os.getwd(), 'reports/')
+
+print(f'Source directory: {source_dir}')
+print(f'Target directory: {target_dir}')
+
 
 # In[30]:
 
@@ -23,12 +31,15 @@ source_dir = '/home/runner/work/FantaSboriApp/FantaSboriApp/data/'
 quotes_url = 'https://www.fantapazz.com/fantacalcio/listone-e-quotazioni'
 stats_url = 'https://www.fantapazz.com/fantacalcio/statistiche'
 
+print(f'Quotes source: {quotes_url}')
+print(f'Stats source: {stats_url}')
+
 
 # In[31]:
 
 
-run_timestamp = datetime.now().strftime('%Y%m%d')
-print(run_timestamp)
+run_timestamp = datetime.now()
+print(f'Run timestamp: {str(run_timestamp)}')
 
 
 # In[32]:
@@ -73,7 +84,8 @@ quotes = quotes.drop_duplicates()
 quotes['Current Quote'] = quotes['Current Quote'].astype(int)
 quotes = quotes[['Role', 'Player', 'Club', 'Current Quote']]
 
-print(quotes.shape)
+print(f'Quotes shape: {quotes.shape}')
+print('Quotes head:')
 print(quotes.head())
 
 
@@ -99,14 +111,15 @@ stats[stats.columns[10:]] = stats[stats.columns[10:]].astype(int)
 
 stats = stats.dropna(subset = ['Club'])
 
-print(stats.shape)
+print(f'Stats shape: {stats.shape}')
+print('Stats head:')
 print(stats.head())
 
 
 # In[36]:
 
 
-import random 
+# import random 
 
 # squads = quotes.copy()
 # squads['Initial Quote'] = squads['Current Quote'] - 5
@@ -132,12 +145,13 @@ import random
 # In[37]:
 
 
-squads = pd.read_csv(source_dir + '20231220_AuctionsHistory.csv', sep = ';')
+squads = pd.read_csv(source_dir + 'auctions_history.csv', sep = ';')
 squads = squads.drop_duplicates()
 
 squads[['Initial Quote', 'Purchase Price']] = squads[['Initial Quote', 'Purchase Price']].astype(int)
 
-print(squads.shape)
+print(f'Squads shape: {squads.shape}')
+print('Squads head:')
 print(squads.head())
 
 
@@ -159,7 +173,8 @@ data = data[['Role', 'Player', 'Club',
              'Goals Conceded', 'Penalties Saved',
              'FM FP', 'MV FP', 'FM GdS', 'MV GdS', 'FM Sud', 'MV Sud']].copy()
 
-print(data.shape)
+print(f'Final data shape: {data.shape}')
+print('Final data head:')
 print(data.head())
 
 
