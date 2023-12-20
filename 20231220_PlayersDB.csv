@@ -1,0 +1,732 @@
+Role,Player,Club,Squad,Owner,Purchase Price,Initial Quote,Current Quote,Current Gain/Loss,Games,Yellow Cards,Red Cards,Assists,Goals Scored,Penalties Scored,Missed Penalties,Goals Conceded,Penalties Saved,FM FP,MV FP,FM GdS,MV GdS,FM Sud,MV Sud
+Portiere,Sommer,INT,Nottigam Dese,Fracca,20,17,22.0,2.0,16,0.0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,5.75,6.19,5.84,6.28,5.88,6.31
+Portiere,Szczesny,JUV,Free Agent,Fracca,0,15,20.0,0.0,14,0.0,0.0,0.0,0.0,0.0,0.0,9.0,0.0,5.46,6.11,5.5,6.14,5.5,6.14
+Portiere,Di Gregorio,MON,Free Agent,Carle,0,13,18.0,0.0,15,0.0,0.0,0.0,0.0,0.0,0.0,16.0,1.0,5.67,6.53,5.77,6.63,5.5,6.37
+Portiere,Provedel,LAZ,Vecchie Rocce,Fracca,15,12,17.0,2.0,16,0.0,0.0,0.0,0.0,0.0,0.0,18.0,0.0,5.11,6.23,5.16,6.28,5.16,6.28
+Portiere,Terracciano,FIO,Nottigam Dese,Free Agent,13,10,15.0,2.0,14,2.0,0.0,0.0,0.0,0.0,0.0,12.0,1.0,5.77,6.48,5.71,6.43,5.75,6.46
+Portiere,Maignan,MIL,Free Agent,Scap,0,9,14.0,0.0,13,1.0,1.0,1.0,0.0,0.0,0.0,16.0,0.0,5.04,6.31,5.19,6.46,4.92,6.27
+Portiere,Skorupski,BOL,Atletico Una Volta,Fracca,11,8,13.0,2.0,15,2.0,0.0,0.0,0.0,0.0,0.0,12.0,0.0,5.43,6.3,5.5,6.37,5.33,6.2
+Portiere,Meret,NAP,Vecchie Rocce,Fracca,8,5,10.0,2.0,14,0.0,0.0,0.0,0.0,0.0,0.0,17.0,0.0,4.88,6.09,4.71,5.93,4.71,5.93
+Portiere,Rui Patricio,ROM,Nottigam Dese,Free Agent,8,5,10.0,2.0,16,0.0,0.0,0.0,0.0,0.0,0.0,19.0,0.0,4.89,6.08,4.94,6.13,4.63,5.81
+Portiere,Milinkovic,TOR,Free Agent,Fracca,0,4,9.0,0.0,15,1.0,0.0,0.0,0.0,0.0,0.0,14.0,0.0,5.15,6.12,5.13,6.1,5.07,6.03
+Portiere,Falcone,LEC,Garda Che Squadra,Marce,5,2,7.0,2.0,16,0.0,0.0,0.0,0.0,0.0,0.0,21.0,1.0,5.36,6.48,5.28,6.41,5.19,6.31
+Portiere,Silvestri,UDI,AC Cipicchia,Free Agent,3,0,5.0,2.0,16,0.0,0.0,0.0,0.0,0.0,0.0,27.0,0.0,4.28,5.97,4.25,5.94,4.28,5.97
+Portiere,Carnesecchi,ATA,Free Agent,Carle,0,0,5.0,0.0,6,0.0,0.0,0.0,0.0,0.0,0.0,7.0,0.0,5.25,6.42,5.17,6.33,4.75,5.92
+Portiere,Martinez J.,GEN,Free Agent,Free Agent,0,-1,4.0,0.0,15,1.0,1.0,0.0,0.0,0.0,0.0,19.0,0.0,4.63,6.0,4.57,5.93,4.47,5.83
+Portiere,Consigli,SAS,AC Cipicchia,Nippon,1,-2,3.0,2.0,14,1.0,0.0,0.0,0.0,0.0,0.0,24.0,0.0,4.61,6.36,4.64,6.39,4.5,6.25
+Portiere,Montipo,VER,AC Cipicchia,Fracca,1,-2,3.0,2.0,16,0.0,0.0,0.0,0.0,0.0,0.0,23.0,0.0,4.83,6.27,4.91,6.34,4.84,6.28
+Portiere,Scuffet,CAG,AC Cipicchia,Scap,1,-2,3.0,2.0,9,1.0,0.0,0.0,0.0,0.0,0.0,17.0,0.0,4.31,6.25,4.33,6.28,4.22,6.17
+Portiere,Berisha E.,EMP,Free Agent,Fracca,0,-2,3.0,0.0,14,0.0,0.0,0.0,0.0,0.0,0.0,25.0,1.0,4.46,6.04,4.32,5.89,4.5,6.07
+Portiere,Ochoa,SAL,AC Cipicchia,Damian,0,-3,2.0,0.0,11,0.0,0.0,0.0,0.0,0.0,0.0,22.0,0.0,4.43,6.43,4.09,6.09,4.27,6.27
+Portiere,Caprile,EMP,Vecchie Rocce,Nippon,0,-3,2.0,0.0,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,4.0,5.0,3.5,4.5,4.0,5.0
+Portiere,Musso,ATA,AC Cipicchia,Damian,0,-3,2.0,0.0,10,0.0,0.0,0.0,0.0,0.0,0.0,12.0,0.0,4.9,6.1,4.8,6.0,4.75,5.95
+Portiere,Ravaglia F.,BOL,Vecchie Rocce,Marce,0,-3,2.0,0.0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.5,6.5,7.0,7.0,7.5,7.5
+Portiere,Costil,SAL,Free Agent,Marce,0,-3,2.0,0.0,5,0.0,0.0,0.0,0.0,0.0,0.0,12.0,0.0,3.75,6.15,3.6,6.0,3.8,6.2
+Portiere,Radunovic,CAG,Garda Che Squadra,Marce,-1,-4,1.0,2.0,7,0.0,0.0,0.0,0.0,0.0,0.0,12.0,0.0,4.14,5.86,4.0,5.71,4.0,5.71
+Portiere,Turati,FRO,Nottigam Dese,Nippon,-1,-4,1.0,2.0,15,0.0,0.0,0.0,0.0,0.0,0.0,25.0,0.0,4.42,6.08,4.37,6.03,4.1,5.77
+Portiere,Cragno,SAS,Free Agent,Free Agent,0,-4,1.0,0.0,2,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,3.5,6.5,3.5,6.5,3.25,6.25
+Portiere,Rossi Fr.,ATA,AC Cipicchia,Scap,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Portiere,Bagnolini,BOL,Atletico Una Volta,Fracca,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Portiere,Aresti,CAG,Garda Che Squadra,Damian,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Portiere,Perisan,EMP,Garda Che Squadra,Marce,-1,-4,1.0,2.0,1,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,3.75,5.75,3.5,5.5,3.5,5.5
+Portiere,Stubljar,EMP,AC Ciughina,Scap,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Portiere,Cerofolini,FRO,AC Ciughina,Free Agent,-1,-4,1.0,2.0,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,5.25,6.25,5.5,6.5,5.5,6.5
+Portiere,Leali,GEN,Garda Che Squadra,Fracca,-1,-4,1.0,2.0,1,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,5.0,7.0,4.0,6.0,4.5,6.5
+Portiere,Sommariva,GEN,Free Agent,Free Agent,0,-4,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Portiere,Di Gennaro,INT,Atletico Una Volta,Scap,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Portiere,Perin,JUV,Vecchie Rocce,Carle,-1,-4,1.0,2.0,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,5.25,5.75,5.75,6.25,5.5,6.0
+Portiere,Pinsoglio,JUV,AC Ciughina,Marce,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Portiere,Brancolini,LEC,Garda Che Squadra,Scap,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Portiere,Samooja,LEC,AC Ciughina,Marce,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Portiere,Mirante,MIL,Vecchie Rocce,Damian,-1,-4,1.0,2.0,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,6.0,7.0,5.5,6.5,6.0,7.0
+Portiere,Sportiello,MIL,AC Ciughina,Damian,-1,-4,1.0,2.0,2,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,5.75,6.25,6.0,6.5,6.0,6.5
+Portiere,Lamanna,MON,AC Cipicchia,Marce,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Portiere,Sorrentino,MON,Atletico Una Volta,Fracca,-1,-4,1.0,2.0,1,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,4.0,5.0,4.0,5.0,4.5,5.5
+Portiere,Contini,NAP,Vecchie Rocce,Scap,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Portiere,Gollini,NAP,Free Agent,Marce,0,-4,1.0,0.0,2,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,5.25,6.25,5.5,6.5,5.75,6.75
+Portiere,Idasiak,NAP,Free Agent,Carle,0,-4,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Portiere,Boer,ROM,Garda Che Squadra,Marce,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Portiere,Svilar,ROM,Vecchie Rocce,Damian,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Portiere,Fiorillo,SAL,AC Ciughina,Nippon,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Portiere,Sepe,LAZ,Nottigam Dese,Scap,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Portiere,Pegolo,SAS,Nottigam Dese,Nippon,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Portiere,Fiorenza,TOR,Vecchie Rocce,Marce,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Portiere,Gemello,TOR,Free Agent,Fracca,0,-4,1.0,0.0,1,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,2.5,4.5,3.5,5.5,3.0,5.0
+Portiere,Popa,TOR,Vecchie Rocce,Marce,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Portiere,Padelli,UDI,AC Cipicchia,Nippon,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Portiere,Berardi A.,VER,Free Agent,Marce,0,-4,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Portiere,Perilli,VER,Atletico Una Volta,Scap,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Portiere,Pozzi,FRO,Free Agent,Scap,0,-4,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Portiere,Gori,MON,AC Ciughina,Fracca,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Portiere,Palmisani,FRO,Atletico Una Volta,Damian,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Portiere,Christensen,FIO,Vecchie Rocce,Scap,-1,-4,1.0,2.0,2,0.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,2.5,5.5,2.75,5.75,2.5,5.5
+Portiere,Audero,INT,Free Agent,Scap,0,-4,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Portiere,Martinelli,FIO,Atletico Una Volta,Scap,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Portiere,Borbei,LEC,Nottigam Dese,Scap,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Portiere,Okoye,UDI,Garda Che Squadra,Scap,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Portiere,Frattali,FRO,AC Cipicchia,Marce,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Portiere,Mandas,LAZ,Atletico Una Volta,Marce,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Portiere,Brezzo,TOR,Atletico Una Volta,Damian,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Portiere,Malusa,UDI,AC Cipicchia,Scap,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Portiere,Scacchetti,SAS,Atletico Una Volta,Nippon,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Portiere,Theiner,SAS,Atletico Una Volta,Damian,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Portiere,Gasperini,BOL,Atletico Una Volta,Marce,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Portiere,Bartoccioni,MIL,Free Agent,Free Agent,0,-4,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Portiere,Nava,MIL,Atletico Una Volta,Fracca,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Portiere,Iliev,CAG,AC Ciughina,Damian,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Difensore,Dimarco,INT,AC Ciughina,Fracca,25,22,27.0,2.0,15,0.0,0.0,4.0,3.0,0.0,0.0,0.0,0.0,7.35,6.48,7.3,6.43,7.43,6.57
+Difensore,Hernandez,MIL,Free Agent,Fracca,0,15,20.0,0.0,13,6.0,0.0,1.0,2.0,1.0,0.0,0.0,0.0,6.48,6.17,6.31,6.0,6.58,6.27
+Difensore,Di Lorenzo,NAP,Nottigam Dese,Nippon,16,13,18.0,2.0,16,3.0,0.0,4.0,1.0,0.0,0.0,0.0,0.0,6.44,6.09,6.38,6.03,6.38,6.09
+Difensore,Acerbi,INT,Vecchie Rocce,Marce,12,9,14.0,2.0,13,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,6.63,6.37,6.65,6.38,6.62,6.35
+Difensore,Dumfries,INT,Atletico Una Volta,Damian,12,9,14.0,2.0,13,1.0,0.0,3.0,2.0,0.0,0.0,0.0,0.0,6.94,6.29,7.0,6.35,6.92,6.35
+Difensore,Bremer,JUV,Nottigam Dese,Marce,11,8,13.0,2.0,16,3.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,6.31,6.22,6.28,6.19,6.47,6.38
+Difensore,Carlos Augusto,INT,Free Agent,Damian,0,8,13.0,0.0,14,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,6.25,6.21,6.14,6.11,6.15,6.12
+Difensore,Gatti,JUV,Garda Che Squadra,Damian,11,8,13.0,2.0,14,4.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,6.41,6.05,6.43,6.07,6.54,6.18
+Difensore,Tomori,MIL,Nottigam Dese,Carle,9,6,11.0,2.0,15,2.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,6.2,5.93,6.47,6.2,6.33,6.07
+Difensore,Bastoni A.,INT,AC Cipicchia,Scap,8,5,10.0,2.0,11,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,6.14,6.0,6.14,6.23,6.36
+Difensore,Scalvini,ATA,AC Ciughina,Nippon,8,5,10.0,2.0,14,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,5.79,5.75,6.18,6.14,6.11,6.07
+Difensore,Zappacosta,ATA,Vecchie Rocce,Scap,8,5,10.0,2.0,13,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,6.02,5.98,5.96,5.92,6.15,6.12
+Difensore,Mancini,ROM,Nottigam Dese,Fracca,8,5,10.0,2.0,16,4.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,6.23,5.98,6.28,6.03,6.25,6.0
+Difensore,Buongiorno,TOR,AC Ciughina,Fracca,8,5,10.0,2.0,13,3.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,6.6,6.25,6.85,6.5,6.62,6.27
+Difensore,Dragusin,GEN,AC Cipicchia,Scap,8,5,10.0,2.0,16,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,6.38,6.13,6.44,6.19,6.38,6.13
+Difensore,Martinez Quarta,FIO,Atletico Una Volta,Damian,8,5,10.0,2.0,14,2.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,6.71,6.14,6.75,6.18,6.75,6.18
+Difensore,Toljan,SAS,AC Ciughina,Carle,8,5,10.0,2.0,15,1.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,6.27,5.97,6.23,5.93,5.9,5.67
+Difensore,Posch,BOL,Atletico Una Volta,Marce,7,4,9.0,2.0,11,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,6.09,6.05,6.14,6.09,6.18
+Difensore,Beukema,BOL,Vecchie Rocce,Marce,7,4,9.0,2.0,14,3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,6.14,6.18,6.25,6.29,6.25,6.36
+Difensore,Dossena,CAG,Vecchie Rocce,Carle,7,4,9.0,2.0,16,0.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,6.14,5.83,6.22,5.91,6.44,6.13
+Difensore,Cambiaso,JUV,Garda Che Squadra,Marce,7,4,9.0,2.0,15,4.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,6.3,6.1,6.37,6.17,6.29,6.07
+Difensore,Danilo,JUV,Atletico Una Volta,Nippon,6,3,8.0,2.0,11,4.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,6.25,6.16,6.14,6.05,6.14,6.05
+Difensore,Rrahmani,NAP,AC Ciughina,Carle,6,3,8.0,2.0,11,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.7,5.8,5.55,5.64,5.64,5.73
+Difensore,Darmian,INT,Free Agent,Carle,0,3,8.0,0.0,14,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.13,6.16,6.14,6.18,6.36,6.39
+Difensore,Baschirotto,LEC,Free Agent,Marce,0,3,8.0,0.0,15,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,5.87,5.9,5.87,5.9,5.77,5.8
+Difensore,Erlic,SAS,AC Cipicchia,Marce,6,3,8.0,2.0,16,3.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,5.88,5.78,5.69,5.59,5.88,5.78
+Difensore,Djimsiti,ATA,Vecchie Rocce,Nippon,6,3,8.0,2.0,14,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.91,6.02,6.13,6.23,6.17,6.27
+Difensore,Biraghi,FIO,Vecchie Rocce,Free Agent,6,3,8.0,2.0,12,3.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,6.17,5.88,6.08,5.79,6.0,5.79
+Difensore,Spinazzola,ROM,Free Agent,Free Agent,0,3,8.0,0.0,13,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,6.46,6.08,6.38,6.0,6.12,5.73
+Difensore,Bellanova,TOR,AC Ciughina,Scap,6,3,8.0,2.0,15,5.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,5.93,5.97,6.1,6.13,5.9,5.93
+Difensore,Zappa,CAG,AC Cipicchia,Marce,6,3,8.0,2.0,16,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,5.83,5.7,5.78,5.66,5.84,5.72
+Difensore,Caldirola,MON,Nottigam Dese,Marce,6,3,8.0,2.0,14,1.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,6.14,5.96,5.93,5.75,5.93,5.75
+Difensore,Lykogiannis,BOL,Nottigam Dese,Free Agent,6,3,8.0,2.0,10,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,6.28,6.03,6.23,6.0,6.32,6.0
+Difensore,Monterisi,FRO,Vecchie Rocce,Damian,6,3,8.0,2.0,13,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,6.48,6.02,6.35,5.88,6.42,5.96
+Difensore,Smalling,ROM,AC Cipicchia,Marce,5,2,7.0,2.0,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.5,5.5,5.33,5.33,5.0,5.0
+Difensore,Milenkovic,FIO,Nottigam Dese,Nippon,5,2,7.0,2.0,14,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.59,5.66,5.68,5.75,5.93,6.0
+Difensore,Ndicka,ROM,Garda Che Squadra,Carle,5,2,7.0,2.0,13,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.71,5.79,5.73,5.81,5.77,5.85
+Difensore,Mazzocchi,SAL,AC Ciughina,Nippon,5,2,7.0,2.0,16,3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,5.66,5.69,5.44,5.47,5.63,5.66
+Difensore,Kolasinac,ATA,Vecchie Rocce,Damian,5,2,7.0,2.0,13,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,6.38,6.23,6.5,6.35,6.27,6.12
+Difensore,Rodriguez,TOR,AC Ciughina,Damian,5,2,7.0,2.0,16,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.84,5.91,5.97,6.03,5.81,5.88
+Difensore,Gendrey,LEC,Vecchie Rocce,Scap,5,2,7.0,2.0,16,3.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,5.98,5.95,5.84,5.81,6.0,5.97
+Difensore,Sabelli,GEN,Free Agent,Fracca,0,2,7.0,0.0,14,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.93,6.0,6.14,6.21,6.0,6.07
+Difensore,Gallo,LEC,Nottigam Dese,Damian,5,2,7.0,2.0,13,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,6.17,6.1,5.85,5.77,5.88,5.88
+Difensore,Kyriakopoulos,MON,Atletico Una Volta,Scap,5,2,7.0,2.0,13,3.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,6.0,5.88,6.04,5.92,5.96,5.92
+Difensore,Terracciano F.,VER,Vecchie Rocce,Free Agent,5,2,7.0,2.0,15,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,6.05,6.02,6.03,6.0,5.97,6.0
+Difensore,Natan,NAP,AC Cipicchia,Damian,5,2,7.0,2.0,10,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,5.88,6.03,5.7,5.85,5.7,5.85
+Difensore,Kristiansen,BOL,Vecchie Rocce,Free Agent,5,2,7.0,2.0,12,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,5.92,5.92,5.88,5.88,5.95,5.95
+Difensore,Calafiori,BOL,Atletico Una Volta,Nippon,5,2,7.0,2.0,12,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.13,6.17,6.46,6.5,6.58,6.63
+Difensore,Romagnoli A.,LAZ,AC Ciughina,Fracca,4,1,6.0,2.0,12,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.83,5.92,5.67,5.75,5.96,6.04
+Difensore,Casale,LAZ,Atletico Una Volta,Free Agent,4,1,6.0,2.0,8,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.75,5.81,5.31,5.38,5.63,5.69
+Difensore,Calabria,MIL,Garda Che Squadra,Nippon,4,1,6.0,2.0,13,1.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,5.83,5.79,5.85,5.81,5.96,5.92
+Difensore,Thiaw,MIL,AC Ciughina,Nippon,4,1,6.0,2.0,11,3.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,5.57,5.8,5.73,5.95,5.73,5.95
+Difensore,Mari,MON,Vecchie Rocce,Damian,4,1,6.0,2.0,12,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.75,5.92,5.75,5.92,5.63,5.79
+Difensore,Cuadrado,INT,AC Ciughina,Free Agent,4,1,6.0,2.0,7,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,6.39,6.18,6.36,6.14,6.14,5.93
+Difensore,Marusic,LAZ,Garda Che Squadra,Fracca,4,1,6.0,2.0,16,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.56,5.63,5.41,5.47,5.47,5.5
+Difensore,Ostigard,NAP,AC Ciughina,Damian,4,1,6.0,2.0,9,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,6.17,5.83,6.06,5.72,6.3,6.0
+Difensore,Augello,CAG,Garda Che Squadra,Carle,4,1,6.0,2.0,13,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.77,5.81,5.65,5.69,5.92,5.96
+Difensore,Hateboer,ATA,Nottigam Dese,Marce,4,1,6.0,2.0,7,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,5.93,5.86,6.0,5.93,5.86,5.79
+Difensore,Olivera,NAP,Free Agent,Nippon,0,1,6.0,0.0,11,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,5.95,5.95,5.59,5.59,5.68,5.77
+Difensore,Kristensen R.,ROM,Garda Che Squadra,Fracca,4,1,6.0,2.0,13,2.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,5.98,5.9,5.92,5.85,6.0,5.92
+Difensore,Pirola,SAL,Nottigam Dese,Carle,4,1,6.0,2.0,13,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,5.62,5.46,5.58,5.42,5.65,5.5
+Difensore,Perez,UDI,Atletico Una Volta,Damian,4,1,6.0,2.0,16,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.78,5.88,5.41,5.5,5.56,5.66
+Difensore,Ebuehi,EMP,Nottigam Dese,Nippon,4,1,6.0,2.0,11,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,6.02,5.93,5.95,5.86,6.05,5.95
+Difensore,Pongracic,LEC,Vecchie Rocce,Fracca,4,1,6.0,2.0,16,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.94,6.06,6.03,6.16,6.0,6.13
+Difensore,Bradaric,SAL,AC Cipicchia,Nippon,4,1,6.0,2.0,16,3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,5.58,5.61,5.56,5.59,5.47,5.56
+Difensore,Cacace,EMP,AC Cipicchia,Nippon,4,1,6.0,2.0,12,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.58,5.75,5.41,5.59,5.54,5.71
+Difensore,Marchizza,FRO,AC Cipicchia,Nippon,4,1,6.0,2.0,13,1.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,6.29,6.02,6.27,6.0,6.23,5.96
+Difensore,Bani,GEN,AC Ciughina,Nippon,4,1,6.0,2.0,12,5.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,6.1,6.06,6.5,6.46,6.13,6.08
+Difensore,Ruggeri,ATA,Garda Che Squadra,Free Agent,4,1,6.0,2.0,15,2.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,6.2,6.07,6.3,6.17,6.3,6.17
+Difensore,Vasquez,GEN,Garda Che Squadra,Nippon,4,1,6.0,2.0,14,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.98,6.05,5.96,6.04,5.96,6.04
+Difensore,Oyono,FRO,Free Agent,Nippon,0,1,6.0,0.0,14,4.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,5.7,5.77,5.87,5.93,5.82,5.89
+Difensore,Lazaro,TOR,Vecchie Rocce,Nippon,4,1,6.0,2.0,12,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.96,6.04,5.79,5.88,5.75,5.83
+Difensore,De Winter,GEN,Nottigam Dese,Carle,4,1,6.0,2.0,12,4.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,5.73,5.81,5.75,5.83,6.04,6.13
+Difensore,Rugani,JUV,Atletico Una Volta,Damian,4,1,6.0,2.0,6,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,6.63,6.21,6.67,6.25,6.67,6.25
+Difensore,Vina,SAS,Vecchie Rocce,Scap,4,1,6.0,2.0,15,1.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,5.72,5.82,5.47,5.57,5.47,5.57
+Difensore,Dorgu,LEC,Garda Che Squadra,Free Agent,4,1,6.0,2.0,14,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.89,6.04,5.64,5.79,5.75,5.89
+Difensore,Bijol,UDI,AC Ciughina,Nippon,3,0,5.0,2.0,13,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.92,5.96,5.96,6.0,5.85,5.88
+Difensore,Lucumi,BOL,Garda Che Squadra,Carle,3,0,5.0,2.0,9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.08,6.08,6.22,6.22,6.13,6.13
+Difensore,Parisi,FIO,Free Agent,Nippon,0,0,5.0,0.0,10,3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,5.8,5.85,5.95,6.0,5.75,5.8
+Difensore,Luperto,EMP,Vecchie Rocce,Marce,3,0,5.0,2.0,16,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.75,5.78,5.91,5.94,6.0,6.03
+Difensore,Lazzari,LAZ,AC Cipicchia,Fracca,3,0,5.0,2.0,11,2.0,1.0,2.0,0.0,0.0,0.0,0.0,0.0,6.0,6.0,5.86,5.86,5.86,5.86
+Difensore,Llorente,ROM,Free Agent,Free Agent,0,0,5.0,0.0,14,3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,5.82,5.86,5.86,5.89,5.82,5.93
+Difensore,Ismajli,EMP,Atletico Una Volta,Scap,3,0,5.0,2.0,12,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.77,5.77,5.79,5.79,5.75,5.75
+Difensore,Florenzi,MIL,Free Agent,Scap,0,0,5.0,0.0,10,3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,5.93,5.98,5.77,5.82,5.77,5.91
+Difensore,Vojvoda,TOR,Free Agent,Fracca,0,0,5.0,0.0,9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.92,5.92,5.94,5.94,5.78,5.78
+Difensore,Ebosele,UDI,AC Cipicchia,Carle,3,0,5.0,2.0,16,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.95,6.02,5.78,5.84,5.94,6.0
+Difensore,Romagnoli S.,FRO,Atletico Una Volta,Carle,3,0,5.0,2.0,13,3.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,6.06,5.87,5.96,5.79,6.14,5.96
+Difensore,Birindelli,MON,Atletico Una Volta,Fracca,3,0,5.0,2.0,12,3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,5.88,5.92,5.92,5.96,5.92,5.96
+Difensore,Carboni A.,MON,Free Agent,Free Agent,0,0,5.0,0.0,12,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.13,6.17,6.0,6.04,5.79,5.83
+Difensore,Pedro Pereira,MON,AC Cipicchia,Marce,3,0,5.0,2.0,7,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,5.96,5.89,5.71,5.64,5.79,5.71
+Difensore,Kabasele,UDI,AC Cipicchia,Carle,3,0,5.0,2.0,10,5.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,6.08,5.93,5.64,5.5,5.77,5.64
+Difensore,Bereszynski,EMP,Vecchie Rocce,Damian,3,0,5.0,2.0,7,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.54,5.61,5.56,5.63,5.56,5.63
+Difensore,Haps,GEN,Vecchie Rocce,Nippon,3,0,5.0,2.0,8,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,5.91,5.78,6.06,5.94,5.88,5.75
+Difensore,Pavard,INT,AC Cipicchia,Nippon,3,0,5.0,2.0,6,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.04,6.13,6.17,6.25,5.8,5.9
+Difensore,Dodo,FIO,Atletico Una Volta,Nippon,2,-1,4.0,2.0,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.42,5.42,5.17,5.17,5.17,5.17
+Difensore,Mario Rui,NAP,Free Agent,Free Agent,0,-1,4.0,0.0,7,3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,5.79,5.86,5.64,5.71,5.56,5.63
+Difensore,Zalewski,ROM,AC Ciughina,Scap,2,-1,4.0,2.0,8,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,5.75,5.75,5.61,5.61,5.72,5.72
+Difensore,De Vrij,INT,AC Ciughina,Nippon,2,-1,4.0,2.0,11,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.2,6.2,6.25,6.25,6.3,6.3
+Difensore,Magnani,VER,Vecchie Rocce,Damian,2,-1,4.0,2.0,13,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.75,5.9,5.5,5.65,5.35,5.5
+Difensore,Bisseck,INT,Garda Che Squadra,Scap,2,-1,4.0,2.0,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.63,6.63,6.5,6.5,6.5,6.5
+Difensore,Zemura,UDI,Free Agent,Free Agent,0,-1,4.0,0.0,11,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.82,5.86,5.64,5.68,5.59,5.64
+Difensore,Karsdorp,ROM,Free Agent,Free Agent,0,-1,4.0,0.0,9,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,6.11,6.06,5.72,5.67,5.83,5.78
+Difensore,Goldaniga,CAG,Atletico Una Volta,Free Agent,2,-1,4.0,2.0,9,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.56,5.72,5.72,5.89,5.39,5.56
+Difensore,Amione,VER,Garda Che Squadra,Marce,2,-1,4.0,2.0,8,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.78,5.91,5.63,5.75,5.56,5.69
+Difensore,D'Ambrosio,MON,Nottigam Dese,Damian,2,-1,4.0,2.0,12,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,5.69,5.81,5.75,5.88,5.83,5.96
+Difensore,Simic,MIL,AC Ciughina,Marce,2,-1,4.0,2.0,1,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,10.25,7.25,10.5,7.5,10.5,7.5
+Difensore,Schuurs,TOR,AC Ciughina,Nippon,1,-2,3.0,2.0,9,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,6.19,5.97,6.22,6.0,6.0,5.78
+Difensore,Juan Jesus,NAP,AC Ciughina,Damian,1,-2,3.0,2.0,7,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.57,5.64,5.71,5.79,5.79,5.86
+Difensore,Hien,VER,Vecchie Rocce,Free Agent,1,-2,3.0,2.0,8,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,5.59,5.78,5.5,5.69,5.44,5.63
+Difensore,Djidji,TOR,Garda Che Squadra,Fracca,1,-2,3.0,2.0,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.13,6.13,6.0,6.0,6.0,6.0
+Difensore,Patric,LAZ,Vecchie Rocce,Damian,1,-2,3.0,2.0,8,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.88,5.94,5.56,5.63,5.88,5.94
+Difensore,Daniliuc,SAL,Garda Che Squadra,Nippon,1,-2,3.0,2.0,9,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.5,5.61,5.22,5.33,5.17,5.28
+Difensore,Ferrari,SAS,Garda Che Squadra,Scap,1,-2,3.0,2.0,8,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.63,5.69,5.5,5.56,5.44,5.5
+Difensore,De Silvestri,BOL,Garda Che Squadra,Marce,1,-2,3.0,2.0,7,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,6.57,6.14,6.5,6.07,6.69,6.31
+Difensore,Azzi,CAG,Garda Che Squadra,Free Agent,1,-2,3.0,2.0,9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.75,5.75,5.56,5.56,5.61,5.61
+Difensore,Ranieri,FIO,AC Cipicchia,Scap,1,-2,3.0,2.0,8,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.56,5.88,5.69,6.0,5.89,6.17
+Difensore,Dawidowicz,VER,Atletico Una Volta,Carle,1,-2,3.0,2.0,11,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.93,6.07,5.77,5.91,5.77,5.91
+Difensore,Okoli,FRO,Garda Che Squadra,Fracca,1,-2,3.0,2.0,13,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.56,5.75,5.73,5.92,5.69,5.88
+Difensore,Kayode,FIO,Atletico Una Volta,Fracca,1,-2,3.0,2.0,9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.03,6.03,6.17,6.17,6.39,6.39
+Difensore,Lirola,FRO,Vecchie Rocce,Carle,1,-2,3.0,2.0,6,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,6.71,6.13,6.67,6.08,6.42,5.83
+Difensore,Holm,ATA,Free Agent,Damian,0,-2,3.0,0.0,5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.1,6.1,5.83,5.83,6.0,6.0
+Difensore,Kristensen T.,UDI,AC Ciughina,Damian,1,-2,3.0,2.0,6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.58,5.58,5.5,5.5,5.64,5.64
+Difensore,Toloi,ATA,AC Cipicchia,Marce,0,-3,2.0,0.0,6,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,5.58,5.92,5.58,5.92,5.58,5.92
+Difensore,Bakker,ATA,AC Ciughina,Carle,0,-3,2.0,0.0,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.56,5.56,5.63,5.63,5.63,5.63
+Difensore,Izzo,MON,Nottigam Dese,Carle,0,-3,2.0,0.0,5,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.45,5.75,5.8,6.1,5.6,5.9
+Difensore,Doig,VER,AC Ciughina,Fracca,0,-3,2.0,0.0,8,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.53,5.59,5.5,5.56,5.56,5.63
+Difensore,Martin,GEN,Vecchie Rocce,Fracca,0,-3,2.0,0.0,5,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,5.1,5.3,5.5,5.67,5.2,5.4
+Difensore,Kalulu,MIL,AC Cipicchia,Carle,0,-3,2.0,0.0,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.83,5.83,6.0,6.0,5.75,5.75
+Difensore,Viti,SAS,Garda Che Squadra,Carle,0,-3,2.0,0.0,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.75,5.75,5.63,5.63,5.75,5.75
+Difensore,Gyomber,SAL,Nottigam Dese,Scap,0,-3,2.0,0.0,13,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.13,5.4,5.12,5.38,5.04,5.31
+Difensore,Faraoni,VER,Nottigam Dese,Carle,0,-3,2.0,0.0,11,5.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,5.82,5.95,5.27,5.41,5.41,5.55
+Difensore,Kamara,UDI,Free Agent,Free Agent,0,-3,2.0,0.0,11,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.07,6.07,5.5,5.5,5.64,5.64
+Difensore,Gila,LAZ,Garda Che Squadra,Fracca,0,-3,2.0,0.0,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.75,5.75,5.63,5.63,5.75,5.75
+Difensore,Coppola,VER,Nottigam Dese,Carle,0,-3,2.0,0.0,6,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.29,5.54,5.25,5.5,5.5,5.75
+Difensore,Fazio,SAL,Garda Che Squadra,Carle,0,-3,2.0,0.0,7,3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,5.79,5.86,5.86,5.93,5.43,5.64
+Difensore,Ferreira,UDI,Garda Che Squadra,Fracca,0,-3,2.0,0.0,12,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.54,5.75,5.42,5.63,5.29,5.5
+Difensore,Pedersen,SAS,Nottigam Dese,Marce,0,-3,2.0,0.0,9,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.5,5.67,5.39,5.56,5.56,5.72
+Difensore,Chatzidiakos,CAG,AC Ciughina,Free Agent,0,-3,2.0,0.0,8,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.69,5.75,5.13,5.19,5.25,5.31
+Difensore,Obert,CAG,Nottigam Dese,Carle,-1,-4,1.0,2.0,7,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.36,5.43,5.29,5.36,5.29,5.36
+Difensore,Hysaj,LAZ,Atletico Una Volta,Fracca,-1,-4,1.0,2.0,7,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.57,5.64,5.21,5.29,5.44,5.5
+Difensore,Kjaer,MIL,AC Ciughina,Scap,-1,-4,1.0,2.0,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.69,5.69,5.88,5.88,5.88,5.88
+Difensore,Alex Sandro,JUV,Free Agent,Free Agent,0,-4,1.0,0.0,3,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.92,6.08,5.5,5.67,5.67,5.83
+Difensore,Cittadini,MON,Nottigam Dese,Scap,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Difensore,Lovato,SAL,Atletico Una Volta,Carle,-1,-4,1.0,2.0,10,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.25,5.35,5.2,5.3,5.45,5.55
+Difensore,Masina,UDI,Garda Che Squadra,Free Agent,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.5,6.0
+Difensore,Soppy,TOR,Garda Che Squadra,Fracca,-1,-4,1.0,2.0,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,6.0,6.0,6.0,5.5,5.5
+Difensore,Vogliacco,GEN,Free Agent,Marce,0,-4,1.0,0.0,2,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,5.5,5.25,5.75,5.25,5.75
+Difensore,Celik,ROM,Vecchie Rocce,Scap,-1,-4,1.0,2.0,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.25,5.25,5.25,5.25,5.33,5.33
+Difensore,Cabal,VER,Vecchie Rocce,Damian,-1,-4,1.0,2.0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,6.0,6.5,6.5,6.0,6.0
+Difensore,Palomino,ATA,Nottigam Dese,Fracca,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Difensore,Bonifazi,BOL,Vecchie Rocce,Fracca,-1,-4,1.0,2.0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,6.0,6.0,6.0,6.0,6.0
+Difensore,Zanoli,NAP,Free Agent,Carle,0,-4,1.0,0.0,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,6.0,5.75,5.75,6.0,6.0
+Difensore,Bronn,SAL,Nottigam Dese,Free Agent,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Difensore,Tressoldi,SAS,Atletico Una Volta,Fracca,-1,-4,1.0,2.0,10,2.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,5.2,5.4,5.05,5.25,5.25,5.45
+Difensore,Matturro,GEN,Free Agent,Nippon,0,-4,1.0,0.0,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.25,5.25,5.0,6.0,4.25,5.25
+Difensore,Pellegrini Lu.,LAZ,Garda Che Squadra,Fracca,-1,-4,1.0,2.0,5,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.4,5.7,5.33,5.58,5.3,5.6
+Difensore,Venuti,LEC,Vecchie Rocce,Nippon,-1,-4,1.0,2.0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.75,5.75,5.0,5.0,5.0,5.0
+Difensore,Kumbulla,ROM,AC Ciughina,Marce,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Difensore,Sambia,SAL,Vecchie Rocce,Free Agent,-1,-4,1.0,2.0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.5,6.5,5.75,5.75,6.5,6.5
+Difensore,Missori,SAS,AC Cipicchia,Nippon,-1,-4,1.0,2.0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.5,5.5,6.0,6.0,5.5,5.5
+Difensore,Zima,TOR,Vecchie Rocce,Free Agent,-1,-4,1.0,2.0,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.92,5.92,6.17,6.17,6.0,6.0
+Difensore,Ehizibue,UDI,Garda Che Squadra,Nippon,-1,-4,1.0,2.0,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.5,5.5,5.5,5.5,6.0,6.0
+Difensore,Gunter,VER,AC Ciughina,Free Agent,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Difensore,Varnier,ATA,Nottigam Dese,Damian,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Difensore,Zortea,ATA,Free Agent,Damian,0,-4,1.0,0.0,4,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,6.75,6.13,6.5,5.88,6.75,6.13
+Difensore,Amey,BOL,Vecchie Rocce,Fracca,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Difensore,Soumaoro,BOL,AC Cipicchia,Carle,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Difensore,Capradossi,CAG,Garda Che Squadra,Damian,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Difensore,Di Pardo,CAG,Garda Che Squadra,Carle,-1,-4,1.0,2.0,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.75,5.75,5.5,5.5,5.5,5.5
+Difensore,Guarino,EMP,Nottigam Dese,Scap,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Difensore,Tonelli,EMP,Garda Che Squadra,Nippon,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Difensore,Walukiewicz,EMP,Garda Che Squadra,Scap,-1,-4,1.0,2.0,8,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.34,5.47,5.44,5.56,5.44,5.56
+Difensore,Kalaj,FRO,AC Ciughina,Carle,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Difensore,Kremenovic,FRO,AC Cipicchia,Carle,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Difensore,Hefti,GEN,Garda Che Squadra,Free Agent,-1,-4,1.0,2.0,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.5,5.5,5.1,5.1,5.17,5.17
+Difensore,De Sciglio,JUV,Atletico Una Volta,Carle,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Difensore,Turicchia,JUV,AC Ciughina,Carle,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Difensore,Kamenovic,LAZ,Garda Che Squadra,Damian,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Difensore,Dermaku,LEC,AC Cipicchia,Damian,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Difensore,Smajlovic,LEC,Nottigam Dese,Damian,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Difensore,Bakoune,MIL,Vecchie Rocce,Damian,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Difensore,Bartesaghi,MIL,Garda Che Squadra,Marce,-1,-4,1.0,2.0,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,6.0,6.17,6.17,6.0,6.0
+Difensore,Caldara,MIL,AC Cipicchia,Scap,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Difensore,Bettella,MON,Garda Che Squadra,Fracca,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Difensore,Carboni F.,MON,Garda Che Squadra,Nippon,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Difensore,Sampirisi,MON,Atletico Una Volta,Marce,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Difensore,Keramitsis,ROM,Nottigam Dese,Carle,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Difensore,Dellavalle,TOR,AC Ciughina,Fracca,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Difensore,NGuessan,TOR,Free Agent,Free Agent,0,-4,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Difensore,Ebosse,UDI,Garda Che Squadra,Scap,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.5,5.5,6.0,6.0
+Difensore,Guessand,UDI,Nottigam Dese,Damian,-1,-4,1.0,2.0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.5,5.5,5.0,5.0,6.0,6.0
+Difensore,Lusuardi,FRO,Free Agent,Fracca,0,-4,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Difensore,Pezzella,EMP,Nottigam Dese,Free Agent,-1,-4,1.0,2.0,4,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.5,5.63,5.0,5.13,5.5,5.6
+Difensore,Mina,FIO,Atletico Una Volta,Damian,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Difensore,Corazza,BOL,Atletico Una Volta,Scap,-1,-4,1.0,2.0,3,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.67,5.83,5.67,5.83,5.5,5.67
+Difensore,Huijsen,JUV,Atletico Una Volta,Carle,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,6.0
+Difensore,Comuzzo,FIO,Vecchie Rocce,Damian,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Difensore,Elia E.,SAL,AC Cipicchia,Marce,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Difensore,Kamensek,FRO,Garda Che Squadra,Carle,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Difensore,Macej,FRO,AC Cipicchia,Carle,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Difensore,Marianucci,EMP,AC Ciughina,Free Agent,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Difensore,Motoc,SAL,AC Cipicchia,Marce,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Difensore,Pellegrino,MIL,Vecchie Rocce,Free Agent,-1,-4,1.0,2.0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,5.0,5.0,5.0,5.0,5.0
+Difensore,Touba,LEC,Vecchie Rocce,Marce,-1,-4,1.0,2.0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.5,6.5,5.67,5.83,5.5,5.67
+Difensore,Wieteska,CAG,Vecchie Rocce,Carle,-1,-4,1.0,2.0,5,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,5.3,5.4,5.1,5.2,5.1,5.2
+Difensore,Sazonov,TOR,Vecchie Rocce,Free Agent,-1,-4,1.0,2.0,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.75,5.75,5.83,5.83,5.83,5.83
+Difensore,Bastoni S.,EMP,Free Agent,Carle,0,-4,1.0,0.0,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.63,5.63,5.63,5.63,5.38,5.38
+Difensore,Tikvic,UDI,Atletico Una Volta,Scap,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Difensore,Bonfanti,ATA,AC Ciughina,Scap,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,6.0,6.0,6.0
+Difensore,Palestra,ATA,AC Cipicchia,Damian,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Difensore,Falasca,SAS,Vecchie Rocce,Carle,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Difensore,Antolini,TOR,Garda Che Squadra,Marce,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Difensore,Donati,MON,Free Agent,Marce,0,-4,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Difensore,Indragoli,EMP,Free Agent,Marce,0,-4,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Difensore,Dalle Mura,FIO,AC Cipicchia,Scap,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Difensore,Calabrese,VER,Garda Che Squadra,Fracca,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Difensore,Pierozzi,FIO,Nottigam Dese,Damian,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Difensore,D'Avino,NAP,AC Ciughina,Carle,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Difensore,Del Lungo,ATA,Free Agent,Damian,0,-4,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Centrocampista,Calhanoglu,INT,Vecchie Rocce,Scap,33,30,35.0,2.0,16,3.0,0.0,2.0,7.0,6.0,0.0,0.0,0.0,7.83,6.48,7.78,6.44,7.75,6.47
+Centrocampista,Pulisic,MIL,Vecchie Rocce,Free Agent,31,28,33.0,2.0,14,1.0,0.0,4.0,5.0,0.0,0.0,0.0,0.0,7.89,6.57,7.75,6.43,7.75,6.5
+Centrocampista,Luis Alberto,LAZ,Garda Che Squadra,Free Agent,28,25,30.0,2.0,15,5.0,0.0,1.0,3.0,0.0,0.0,0.0,0.0,6.77,6.27,6.5,6.0,6.77,6.27
+Centrocampista,Zaccagni,LAZ,Vecchie Rocce,Damian,25,22,27.0,2.0,14,4.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,6.38,6.09,6.46,6.18,6.43,6.14
+Centrocampista,Koopmeiners,ATA,Vecchie Rocce,Scap,25,22,27.0,2.0,15,1.0,0.0,3.0,3.0,0.0,0.0,0.0,0.0,7.02,6.25,7.0,6.23,7.17,6.47
+Centrocampista,Bonaventura,FIO,Nottigam Dese,Marce,25,22,27.0,2.0,15,4.0,0.0,2.0,6.0,0.0,0.0,0.0,0.0,7.6,6.4,7.5,6.3,7.7,6.5
+Centrocampista,Rabiot,JUV,Vecchie Rocce,Scap,24,21,26.0,2.0,14,5.0,0.0,3.0,2.0,0.0,0.0,0.0,0.0,6.61,6.14,6.43,5.96,6.71,6.32
+Centrocampista,Politano,NAP,Garda Che Squadra,Damian,24,21,26.0,2.0,16,2.0,0.0,3.0,5.0,1.0,0.0,0.0,0.0,7.55,6.48,7.41,6.34,7.47,6.41
+Centrocampista,Candreva,SAL,Garda Che Squadra,Carle,23,20,25.0,2.0,15,1.0,0.0,3.0,3.0,0.0,0.0,0.0,0.0,7.0,6.23,6.7,5.93,6.87,6.03
+Centrocampista,Lauriente,SAS,Free Agent,Marce,0,19,24.0,0.0,16,1.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,6.2,5.92,5.94,5.66,6.06,5.84
+Centrocampista,Barella,INT,Garda Che Squadra,Damian,22,19,24.0,2.0,16,3.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,6.45,6.17,6.56,6.28,6.69,6.41
+Centrocampista,Samardzic,UDI,Vecchie Rocce,Carle,22,19,24.0,2.0,15,1.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,6.67,6.17,6.57,6.07,6.53,6.1
+Centrocampista,Chiesa,JUV,Vecchie Rocce,Damian,22,19,24.0,2.0,14,1.0,0.0,1.0,5.0,1.0,0.0,0.0,0.0,7.46,6.36,7.64,6.54,7.61,6.5
+Centrocampista,Colpani,MON,Atletico Una Volta,Free Agent,22,19,24.0,2.0,16,0.0,0.0,1.0,6.0,0.0,0.0,0.0,0.0,7.64,6.45,7.5,6.31,7.81,6.63
+Centrocampista,Felipe Anderson,LAZ,AC Ciughina,Marce,21,18,23.0,2.0,16,1.0,0.0,5.0,1.0,0.0,0.0,0.0,0.0,6.44,5.97,6.25,5.78,6.19,5.72
+Centrocampista,Ferguson,BOL,AC Ciughina,Free Agent,20,17,22.0,2.0,16,4.0,0.0,2.0,3.0,0.0,0.0,0.0,0.0,6.81,6.25,6.94,6.38,7.09,6.53
+Centrocampista,Mkhitaryan,INT,AC Cipicchia,Free Agent,20,17,22.0,2.0,16,1.0,0.0,4.0,2.0,0.0,0.0,0.0,0.0,6.92,6.33,7.0,6.41,7.03,6.5
+Centrocampista,Kostic,JUV,Vecchie Rocce,Free Agent,17,14,19.0,2.0,14,2.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,6.25,6.11,5.93,5.79,5.96,5.96
+Centrocampista,Zielinski,NAP,AC Ciughina,Nippon,17,14,19.0,2.0,15,0.0,0.0,2.0,2.0,1.0,0.0,0.0,0.0,6.62,6.08,6.23,5.7,6.67,6.13
+Centrocampista,Ederson,ATA,Nottigam Dese,Marce,17,14,19.0,2.0,16,2.0,0.0,1.0,4.0,0.0,0.0,0.0,0.0,6.83,6.08,7.09,6.34,6.97,6.22
+Centrocampista,Lobotka,NAP,AC Ciughina,Nippon,15,12,17.0,2.0,16,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,6.08,6.08,6.03,6.03,6.22,6.22
+Centrocampista,Frattesi,INT,Garda Che Squadra,Free Agent,15,12,17.0,2.0,11,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,6.36,6.14,6.29,6.08,6.32,6.09
+Centrocampista,Anguissa,NAP,Nottigam Dese,Marce,14,11,16.0,2.0,14,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.14,6.18,5.79,5.82,5.86,5.89
+Centrocampista,Reijnders,MIL,Nottigam Dese,Carle,14,11,16.0,2.0,16,4.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,6.47,6.16,6.38,6.06,6.56,6.25
+Centrocampista,Malinovskyi,GEN,Atletico Una Volta,Carle,14,11,16.0,2.0,11,6.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,6.3,5.93,6.36,6.0,6.45,6.05
+Centrocampista,Pereyra,UDI,Nottigam Dese,Fracca,14,11,16.0,2.0,11,3.0,0.0,2.0,2.0,1.0,0.0,0.0,0.0,6.59,6.0,6.41,5.82,6.68,6.09
+Centrocampista,Orsolini,BOL,AC Ciughina,Fracca,13,10,15.0,2.0,11,1.0,0.0,0.0,4.0,1.0,1.0,0.0,0.0,7.07,6.3,6.77,6.0,7.0,6.23
+Centrocampista,Vlasic,TOR,AC Ciughina,Damian,13,10,15.0,2.0,14,1.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,6.13,5.8,6.29,5.96,6.04,5.71
+Centrocampista,Strefezza,LEC,Free Agent,Carle,0,9,14.0,0.0,15,3.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,6.1,6.0,6.17,6.07,5.93,5.83
+Centrocampista,Lazovic,VER,Atletico Una Volta,Carle,12,9,14.0,2.0,12,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,6.21,5.96,6.13,5.88,6.13,5.88
+Centrocampista,Locatelli,JUV,AC Cipicchia,Carle,12,9,14.0,2.0,15,4.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,6.18,6.05,6.23,6.1,6.3,6.17
+Centrocampista,Cristante,ROM,AC Ciughina,Fracca,12,9,14.0,2.0,16,3.0,0.0,2.0,2.0,0.0,0.0,0.0,0.0,6.53,6.13,6.5,6.09,6.41,6.06
+Centrocampista,Ilic,TOR,Free Agent,Damian,0,9,14.0,0.0,14,2.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,6.32,6.04,6.25,5.96,6.07,5.93
+Centrocampista,Pasalic,ATA,Vecchie Rocce,Damian,12,9,14.0,2.0,13,0.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,6.48,5.94,6.5,5.96,6.54,6.04
+Centrocampista,Duncan,FIO,Atletico Una Volta,Carle,12,9,14.0,2.0,12,2.0,0.0,3.0,1.0,0.0,0.0,0.0,0.0,6.94,6.52,6.96,6.54,6.67,6.33
+Centrocampista,Brescianini,FRO,Free Agent,Scap,0,9,14.0,0.0,14,1.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,6.57,6.11,6.54,6.04,6.54,6.04
+Centrocampista,Ndoye,BOL,AC Ciughina,Damian,12,9,14.0,2.0,15,3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,6.05,6.08,6.06,6.09,6.11,6.14
+Centrocampista,Ciurria,MON,Vecchie Rocce,Free Agent,11,8,13.0,2.0,15,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,5.8,5.8,5.9,5.9,6.2,6.13
+Centrocampista,Elmas,NAP,Free Agent,Marce,0,8,13.0,0.0,8,2.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,6.63,6.0,6.25,5.63,6.28,5.72
+Centrocampista,El Shaarawy,ROM,Nottigam Dese,Nippon,11,8,13.0,2.0,11,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,6.5,5.95,6.46,5.96,6.32,5.77
+Centrocampista,Henrique,SAS,Free Agent,Free Agent,0,8,13.0,0.0,11,3.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,6.61,6.11,6.68,6.18,6.64,6.14
+Centrocampista,Frendrup,GEN,Nottigam Dese,Scap,11,8,13.0,2.0,16,4.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,6.33,6.2,6.41,6.28,6.16,6.16
+Centrocampista,Oudin,LEC,Vecchie Rocce,Free Agent,11,8,13.0,2.0,10,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,6.73,6.13,6.75,6.15,6.5,5.9
+Centrocampista,Freuler,BOL,Atletico Una Volta,Nippon,11,8,13.0,2.0,12,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.96,6.04,6.13,6.21,6.25,6.33
+Centrocampista,Pessina,MON,Atletico Una Volta,Damian,10,7,12.0,2.0,16,2.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,6.09,5.91,6.22,6.03,6.16,6.03
+Centrocampista,Coulibaly L.,SAL,Free Agent,Carle,0,7,12.0,0.0,11,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.59,5.68,5.82,5.91,5.77,5.86
+Centrocampista,De Roon,ATA,AC Cipicchia,Fracca,10,7,12.0,2.0,15,6.0,0.0,4.0,0.0,0.0,0.0,0.0,0.0,6.1,6.03,6.1,6.03,6.3,6.23
+Centrocampista,Arthur,FIO,Garda Che Squadra,Scap,10,7,12.0,2.0,16,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,6.09,6.06,6.31,6.28,6.22,6.19
+Centrocampista,Walace,UDI,Vecchie Rocce,Carle,10,7,12.0,2.0,16,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,5.91,5.75,5.88,5.72,5.84,5.69
+Centrocampista,Fazzini,EMP,Nottigam Dese,Fracca,10,7,12.0,2.0,13,3.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,6.25,6.06,6.15,5.96,6.11,5.93
+Centrocampista,De Ketelaere,ATA,AC Cipicchia,Fracca,10,7,12.0,2.0,14,0.0,0.0,4.0,2.0,0.0,0.0,0.0,0.0,6.73,6.16,6.68,6.11,6.77,6.15
+Centrocampista,Oristanio,CAG,AC Ciughina,Nippon,10,7,12.0,2.0,15,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,6.4,6.17,6.5,6.27,6.1,5.87
+Centrocampista,Viola,CAG,AC Ciughina,Scap,10,7,12.0,2.0,9,1.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,7.11,6.39,6.94,6.22,7.11,6.39
+Centrocampista,Ramadani,LEC,Atletico Una Volta,Damian,10,7,12.0,2.0,15,7.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,5.92,5.95,5.9,5.93,5.97,6.0
+Centrocampista,Kamada,LAZ,Free Agent,Marce,0,7,12.0,0.0,10,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,6.28,5.88,6.1,5.7,5.73,5.45
+Centrocampista,Guendouzi,LAZ,Free Agent,Free Agent,0,7,12.0,0.0,13,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.98,5.98,6.08,6.08,6.0,6.0
+Centrocampista,Pellegrini Lo.,ROM,Nottigam Dese,Damian,9,6,11.0,2.0,8,3.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,5.97,5.78,5.88,5.69,5.75,5.56
+Centrocampista,Lovric,UDI,AC Ciughina,Carle,9,6,11.0,2.0,14,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,5.64,5.75,5.57,5.68,5.71,5.82
+Centrocampista,Ikone,FIO,Free Agent,Fracca,0,6,11.0,0.0,8,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.75,5.88,5.81,5.94,5.56,5.69
+Centrocampista,Kastanos,SAL,Nottigam Dese,Carle,9,6,11.0,2.0,12,2.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,6.1,5.85,5.88,5.69,6.08,5.88
+Centrocampista,Loftus Cheek,MIL,AC Cipicchia,Marce,9,6,11.0,2.0,12,2.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,6.29,6.04,6.21,5.96,6.33,6.08
+Centrocampista,Gagliardini,MON,Free Agent,Damian,0,6,11.0,0.0,16,3.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,6.11,5.95,6.34,6.19,6.38,6.28
+Centrocampista,Tameze,TOR,AC Cipicchia,Carle,9,6,11.0,2.0,13,3.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,6.08,6.04,6.31,6.27,6.08,6.04
+Centrocampista,Bove,ROM,Nottigam Dese,Marce,9,6,11.0,2.0,13,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,6.08,6.0,5.92,5.85,6.12,6.12
+Centrocampista,Cambiaghi,EMP,Free Agent,Marce,0,6,11.0,0.0,15,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,6.02,5.95,6.07,6.0,6.07,6.0
+Centrocampista,Mckennie,JUV,AC Cipicchia,Damian,9,6,11.0,2.0,15,3.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,6.12,6.15,6.03,6.07,6.19,6.22
+Centrocampista,Aebischer,BOL,Nottigam Dese,Nippon,9,6,11.0,2.0,15,4.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,6.12,6.18,5.97,6.03,6.0,6.07
+Centrocampista,Cancellieri,EMP,Nottigam Dese,Nippon,9,6,11.0,2.0,15,4.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,6.15,6.02,6.17,6.03,6.2,6.07
+Centrocampista,Thorstvedt,SAS,Garda Che Squadra,Nippon,9,6,11.0,2.0,13,3.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,6.69,6.12,6.67,6.04,6.65,6.08
+Centrocampista,Chukwueze,MIL,Garda Che Squadra,Damian,9,6,11.0,2.0,10,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,5.73,5.63,5.5,5.4,5.67,5.56
+Centrocampista,Lopez,FIO,Vecchie Rocce,Damian,8,5,10.0,2.0,7,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,5.46,5.61,5.44,5.56,5.63,5.75
+Centrocampista,Cataldi,LAZ,Atletico Una Volta,Fracca,8,5,10.0,2.0,11,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.73,5.86,5.46,5.58,5.67,5.79
+Centrocampista,Bajrami,SAS,AC Cipicchia,Nippon,8,5,10.0,2.0,11,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,6.23,5.95,6.04,5.79,6.05,5.77
+Centrocampista,Jankto,CAG,AC Cipicchia,Scap,8,5,10.0,2.0,9,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,6.28,6.06,5.89,5.67,5.69,5.56
+Centrocampista,Mandragora,FIO,Nottigam Dese,Marce,8,5,10.0,2.0,12,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,6.19,5.9,6.17,5.88,6.21,5.92
+Centrocampista,Badelj,GEN,Garda Che Squadra,Free Agent,8,5,10.0,2.0,12,4.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,5.69,5.77,5.96,6.04,5.83,5.92
+Centrocampista,Miretti,JUV,Garda Che Squadra,Carle,8,5,10.0,2.0,10,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,6.28,6.08,5.95,5.75,6.15,5.95
+Centrocampista,Rovella,LAZ,Garda Che Squadra,Damian,8,5,10.0,2.0,11,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.89,5.98,5.95,6.09,6.0,6.13
+Centrocampista,Gonzalez J.,LEC,AC Ciughina,Fracca,8,5,10.0,2.0,10,5.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,6.0,5.85,6.1,5.95,6.2,6.05
+Centrocampista,Makoumbou,CAG,Atletico Una Volta,Free Agent,8,5,10.0,2.0,15,1.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,5.9,5.8,5.93,5.83,5.87,5.77
+Centrocampista,Boloca,SAS,AC Cipicchia,Damian,8,5,10.0,2.0,14,2.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,5.96,5.89,5.89,5.82,6.0,5.93
+Centrocampista,Folorunsho,VER,Atletico Una Volta,Scap,8,5,10.0,2.0,16,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,5.89,5.77,5.91,5.78,5.91,5.78
+Centrocampista,Paredes,ROM,Free Agent,Damian,0,5,10.0,0.0,15,7.0,0.0,3.0,0.0,0.0,0.0,0.0,0.0,5.77,5.8,5.7,5.73,5.5,5.67
+Centrocampista,Suslov,VER,Atletico Una Volta,Scap,8,5,10.0,2.0,10,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,5.95,5.85,5.91,5.82,5.85,5.75
+Centrocampista,Nandez,CAG,Nottigam Dese,Free Agent,7,4,9.0,2.0,11,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,6.39,6.02,6.15,5.88,6.13,5.83
+Centrocampista,Strootman,GEN,AC Cipicchia,Carle,7,4,9.0,2.0,9,2.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,6.03,5.92,6.22,6.11,6.06,5.94
+Centrocampista,Bohinen,SAL,Atletico Una Volta,Scap,7,4,9.0,2.0,11,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.73,5.77,5.36,5.41,5.55,5.59
+Centrocampista,Duda,VER,AC Ciughina,Marce,7,4,9.0,2.0,14,4.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,6.16,6.09,5.89,5.82,6.0,5.96
+Centrocampista,Moro,BOL,AC Ciughina,Fracca,7,4,9.0,2.0,9,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,6.33,6.0,6.61,6.28,6.44,6.11
+Centrocampista,Saelemaekers,BOL,AC Ciughina,Free Agent,7,4,9.0,2.0,11,4.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,5.66,5.93,5.55,5.82,5.64,5.91
+Centrocampista,Blin,LEC,Garda Che Squadra,Fracca,7,4,9.0,2.0,10,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,6.05,5.9,5.95,5.8,5.8,5.75
+Centrocampista,Reinier,FRO,Vecchie Rocce,Marce,7,4,9.0,2.0,7,2.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,6.61,6.04,6.64,6.07,6.57,6.14
+Centrocampista,Aouar,ROM,Nottigam Dese,Carle,6,3,8.0,2.0,6,2.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,7.13,6.29,6.5,5.86,6.83,6.0
+Centrocampista,Baldanzi,EMP,AC Cipicchia,Damian,6,3,8.0,2.0,10,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,6.3,6.05,6.25,6.0,6.4,6.15
+Centrocampista,Ricci,TOR,Garda Che Squadra,Carle,6,3,8.0,2.0,10,1.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,6.03,5.88,6.0,5.85,5.85,5.7
+Centrocampista,Marin,EMP,Free Agent,Nippon,0,3,8.0,0.0,12,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.77,5.77,5.92,5.92,5.88,5.88
+Centrocampista,Brekalo,FIO,AC Cipicchia,Nippon,6,3,8.0,2.0,9,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,6.25,5.92,6.33,6.0,6.22,5.89
+Centrocampista,Grassi,EMP,Garda Che Squadra,Carle,6,3,8.0,2.0,13,4.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,5.62,5.85,5.65,5.88,5.68,5.89
+Centrocampista,Maleh,EMP,Free Agent,Free Agent,0,3,8.0,0.0,13,7.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.44,5.71,5.5,5.77,5.54,5.81
+Centrocampista,Mazzitelli,FRO,Garda Che Squadra,Marce,6,3,8.0,2.0,11,2.0,1.0,0.0,2.0,0.0,0.0,0.0,0.0,6.55,6.18,6.45,6.09,6.68,6.32
+Centrocampista,Kovalenko,EMP,Nottigam Dese,Scap,6,3,8.0,2.0,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,7.0,6.33,7.1,6.3,7.08,6.42
+Centrocampista,Thorsby,GEN,AC Ciughina,Nippon,6,3,8.0,2.0,9,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,6.28,5.89,6.35,6.0,6.39,5.89
+Centrocampista,Musah,MIL,AC Ciughina,Carle,6,3,8.0,2.0,12,4.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,5.81,5.9,5.92,6.0,5.92,6.0
+Centrocampista,Legowski,SAL,Garda Che Squadra,Marce,6,3,8.0,2.0,12,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.69,5.73,5.54,5.58,5.54,5.58
+Centrocampista,Lindstrom,NAP,Atletico Una Volta,Marce,6,3,8.0,2.0,6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.83,5.83,5.58,5.58,5.67,5.67
+Centrocampista,Payero,UDI,Atletico Una Volta,Fracca,6,3,8.0,2.0,13,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,5.69,5.73,5.85,5.88,5.67,5.79
+Centrocampista,Radonjic,TOR,Free Agent,Marce,0,2,7.0,0.0,7,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,7.32,6.04,7.14,5.86,7.07,5.79
+Centrocampista,Karamoh,TOR,AC Ciughina,Nippon,5,2,7.0,2.0,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.88,5.88,5.9,5.9,5.83,5.83
+Centrocampista,Weah,JUV,AC Ciughina,Free Agent,5,2,7.0,2.0,8,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,6.09,6.03,5.75,5.69,5.88,5.81
+Centrocampista,Caso,FRO,Nottigam Dese,Damian,5,2,7.0,2.0,8,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.91,6.03,5.81,5.94,5.94,6.06
+Centrocampista,Vecino,LAZ,AC Cipicchia,Damian,5,2,7.0,2.0,8,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,6.69,6.0,6.67,6.06,6.75,6.06
+Centrocampista,Maggiore,SAL,Nottigam Dese,Marce,5,2,7.0,2.0,11,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.55,5.77,5.36,5.59,5.09,5.32
+Centrocampista,Garritano,FRO,Atletico Una Volta,Free Agent,5,2,7.0,2.0,8,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.88,5.94,5.81,5.88,6.13,6.06
+Centrocampista,Carboni V.,MON,AC Cipicchia,Damian,5,2,7.0,2.0,5,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,7.05,6.25,6.9,6.1,7.1,6.3
+Centrocampista,Sottil,FIO,Vecchie Rocce,Nippon,5,2,7.0,2.0,8,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,6.34,5.84,6.15,5.75,5.94,5.44
+Centrocampista,Miranchuk,ATA,Vecchie Rocce,Carle,5,2,7.0,2.0,6,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,6.67,6.0,6.67,6.0,6.58,5.92
+Centrocampista,Cajuste,NAP,Free Agent,Scap,0,2,7.0,0.0,8,4.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,5.81,5.94,5.56,5.69,5.5,5.72
+Centrocampista,Prati,CAG,Free Agent,Fracca,0,2,7.0,0.0,11,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.91,6.05,5.95,6.09,5.91,6.05
+Centrocampista,Saponara,VER,Free Agent,Fracca,0,1,6.0,0.0,6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.96,5.96,5.75,5.75,5.63,5.63
+Centrocampista,Hongla,VER,AC Ciughina,Marce,4,1,6.0,2.0,12,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.98,5.98,5.92,5.92,5.92,5.92
+Centrocampista,Linetty,TOR,Garda Che Squadra,Fracca,4,1,6.0,2.0,11,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.8,6.07,5.95,6.23,5.63,5.88
+Centrocampista,Barrenechea,FRO,Nottigam Dese,Free Agent,4,1,6.0,2.0,14,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.66,5.88,5.82,6.04,5.93,6.14
+Centrocampista,Kaba,LEC,Garda Che Squadra,Free Agent,4,1,6.0,2.0,11,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,5.75,5.89,5.64,5.77,5.82,5.95
+Centrocampista,Sanches,ROM,AC Ciughina,Nippon,4,1,6.0,2.0,4,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,6.56,6.06,6.5,6.0,6.5,6.0
+Centrocampista,Tchatchoua,VER,Nottigam Dese,Free Agent,4,1,6.0,2.0,8,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,6.03,5.91,6.06,5.94,5.93,5.79
+Centrocampista,Castillejo,SAS,Nottigam Dese,Damian,4,1,6.0,2.0,6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.17,6.17,5.67,5.67,5.67,5.67
+Centrocampista,Ibrahimovic,FRO,Atletico Una Volta,Damian,4,1,6.0,2.0,7,1.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,6.64,6.14,6.29,5.79,6.75,6.17
+Centrocampista,Krunic,MIL,Nottigam Dese,Marce,3,0,5.0,2.0,9,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.67,5.83,5.61,5.78,5.44,5.61
+Centrocampista,Messias,GEN,Vecchie Rocce,Fracca,3,0,5.0,2.0,4,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,7.13,6.38,7.2,6.6,7.13,6.38
+Centrocampista,Sulemana,CAG,Atletico Una Volta,Carle,3,0,5.0,2.0,8,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.59,5.72,5.63,5.75,5.75,5.88
+Centrocampista,Ranocchia,EMP,Free Agent,Nippon,0,0,5.0,0.0,7,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.79,6.0,6.0,6.25,5.86,6.07
+Centrocampista,Rafia,LEC,Free Agent,Nippon,0,0,5.0,0.0,13,4.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,5.73,5.81,5.62,5.69,5.79,5.88
+Centrocampista,Gelli,FRO,AC Ciughina,Scap,3,0,5.0,2.0,7,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.93,6.07,6.0,6.14,6.19,6.31
+Centrocampista,Isaksen,LAZ,Free Agent,Carle,0,0,5.0,0.0,6,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.88,5.96,5.79,5.86,5.69,5.75
+Centrocampista,Klaassen,INT,Garda Che Squadra,Damian,3,0,5.0,2.0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.5,5.5,6.0,6.0,6.0,6.0
+Centrocampista,Fagioli,JUV,Nottigam Dese,Scap,2,-1,4.0,2.0,6,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,6.08,5.92,6.17,6.0,6.08,5.92
+Centrocampista,Castrovilli,FIO,Free Agent,Marce,0,-1,4.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Centrocampista,Barak,FIO,Free Agent,Fracca,0,-1,4.0,0.0,4,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.81,5.94,5.5,5.63,5.25,5.38
+Centrocampista,Mboula,VER,Vecchie Rocce,Damian,2,-1,4.0,2.0,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.42,5.42,5.38,5.38,5.38,5.38
+Centrocampista,Volpato,SAS,AC Ciughina,Marce,2,-1,4.0,2.0,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.31,6.31,6.17,6.17,6.0,6.0
+Centrocampista,Machin,MON,Atletico Una Volta,Damian,2,-1,4.0,2.0,7,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.61,5.75,5.29,5.43,5.67,5.75
+Centrocampista,Akpa Akpro,MON,Nottigam Dese,Fracca,2,-1,4.0,2.0,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.5,6.5,6.0,6.0,6.0,6.0
+Centrocampista,Vignato S.,MON,Free Agent,Damian,0,-1,4.0,0.0,8,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,6.25,6.0,6.25,6.0,6.5,6.25
+Centrocampista,Fabbian,BOL,Atletico Una Volta,Scap,2,-1,4.0,2.0,3,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,8.5,6.67,7.75,6.38,7.75,6.38
+Centrocampista,Nicolussi,JUV,Nottigam Dese,Fracca,2,-1,4.0,2.0,2,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,6.5,6.0,6.5,6.0,6.25,6.25
+Centrocampista,Adli,MIL,Atletico Una Volta,Carle,2,-1,4.0,2.0,6,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.96,6.04,5.64,5.71,5.75,5.83
+Centrocampista,Racic,SAS,Free Agent,Scap,0,-1,4.0,0.0,7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.5,5.5,5.43,5.43,5.43,5.43
+Centrocampista,Cabral,SAL,Garda Che Squadra,Carle,2,-1,4.0,2.0,9,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,6.14,5.86,6.39,6.11,6.06,5.78
+Centrocampista,Kutlu,GEN,Garda Che Squadra,Free Agent,2,-1,4.0,2.0,6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.96,5.96,6.08,6.08,5.92,5.92
+Centrocampista,Pobega,MIL,AC Ciughina,Carle,1,-2,3.0,2.0,7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.07,6.07,5.93,5.93,5.86,5.86
+Centrocampista,Bennacer,MIL,Garda Che Squadra,Fracca,1,-2,3.0,2.0,2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.38,5.63,5.75,6.0,6.0,6.25
+Centrocampista,Harroui,FRO,Atletico Una Volta,Fracca,0,-3,2.0,0.0,3,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,8.67,6.67,7.88,6.38,7.88,6.38
+Centrocampista,Deiola,CAG,Atletico Una Volta,Nippon,0,-3,2.0,0.0,7,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.46,5.61,5.5,5.63,5.36,5.5
+Centrocampista,Mancosu,CAG,AC Cipicchia,Nippon,0,-3,2.0,0.0,3,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,4.33,5.33,5.0,6.0,4.5,5.5
+Centrocampista,Maldini,EMP,AC Cipicchia,Marce,0,-3,2.0,0.0,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.83,5.83,5.83,5.83,6.0,6.0
+Centrocampista,Obiang,SAS,Free Agent,Scap,0,-3,2.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Centrocampista,Serdar,VER,Free Agent,Scap,0,-3,2.0,0.0,6,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.88,5.96,5.5,5.58,5.5,5.58
+Centrocampista,Rog,CAG,AC Ciughina,Free Agent,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Centrocampista,Jagiello,GEN,Vecchie Rocce,Damian,-1,-4,1.0,2.0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.5,5.5,5.0,5.0,5.0,5.0
+Centrocampista,Asllani,INT,Vecchie Rocce,Fracca,-1,-4,1.0,2.0,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.17,6.17,6.0,6.0,6.33,6.33
+Centrocampista,Iling Jr.,JUV,AC Cipicchia,Nippon,-1,-4,1.0,2.0,5,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,6.2,6.0,6.3,6.1,6.0,5.8
+Centrocampista,Basic,LAZ,AC Cipicchia,Nippon,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Centrocampista,Gaetano,NAP,Garda Che Squadra,Damian,-1,-4,1.0,2.0,1,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,10.0,7.0,7.75,6.25,7.75,6.25
+Centrocampista,Sensi,INT,Free Agent,Nippon,0,-4,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Centrocampista,Pogba,JUV,Atletico Una Volta,Scap,-1,-4,1.0,2.0,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.13,6.13,6.25,6.25,6.0,6.0
+Centrocampista,Zarraga,UDI,Atletico Una Volta,Damian,-1,-4,1.0,2.0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,5.0,4.0,4.0,4.5,4.5
+Centrocampista,Baez,FRO,AC Cipicchia,Marce,-1,-4,1.0,2.0,9,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.94,6.0,5.67,5.72,5.78,5.83
+Centrocampista,El Azzouzi,BOL,Nottigam Dese,Scap,-1,-4,1.0,2.0,4,2.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,5.94,5.94,6.33,6.17,6.38,6.25
+Centrocampista,Bidaoui,FRO,Free Agent,Free Agent,0,-4,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Centrocampista,Romero,MIL,Atletico Una Volta,Nippon,-1,-4,1.0,2.0,2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.63,5.88,5.25,5.5,5.5,5.75
+Centrocampista,Demme,NAP,AC Cipicchia,Free Agent,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Centrocampista,Ceide,SAS,AC Ciughina,Marce,-1,-4,1.0,2.0,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.75,5.75,5.5,5.5,5.83,5.83
+Centrocampista,Gineitis,TOR,Garda Che Squadra,Fracca,-1,-4,1.0,2.0,4,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.5,5.75,5.63,5.88,5.25,5.5
+Centrocampista,Pafundi,UDI,Garda Che Squadra,Nippon,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Centrocampista,Quina,UDI,Atletico Una Volta,Marce,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Centrocampista,Hrustic,VER,Atletico Una Volta,Scap,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Centrocampista,Lulic K.,FRO,AC Cipicchia,Free Agent,-1,-4,1.0,2.0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,6.0,6.0,6.0,6.0,6.0
+Centrocampista,Pisilli,ROM,Free Agent,Nippon,0,-4,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Centrocampista,Camara,UDI,AC Ciughina,Fracca,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Centrocampista,Adopo,ATA,AC Ciughina,Damian,-1,-4,1.0,2.0,2,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,6.5,6.0,5.75,5.25,5.5,5.5
+Centrocampista,Cortinovis,ATA,Vecchie Rocce,Nippon,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Centrocampista,Muhameti,ATA,Free Agent,Fracca,0,-4,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Centrocampista,Vorlicky,ATA,Atletico Una Volta,Free Agent,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Centrocampista,Belardinelli,EMP,AC Ciughina,Carle,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Centrocampista,Galdames,GEN,Nottigam Dese,Carle,-1,-4,1.0,2.0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,5.0,0.0,0.0,0.0,0.0
+Centrocampista,Lipani,SAS,Free Agent,Nippon,0,-4,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Centrocampista,Ake,UDI,Vecchie Rocce,Fracca,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Centrocampista,Yildiz,JUV,AC Cipicchia,Carle,-1,-4,1.0,2.0,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.75,5.75,6.0,6.0,5.5,5.75
+Centrocampista,Gonzalez D.,LAZ,AC Ciughina,Scap,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Centrocampista,Berisha,LEC,Nottigam Dese,Free Agent,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Centrocampista,Listkowski,LEC,Atletico Una Volta,Damian,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Centrocampista,Samek,LEC,AC Cipicchia,Damian,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Centrocampista,Vulturar,LEC,Nottigam Dese,Free Agent,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Centrocampista,Bondo,MON,Nottigam Dese,Damian,-1,-4,1.0,2.0,5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.9,5.9,6.0,6.0,6.0,6.0
+Centrocampista,Zerbin,NAP,Nottigam Dese,Marce,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Centrocampista,Faticanti,LEC,AC Ciughina,Marce,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Centrocampista,Pagano,ROM,Garda Che Squadra,Fracca,-1,-4,1.0,2.0,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,6.0,6.25,6.25,6.0,6.0
+Centrocampista,Joselito,VER,AC Cipicchia,Damian,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Centrocampista,Infantino,FIO,Atletico Una Volta,Marce,-1,-4,1.0,2.0,2,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.25,5.5,5.25,5.5,5.25,5.5
+Centrocampista,Traore,MIL,Nottigam Dese,Marce,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Centrocampista,Urbanski,BOL,Atletico Una Volta,Fracca,-1,-4,1.0,2.0,3,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.75,5.92,5.83,6.0,5.83,6.0
+Centrocampista,Amatucci,FIO,Nottigam Dese,Carle,-1,-4,1.0,2.0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,6.0,0.0,0.0,0.0,0.0
+Centrocampista,Cisse A.,VER,AC Ciughina,Marce,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Centrocampista,Patane,VER,AC Ciughina,Marce,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Centrocampista,Haoudi,FRO,Vecchie Rocce,Fracca,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Centrocampista,Stankovic,INT,Garda Che Squadra,Free Agent,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Centrocampista,Martegani,SAL,Vecchie Rocce,Nippon,-1,-4,1.0,2.0,9,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.75,5.81,5.72,5.78,5.61,5.67
+Centrocampista,Sfait,SAL,Garda Che Squadra,Marce,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Centrocampista,Bourabia,FRO,Nottigam Dese,Scap,-1,-4,1.0,2.0,3,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.58,5.75,5.0,5.17,5.0,5.17
+Centrocampista,Russo,NAP,AC Ciughina,Nippon,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Centrocampista,Agoume,INT,Vecchie Rocce,Nippon,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Centrocampista,Charlys,VER,Atletico Una Volta,Marce,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Centrocampista,Costa,ROM,Atletico Una Volta,Scap,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Centrocampista,Nonge,JUV,Nottigam Dese,Fracca,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Centrocampista,Ballarini,UDI,Garda Che Squadra,Nippon,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Centrocampista,Papadopoulos,GEN,Vecchie Rocce,Nippon,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Centrocampista,Ferraris,MON,Free Agent,Damian,0,-4,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Centrocampista,Mendicino,ATA,Garda Che Squadra,Carle,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Attaccante,Martinez L.,INT,Vecchie Rocce,Damian,61,58,63.0,2.0,16,2.0,0.0,2.0,15.0,1.0,0.0,0.0,0.0,9.72,6.84,9.75,6.88,9.66,6.84
+Attaccante,Giroud,MIL,AC Ciughina,Nippon,42,39,44.0,2.0,13,0.0,1.0,4.0,8.0,3.0,0.0,0.0,0.0,8.5,6.42,8.46,6.38,8.38,6.31
+Attaccante,Osimhen,NAP,Garda Che Squadra,Scap,41,38,43.0,2.0,12,2.0,0.0,2.0,7.0,2.0,1.0,0.0,0.0,7.94,6.35,7.96,6.38,7.96,6.38
+Attaccante,Berardi,SAS,Garda Che Squadra,Marce,39,36,41.0,2.0,13,5.0,0.0,3.0,9.0,5.0,0.0,0.0,0.0,8.75,6.63,8.54,6.42,8.65,6.54
+Attaccante,Thuram,INT,Garda Che Squadra,Carle,39,36,41.0,2.0,16,2.0,0.0,6.0,7.0,0.0,0.0,0.0,0.0,8.34,6.72,8.41,6.78,8.28,6.72
+Attaccante,Kvaratskhelia,NAP,AC Cipicchia,Free Agent,35,32,37.0,2.0,15,3.0,0.0,3.0,5.0,0.0,0.0,0.0,0.0,7.43,6.33,7.47,6.37,7.5,6.4
+Attaccante,Leao,MIL,Atletico Una Volta,Free Agent,34,31,36.0,2.0,12,1.0,0.0,4.0,3.0,0.0,0.0,0.0,0.0,7.25,6.21,7.29,6.25,7.38,6.33
+Attaccante,Lookman,ATA,AC Ciughina,Carle,32,29,34.0,2.0,15,2.0,0.0,3.0,6.0,0.0,0.0,0.0,0.0,7.65,6.32,7.37,6.03,7.63,6.3
+Attaccante,Lukaku,ROM,Free Agent,Nippon,0,28,33.0,0.0,13,3.0,1.0,1.0,7.0,0.0,1.0,0.0,0.0,7.48,6.21,7.38,6.12,7.5,6.23
+Attaccante,Dybala,ROM,Free Agent,Fracca,0,27,32.0,0.0,11,2.0,0.0,6.0,4.0,2.0,0.0,0.0,0.0,7.98,6.43,7.95,6.41,8.0,6.36
+Attaccante,Gonzalez N.,FIO,Nottigam Dese,Marce,30,27,32.0,2.0,13,0.0,0.0,1.0,6.0,1.0,0.0,0.0,0.0,7.73,6.27,7.92,6.46,7.81,6.35
+Attaccante,Zirkzee,BOL,Nottigam Dese,Free Agent,25,22,27.0,2.0,16,3.0,0.0,2.0,7.0,1.0,0.0,0.0,0.0,8.05,6.7,8.09,6.75,8.38,6.97
+Attaccante,Immobile,LAZ,AC Ciughina,Nippon,23,20,25.0,2.0,14,3.0,0.0,0.0,4.0,3.0,0.0,0.0,0.0,6.46,5.71,6.32,5.57,6.6,5.93
+Attaccante,Dia,SAL,Atletico Una Volta,Damian,23,20,25.0,2.0,12,1.0,0.0,0.0,4.0,1.0,0.0,0.0,0.0,6.88,5.92,6.75,5.79,6.63,5.67
+Attaccante,Scamacca,ATA,Atletico Una Volta,Scap,23,20,25.0,2.0,9,0.0,0.0,1.0,5.0,0.0,0.0,0.0,0.0,8.33,6.56,8.33,6.56,8.33,6.56
+Attaccante,Vlahovic,JUV,Garda Che Squadra,Nippon,21,18,23.0,2.0,13,2.0,0.0,1.0,5.0,1.0,2.0,0.0,0.0,6.62,5.92,6.71,6.07,6.57,5.93
+Attaccante,Sanabria,TOR,Vecchie Rocce,Carle,21,18,23.0,2.0,13,1.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,6.38,5.96,6.46,6.04,6.38,5.92
+Attaccante,Gudmundsson,GEN,Atletico Una Volta,Fracca,21,18,23.0,2.0,14,2.0,0.0,0.0,6.0,0.0,0.0,0.0,0.0,7.61,6.39,7.89,6.68,7.79,6.57
+Attaccante,Zapata,TOR,Vecchie Rocce,Carle,19,16,21.0,2.0,15,0.0,0.0,1.0,5.0,0.0,0.0,0.0,0.0,7.18,6.12,7.33,6.27,7.17,6.1
+Attaccante,Ngonge,VER,AC Ciughina,Free Agent,18,15,20.0,2.0,15,2.0,0.0,2.0,4.0,0.0,0.0,0.0,0.0,6.83,5.97,6.67,5.8,6.77,5.9
+Attaccante,Beltran,FIO,Nottigam Dese,Damian,18,15,20.0,2.0,11,1.0,0.0,1.0,2.0,1.0,0.0,0.0,0.0,6.68,6.09,6.5,5.91,6.32,5.82
+Attaccante,Pinamonti,SAS,Atletico Una Volta,Marce,17,14,19.0,2.0,16,1.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,6.89,5.98,6.84,5.94,6.69,5.78
+Attaccante,Raspadori,NAP,Vecchie Rocce,Damian,17,14,19.0,2.0,15,0.0,0.0,2.0,3.0,0.0,1.0,0.0,0.0,6.6,6.07,6.73,6.2,6.47,6.0
+Attaccante,Thauvin,UDI,AC Ciughina,Marce,17,14,19.0,2.0,13,3.0,0.0,1.0,2.0,1.0,0.0,0.0,0.0,6.46,6.04,6.62,6.19,6.64,6.14
+Attaccante,Luvumbo,CAG,Nottigam Dese,Scap,17,14,19.0,2.0,15,2.0,0.0,2.0,3.0,0.0,0.0,0.0,0.0,7.0,6.33,6.93,6.27,6.77,6.1
+Attaccante,Caputo,EMP,AC Ciughina,Scap,16,13,18.0,2.0,13,0.0,0.0,0.0,3.0,1.0,0.0,0.0,0.0,6.46,5.77,6.65,5.96,6.77,6.08
+Attaccante,Muriel,ATA,Vecchie Rocce,Free Agent,16,13,18.0,2.0,9,0.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,7.14,6.36,6.8,6.1,7.22,6.44
+Attaccante,Krstovic,LEC,Vecchie Rocce,Carle,16,13,18.0,2.0,14,2.0,0.0,0.0,4.0,1.0,0.0,0.0,0.0,6.96,6.18,6.7,5.97,6.82,6.04
+Attaccante,Okafor,MIL,Nottigam Dese,Damian,15,12,17.0,2.0,9,1.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,7.03,6.08,6.6,5.75,6.65,5.8
+Attaccante,Soule,FRO,Free Agent,Fracca,0,12,17.0,0.0,14,2.0,0.0,1.0,6.0,1.0,0.0,0.0,0.0,7.75,6.46,7.86,6.57,7.79,6.5
+Attaccante,Belotti,ROM,Nottigam Dese,Fracca,14,11,16.0,2.0,9,0.0,0.0,2.0,3.0,0.0,0.0,0.0,0.0,7.44,6.22,7.28,6.06,7.56,6.31
+Attaccante,Jovic,MIL,Atletico Una Volta,Damian,14,11,16.0,2.0,7,2.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,6.86,6.0,6.19,5.44,6.25,5.5
+Attaccante,Mota,MON,AC Cipicchia,Marce,14,11,16.0,2.0,14,1.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,5.88,5.7,6.07,5.89,5.93,5.75
+Attaccante,Pavoletti,CAG,Free Agent,Scap,0,11,16.0,0.0,9,3.0,0.0,1.0,4.0,0.0,0.0,0.0,0.0,7.86,6.58,7.65,6.5,8.06,6.56
+Attaccante,Nzola,FIO,AC Ciughina,Carle,14,11,16.0,2.0,16,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,5.97,5.66,5.97,5.66,5.94,5.63
+Attaccante,Milik,JUV,Garda Che Squadra,Free Agent,13,10,15.0,2.0,10,2.0,0.0,1.0,2.0,0.0,0.0,0.0,0.0,6.83,6.23,6.7,6.1,6.75,6.15
+Attaccante,Pedro,LAZ,Garda Che Squadra,Marce,13,10,15.0,2.0,12,3.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,5.98,5.85,5.86,5.75,5.88,5.75
+Attaccante,Castellanos,LAZ,Vecchie Rocce,Scap,13,10,15.0,2.0,11,0.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,6.39,5.93,6.25,5.83,6.36,5.91
+Attaccante,Djuric,VER,AC Cipicchia,Marce,13,10,15.0,2.0,13,2.0,0.0,1.0,3.0,1.0,1.0,0.0,0.0,6.52,6.06,6.5,6.04,6.25,5.82
+Attaccante,Almqvist,LEC,Free Agent,Marce,0,10,15.0,0.0,12,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,6.71,6.25,6.46,6.0,6.68,6.18
+Attaccante,Lucca,UDI,Free Agent,Scap,0,10,15.0,0.0,13,0.0,0.0,1.0,5.0,0.0,0.0,0.0,0.0,7.21,5.98,6.9,5.83,7.15,5.92
+Attaccante,Arnautovic,INT,Vecchie Rocce,Damian,12,9,14.0,2.0,6,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,6.33,6.17,6.21,6.07,6.25,6.08
+Attaccante,Retegui,GEN,Atletico Una Volta,Nippon,12,9,14.0,2.0,10,3.0,0.0,1.0,3.0,0.0,0.0,0.0,0.0,6.8,5.95,6.8,5.95,6.8,5.95
+Attaccante,Banda,LEC,AC Ciughina,Scap,12,9,14.0,2.0,12,3.0,0.0,4.0,2.0,0.0,0.0,0.0,0.0,6.96,6.25,6.96,6.25,7.13,6.5
+Attaccante,Lapadula,CAG,Atletico Una Volta,Nippon,11,8,13.0,2.0,3,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,7.08,6.08,6.5,5.75,6.88,6.13
+Attaccante,Kean,JUV,AC Ciughina,Carle,11,8,13.0,2.0,9,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.86,5.97,6.06,6.19,6.0,6.14
+Attaccante,Cheddira,FRO,AC Cipicchia,Free Agent,11,8,13.0,2.0,11,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,6.23,5.86,6.27,5.91,6.36,6.0
+Attaccante,Simeone,NAP,Nottigam Dese,Damian,10,7,12.0,2.0,6,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,6.33,6.0,6.06,5.88,6.25,6.06
+Attaccante,Piccoli,LEC,AC Ciughina,Nippon,10,7,12.0,2.0,11,1.0,0.0,0.0,3.0,1.0,0.0,0.0,0.0,6.84,6.07,6.77,6.12,6.83,6.13
+Attaccante,Azmoun,ROM,Atletico Una Volta,Damian,10,7,12.0,2.0,6,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,6.79,6.29,6.21,5.79,6.75,6.25
+Attaccante,Petagna,CAG,Vecchie Rocce,Carle,9,6,11.0,2.0,9,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,5.97,5.92,5.78,5.72,5.6,5.55
+Attaccante,Colombo,MON,Free Agent,Scap,0,6,11.0,0.0,14,1.0,0.0,1.0,3.0,0.0,0.0,0.0,0.0,6.71,6.04,6.68,6.0,6.71,6.04
+Attaccante,Shomurodov,CAG,Nottigam Dese,Scap,7,4,9.0,2.0,10,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,6.1,5.9,5.8,5.6,5.89,5.67
+Attaccante,Sansone,LEC,Atletico Una Volta,Marce,7,4,9.0,2.0,8,1.0,0.0,2.0,1.0,0.0,0.0,0.0,0.0,6.59,6.03,6.63,6.06,6.44,5.94
+Attaccante,Deulofeu,UDI,Nottigam Dese,Marce,6,3,8.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Attaccante,Toure,ATA,Free Agent,Scap,0,3,8.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Attaccante,Gyasi,EMP,Free Agent,Free Agent,0,2,7.0,0.0,8,3.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,6.03,5.84,5.94,5.78,6.0,5.81
+Attaccante,Henry,VER,Free Agent,Scap,0,2,7.0,0.0,4,1.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,7.88,6.5,7.38,6.0,7.75,6.38
+Attaccante,Bonazzoli,VER,Vecchie Rocce,Free Agent,5,2,7.0,2.0,13,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,6.12,5.96,5.92,5.75,6.0,5.83
+Attaccante,Gomez A.,MON,AC Ciughina,Scap,5,2,7.0,2.0,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.13,6.13,6.0,6.0,6.25,6.25
+Attaccante,Kouame,FIO,Vecchie Rocce,Marce,4,1,6.0,2.0,9,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,6.39,5.94,6.39,5.94,6.45,6.05
+Attaccante,Cuni,FRO,AC Ciughina,Fracca,4,1,6.0,2.0,7,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,6.36,5.93,5.94,5.56,6.14,5.71
+Attaccante,Tchaouna,SAL,AC Cipicchia,Marce,4,1,6.0,2.0,9,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,5.94,5.89,5.69,5.63,5.71,5.64
+Attaccante,Caprari,MON,Atletico Una Volta,Carle,3,0,5.0,2.0,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.88,5.88,5.88,5.88,5.88,5.88
+Attaccante,Mulattieri,SAS,Nottigam Dese,Nippon,3,0,5.0,2.0,4,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.88,6.0,6.33,6.33,5.92,6.0
+Attaccante,Kaio Jorge,FRO,Vecchie Rocce,Nippon,3,0,5.0,2.0,3,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,6.67,5.83,6.67,5.83,6.75,6.13
+Attaccante,Maric,MON,AC Ciughina,Carle,3,0,5.0,2.0,6,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,6.54,6.04,6.0,5.5,6.58,6.08
+Attaccante,Ikwuemesi,SAL,Vecchie Rocce,Carle,3,0,5.0,2.0,11,2.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,6.07,5.8,5.86,5.59,6.0,5.73
+Attaccante,Karlsson,BOL,Atletico Una Volta,Marce,3,0,5.0,2.0,5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.7,5.7,5.8,5.8,6.0,6.0
+Attaccante,Pellegri,TOR,Nottigam Dese,Free Agent,2,-1,4.0,2.0,6,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.42,5.58,5.42,5.58,5.42,5.58
+Attaccante,Success,UDI,AC Ciughina,Nippon,2,-1,4.0,2.0,12,2.0,0.0,1.0,0.0,0.0,1.0,0.0,0.0,5.38,5.63,5.29,5.54,5.33,5.67
+Attaccante,Simy,SAL,Garda Che Squadra,Fracca,2,-1,4.0,2.0,2,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,7.88,6.38,7.0,5.5,7.75,6.25
+Attaccante,Davis,UDI,Atletico Una Volta,Carle,2,-1,4.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Attaccante,Seck,TOR,Free Agent,Nippon,0,-2,3.0,0.0,7,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.93,6.0,5.79,5.86,5.71,5.79
+Attaccante,Ekuban,GEN,Free Agent,Damian,0,-2,3.0,0.0,9,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,5.86,5.75,5.94,5.81,6.13,6.0
+Attaccante,Van Hooijdonk,BOL,AC Cipicchia,Free Agent,1,-2,3.0,2.0,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.83,5.83,5.5,5.5,6.0,6.0
+Attaccante,Sanchez,INT,Garda Che Squadra,Damian,1,-2,3.0,2.0,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.67,5.67,5.33,5.33,5.75,5.75
+Attaccante,Botheim,SAL,Vecchie Rocce,Fracca,0,-3,2.0,0.0,5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.1,5.2,4.8,4.9,4.9,5.0
+Attaccante,Brenner,UDI,Garda Che Squadra,Damian,0,-3,2.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Attaccante,Braaf,VER,Vecchie Rocce,Nippon,0,-3,2.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Attaccante,Defrel,SAS,Free Agent,Marce,0,-3,2.0,0.0,5,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,6.05,5.85,5.75,5.58,5.75,5.5
+Attaccante,Shpendi,EMP,Nottigam Dese,Scap,0,-3,2.0,0.0,6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.67,5.67,5.75,5.75,5.86,5.86
+Attaccante,Abraham,ROM,Free Agent,Scap,0,-4,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Attaccante,Kvernadze,FRO,Free Agent,Fracca,0,-4,1.0,0.0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.5,5.5,5.5,5.5,5.5,5.5
+Attaccante,Puscas,GEN,Free Agent,Nippon,0,-4,1.0,0.0,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.17,5.17,5.4,5.4,5.75,5.75
+Attaccante,Alvarez,SAS,Atletico Una Volta,Marce,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Attaccante,Kallon,VER,Vecchie Rocce,Free Agent,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Attaccante,Vlahovic V.,ATA,Free Agent,Nippon,0,-4,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Attaccante,Mancini T.,JUV,Vecchie Rocce,Damian,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Attaccante,Burnete,LEC,Atletico Una Volta,Marce,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Attaccante,Vivaldo,UDI,Free Agent,Nippon,0,-4,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Attaccante,Corfitzen,LEC,Garda Che Squadra,Damian,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Attaccante,Stewart,SAL,Nottigam Dese,Free Agent,-1,-4,1.0,2.0,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.92,5.92,5.67,5.67,5.83,5.83
+Attaccante,Alessio,ROM,Free Agent,Damian,0,-4,1.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Attaccante,Antunovic,MON,Nottigam Dese,Fracca,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Attaccante,Destro,EMP,Vecchie Rocce,Fracca,-1,-4,1.0,2.0,5,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.7,5.8,5.63,5.75,5.3,5.4
+Attaccante,Sarr A.,INT,AC Ciughina,Fracca,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Attaccante,Pereiro,CAG,AC Ciughina,Scap,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Attaccante,Cruz,VER,Garda Che Squadra,Marce,-1,-4,1.0,2.0,2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.75,5.75,5.0,5.0,5.5,5.5
+Attaccante,Desogus,CAG,Nottigam Dese,Free Agent,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Attaccante,Fini,GEN,Atletico Una Volta,Scap,-1,-4,1.0,2.0,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.25,6.25,6.0,6.0,6.0,6.0
+Attaccante,Camarda,MIL,Nottigam Dese,Fracca,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.5,6.5
+Attaccante,Cisse,ATA,Atletico Una Volta,Carle,-1,-4,1.0,2.0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Portiere,Stankovic,,AC Cipicchia,Scap,-1,-4,,,,,,,,,,,,,,,,,
+Portiere,Adamonis,,Garda Che Squadra,Carle,-1,-4,,,,,,,,,,,,,,,,,
+Portiere,Furlanetto,,Vecchie Rocce,Marce,-1,-4,,,,,,,,,,,,,,,,,
+Portiere,Maximiano,,AC Ciughina,Nippon,-1,-4,,,,,,,,,,,,,,,,,
+Portiere,Bleve,,Nottigam Dese,Nippon,-1,-4,,,,,,,,,,,,,,,,,
+Portiere,Jungdal,,Nottigam Dese,Fracca,-1,-4,,,,,,,,,,,,,,,,,
+Portiere,Piana,,Free Agent,Marce,0,-4,,0.0,,,,,,,,,,,,,,,
+Difensore,Gosens,,Garda Che Squadra,Scap,5,2,,,,,,,,,,,,,,,,,
+Difensore,Singo,,Vecchie Rocce,Carle,5,2,,,,,,,,,,,,,,,,,
+Difensore,Ibanez,,Nottigam Dese,Carle,4,1,,,,,,,,,,,,,,,,,
+Difensore,Rogerio,,Free Agent,Nippon,0,1,,0.0,,,,,,,,,,,,,,,
+Difensore,Demiral,,Free Agent,Free Agent,0,0,,0.0,,,,,,,,,,,,,,,
+Difensore,Maehle,,Nottigam Dese,Fracca,3,0,,,,,,,,,,,,,,,,,
+Difensore,Altare,,Garda Che Squadra,Marce,3,0,,,,,,,,,,,,,,,,,
+Difensore,Ballo Toure,,Vecchie Rocce,Fracca,0,-3,,0.0,,,,,,,,,,,,,,,
+Difensore,Stojanovic,,Vecchie Rocce,Free Agent,0,-3,,0.0,,,,,,,,,,,,,,,
+Difensore,Gabbia,,AC Ciughina,Carle,0,-3,,0.0,,,,,,,,,,,,,,,
+Difensore,Ceccherini,,Vecchie Rocce,Marce,0,-3,,0.0,,,,,,,,,,,,,,,
+Difensore,Biraschi,,AC Cipicchia,Marce,0,-3,,0.0,,,,,,,,,,,,,,,
+Difensore,Sosa,,AC Ciughina,Carle,-1,-4,,,,,,,,,,,,,,,,,
+Difensore,Szyminski,,AC Ciughina,Marce,-1,-4,,,,,,,,,,,,,,,,,
+Difensore,Antov,,Free Agent,Damian,0,-4,,0.0,,,,,,,,,,,,,,,
+Difensore,Binks,,Free Agent,Scap,0,-4,,0.0,,,,,,,,,,,,,,,
+Difensore,Klitten,,Free Agent,Nippon,0,-4,,0.0,,,,,,,,,,,,,,,
+Difensore,De Luca U.,,Garda Che Squadra,Scap,-1,-4,,,,,,,,,,,,,,,,,
+Difensore,Pajac,,AC Cipicchia,Free Agent,-1,-4,,,,,,,,,,,,,,,,,
+Difensore,Fontanarosa,,Nottigam Dese,Free Agent,-1,-4,,,,,,,,,,,,,,,,,
+Difensore,Bonucci,,AC Ciughina,Carle,-1,-4,,,,,,,,,,,,,,,,,
+Difensore,Fares,,AC Cipicchia,Damian,-1,-4,,,,,,,,,,,,,,,,,
+Difensore,Floriani,,Nottigam Dese,Scap,-1,-4,,,,,,,,,,,,,,,,,
+Difensore,Lemmens,,AC Cipicchia,Free Agent,-1,-4,,,,,,,,,,,,,,,,,
+Difensore,Reynolds,,Atletico Una Volta,Marce,-1,-4,,,,,,,,,,,,,,,,,
+Difensore,Jaroszynski,,Atletico Una Volta,Damian,-1,-4,,,,,,,,,,,,,,,,,
+Difensore,Flamingo,,AC Ciughina,Carle,-1,-4,,,,,,,,,,,,,,,,,
+Difensore,Muldur,,Garda Che Squadra,Scap,-1,-4,,,,,,,,,,,,,,,,,
+Difensore,Abankwah,,AC Cipicchia,Damian,-1,-4,,,,,,,,,,,,,,,,,
+Difensore,Ghilardi,,AC Ciughina,Free Agent,-1,-4,,,,,,,,,,,,,,,,,
+Difensore,Nalesso,,AC Ciughina,Free Agent,-1,-4,,,,,,,,,,,,,,,,,
+Difensore,Gonzalez F.,,Atletico Una Volta,Marce,-1,-4,,,,,,,,,,,,,,,,,
+Difensore,Paz,,AC Ciughina,Free Agent,-1,-4,,,,,,,,,,,,,,,,,
+Difensore,Miranda,,AC Ciughina,Fracca,-1,-4,,,,,,,,,,,,,,,,,
+Centrocampista,Amrabat,,AC Ciughina,Fracca,14,11,,,,,,,,,,,,,,,,,
+Centrocampista,Matic,,Vecchie Rocce,Fracca,13,10,,,,,,,,,,,,,,,,,
+Centrocampista,Dominguez,,Vecchie Rocce,Nippon,12,9,,,,,,,,,,,,,,,,,
+Centrocampista,Hjulmand,,Vecchie Rocce,Nippon,12,9,,,,,,,,,,,,,,,,,
+Centrocampista,Boga,,AC Ciughina,Damian,10,7,,,,,,,,,,,,,,,,,
+Centrocampista,Schouten,,AC Ciughina,Marce,9,6,,,,,,,,,,,,,,,,,
+Centrocampista,Lozano,,Atletico Una Volta,Marce,7,4,,,,,,,,,,,,,,,,,
+Centrocampista,Sabiri,,AC Cipicchia,Free Agent,5,2,,,,,,,,,,,,,,,,,
+Centrocampista,Marcos Antonio,,AC Cipicchia,Carle,5,2,,,,,,,,,,,,,,,,,
+Centrocampista,Haas,,AC Ciughina,Nippon,4,1,,,,,,,,,,,,,,,,,
+Centrocampista,Henderson,,AC Ciughina,Marce,3,0,,,,,,,,,,,,,,,,,
+Centrocampista,Zakaria,,AC Cipicchia,Free Agent,3,0,,,,,,,,,,,,,,,,,
+Centrocampista,Praszelik,,AC Ciughina,Free Agent,3,0,,,,,,,,,,,,,,,,,
+Centrocampista,Valoti,,Free Agent,Marce,0,-1,,0.0,,,,,,,,,,,,,,,
+Centrocampista,Solbakken,,Nottigam Dese,Free Agent,2,-1,,,,,,,,,,,,,,,,,
+Centrocampista,Vignato E.,,Atletico Una Volta,Nippon,1,-2,,,,,,,,,,,,,,,,,
+Centrocampista,Verdi,,Vecchie Rocce,Fracca,1,-2,,,,,,,,,,,,,,,,,
+Centrocampista,Kourfalidis,,AC Cipicchia,Nippon,0,-3,,0.0,,,,,,,,,,,,,,,
+Centrocampista,Aramu,,Garda Che Squadra,Nippon,0,-3,,0.0,,,,,,,,,,,,,,,
+Centrocampista,Helgason,,Nottigam Dese,Free Agent,0,-3,,0.0,,,,,,,,,,,,,,,
+Centrocampista,Ilkhan,,Atletico Una Volta,Nippon,0,-3,,0.0,,,,,,,,,,,,,,,
+Centrocampista,Pyyhtia,,Garda Che Squadra,Fracca,0,-3,,0.0,,,,,,,,,,,,,,,
+Centrocampista,Crociata,,AC Cipicchia,Fracca,-1,-4,,,,,,,,,,,,,,,,,
+Centrocampista,Giovane,,Atletico Una Volta,Free Agent,-1,-4,,,,,,,,,,,,,,,,,
+Centrocampista,Delpupo,,Nottigam Dese,Carle,-1,-4,,,,,,,,,,,,,,,,,
+Centrocampista,Lella,,Nottigam Dese,Damian,-1,-4,,,,,,,,,,,,,,,,,
+Centrocampista,Degli Innocenti,,Atletico Una Volta,Damian,-1,-4,,,,,,,,,,,,,,,,,
+Centrocampista,Benassi,,Garda Che Squadra,Free Agent,-1,-4,,,,,,,,,,,,,,,,,
+Centrocampista,Kujabi,,Atletico Una Volta,Scap,-1,-4,,,,,,,,,,,,,,,,,
+Centrocampista,Ilsanker,,Free Agent,Scap,0,-4,,0.0,,,,,,,,,,,,,,,
+Centrocampista,Toure A.,,AC Ciughina,Damian,-1,-4,,,,,,,,,,,,,,,,,
+Centrocampista,Bertini,,Atletico Una Volta,Scap,-1,-4,,,,,,,,,,,,,,,,,
+Centrocampista,Bjorkengren,,AC Cipicchia,Fracca,-1,-4,,,,,,,,,,,,,,,,,
+Centrocampista,D'Alessandro,,Nottigam Dese,Damian,-1,-4,,,,,,,,,,,,,,,,,
+Centrocampista,Saco,,AC Ciughina,Damian,-1,-4,,,,,,,,,,,,,,,,,
+Centrocampista,Coulibaly M.,,AC Cipicchia,Marce,-1,-4,,,,,,,,,,,,,,,,,
+Centrocampista,Iervolino,,Free Agent,Free Agent,0,-4,,0.0,,,,,,,,,,,,,,,
+Centrocampista,D'Andrea,,Free Agent,Damian,0,-4,,0.0,,,,,,,,,,,,,,,
+Centrocampista,Bayeye,,Vecchie Rocce,Nippon,-1,-4,,,,,,,,,,,,,,,,,
+Centrocampista,Melegoni,,Garda Che Squadra,Marce,-1,-4,,,,,,,,,,,,,,,,,
+Centrocampista,Canotto,,Atletico Una Volta,Carle,-1,-4,,,,,,,,,,,,,,,,,
+Centrocampista,Zedadka,,Garda Che Squadra,Scap,-1,-4,,,,,,,,,,,,,,,,,
+Attaccante,Hojlund,,Garda Che Squadra,Marce,26,23,,,,,,,,,,,,,,,,,
+Attaccante,Beto,,AC Cipicchia,Marce,22,19,,,,,,,,,,,,,,,,,
+Attaccante,Cabral,,Garda Che Squadra,Nippon,19,16,,,,,,,,,,,,,,,,,
+Attaccante,Barrow,,AC Ciughina,Nippon,12,9,,,,,,,,,,,,,,,,,
+Attaccante,Ceesay,,AC Ciughina,Scap,12,9,,,,,,,,,,,,,,,,,
+Attaccante,Di Francesco,,Garda Che Squadra,Nippon,12,9,,,,,,,,,,,,,,,,,
+Attaccante,Correa,,Atletico Una Volta,Fracca,10,7,,,,,,,,,,,,,,,,,
+Attaccante,Origi,,AC Ciughina,Marce,4,1,,,,,,,,,,,,,,,,,
+Attaccante,Coda,,AC Cipicchia,Damian,4,1,,,,,,,,,,,,,,,,,
+Attaccante,Rebic,,Nottigam Dese,Marce,4,1,,,,,,,,,,,,,,,,,
+Attaccante,Borrelli,,Nottigam Dese,Marce,3,0,,,,,,,,,,,,,,,,,
+Attaccante,Lasagna,,Vecchie Rocce,Carle,3,0,,,,,,,,,,,,,,,,,
+Attaccante,Esposito Seb.,,AC Cipicchia,Scap,1,-2,,,,,,,,,,,,,,,,,
+Attaccante,Diaw,,AC Ciughina,Carle,0,-3,,0.0,,,,,,,,,,,,,,,
+Attaccante,Rodriguez P.,,Vecchie Rocce,Damian,0,-3,,0.0,,,,,,,,,,,,,,,
+Attaccante,Cangiano,,Nottigam Dese,Carle,-1,-4,,,,,,,,,,,,,,,,,
+Attaccante,Raimondo,,Nottigam Dese,Damian,-1,-4,,,,,,,,,,,,,,,,,
+Attaccante,Ekong,,AC Ciughina,Carle,-1,-4,,,,,,,,,,,,,,,,,
+Attaccante,Kokorin,,Free Agent,Damian,0,-4,,0.0,,,,,,,,,,,,,,,
+Attaccante,Selvini,,Atletico Una Volta,Free Agent,-1,-4,,,,,,,,,,,,,,,,,
+Attaccante,Yalcin,,Nottigam Dese,Marce,-1,-4,,,,,,,,,,,,,,,,,
+Attaccante,Yeboah,,Free Agent,Nippon,0,-4,,0.0,,,,,,,,,,,,,,,
+Attaccante,Salcedo,,AC Ciughina,Damian,-1,-4,,,,,,,,,,,,,,,,,
+Attaccante,Pjaca,,Garda Che Squadra,Fracca,-1,-4,,,,,,,,,,,,,,,,,
+Attaccante,Persson,,Garda Che Squadra,Nippon,-1,-4,,,,,,,,,,,,,,,,,
+Attaccante,Lazetic,,Nottigam Dese,Scap,-1,-4,,,,,,,,,,,,,,,,,
+Attaccante,Ambrosino,,Garda Che Squadra,Scap,-1,-4,,,,,,,,,,,,,,,,,
+Attaccante,Satriano,,Free Agent,Carle,0,-4,,0.0,,,,,,,,,,,,,,,
+Attaccante,Kristoffersen,,Atletico Una Volta,Fracca,-1,-4,,,,,,,,,,,,,,,,,
+Attaccante,Valencia,,Free Agent,Carle,0,-4,,0.0,,,,,,,,,,,,,,,
+Attaccante,Antiste,,Garda Che Squadra,Carle,-1,-4,,,,,,,,,,,,,,,,,
+Attaccante,Latte Lath,,Garda Che Squadra,Nippon,-1,-4,,,,,,,,,,,,,,,,,
+Attaccante,Cazzadori,,Garda Che Squadra,Fracca,-1,-4,,,,,,,,,,,,,,,,,
