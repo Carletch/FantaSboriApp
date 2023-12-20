@@ -65,7 +65,7 @@ with st.sidebar:
                                   default = data['Squad'].unique())
     
     Player_filter = st.selectbox(label = 'Player',
-                                   options = data['Player'].unique())
+                                   options = data['Player'].unique().sort_values())
 
 
 # In[ ]:
