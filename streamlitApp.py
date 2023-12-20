@@ -3,7 +3,7 @@
 
 # In[]:
 
-
+import os
 import pandas as pd
 
 import streamlit as st
@@ -15,7 +15,13 @@ from numerize.numerize import numerize
 # In[ ]:
 
 
-data = pd.read_csv('20231220_PlayersDB.csv', sep = ',')
+source_dir = os.path.join(os.getcwd(), 'reports/')
+
+
+# In[ ]:
+
+
+data = pd.read_csv(source_dir + 'players_db.csv', sep = ',')
 
 print(data.shape)
 print(data.head())
