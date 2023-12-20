@@ -2,3 +2,4 @@ pandas
 streamlit
 plotly
 numerize
+beautifulsoup4
