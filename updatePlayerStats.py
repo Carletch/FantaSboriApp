@@ -116,32 +116,6 @@ print('Stats head:')
 print(stats.head())
 
 
-# In[36]:
-
-
-# import random 
-
-# squads = quotes.copy()
-# squads['Initial Quote'] = squads['Current Quote'] - 5
-# squads['Purchase Price'] = squads['Current Quote'] - 2
-# squads['Owner'] = random.choices(['Fracca', 
-#                                   'Marce', 
-#                                   'Carle', 
-#                                   'Nippon',
-#                                   'Damian',
-#                                   'Scap',
-#                                   'Free Agent'], k = len(squads))
-# squads['Squad'] = random.choices(['Garda Che Squadra', 
-#                                   'Atletico Una Volta', 
-#                                   'AC Ciughina', 
-#                                   'AC Cipicchia', 
-#                                   'Vecchie Rocce',
-#                                   'Nottigam Dese',
-#                                   'Free Agent'], k = len(squads))
-# squads.loc[squads['Squad'] == 'Free Agent', 'Purchase Price'] = 0 
-# squads = squads.drop('Current Quote', axis = 1)
-
-
 # In[37]:
 
 
