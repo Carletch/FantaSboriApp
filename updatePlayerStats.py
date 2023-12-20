@@ -15,6 +15,7 @@ from bs4 import BeautifulSoup as bs
 import os
 print(os.getcwd())
 print(os.listdir(os.getcwd()))
+source_dir = '/home/runner/work/FantaSboriApp/FantaSboriApp/data/'
 
 # In[30]:
 
@@ -131,7 +132,7 @@ import random
 # In[37]:
 
 
-squads = pd.read_csv('/data/20231220_AuctionsHistory.csv', sep = ';')
+squads = pd.read_csv(source_dir + '20231220_AuctionsHistory.csv', sep = ';')
 squads = squads.drop_duplicates()
 
 squads[['Initial Quote', 'Purchase Price']] = squads[['Initial Quote', 'Purchase Price']].astype(int)
