@@ -32,11 +32,11 @@ jobs:
 
       - name: Commit files 
         run: |
-          git config --local user.name Carletch 
+          git config --local user.name carletch 
           git config --local user.email "carletch.office@gmail.com"
-          git add --all git commit -am "GH ACTION Headlines $(date)"
+          git add --all 
+          git commit -am "GH ACTION Headlines $(date)"
           git push origin main 
-
         env: 
-          REPO KEY: ${{secrets.GITHUB_TOKEN}} 
+          REPO_KEY: ${{secrets.GITHUB_TOKEN}} 
           username: github-actions
