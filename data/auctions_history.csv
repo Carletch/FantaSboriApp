@@ -1,541 +1,541 @@
-﻿Role;Player;Club;Club Name;Initial Quote;Purchase Price;Owner;Squad
-P;Maignan;MIL;Milan;17;23;Damian;Vecchie Rocce
-P;Meret;NAP;Napoli;16;22;Scap;Nottingham Dese
-P;Sommer;INT;Inter;16;27;Carle;AC Ciughina
-P;Szczesny;JUV;Juventus;15;25;Nippon;AC Cipicchia
-P;Provedel;LAZ;Lazio;15;12;Marce;Atletico Una Volta
-P;Rui Patricio;ROM;Roma;12;8;Nippon;AC Cipicchia
-P;Di Gregorio;MON;Monza;12;1;Carle;AC Ciughina
-P;Skorupski;BOL;Bologna;10;4;Fracca;Garda Che Squadra
-P;Milinkovic-Savic V.;TOR;Torino;10;0;Free Agent;Free Agent
-P;Terracciano;FIO;Fiorentina;10;8;Scap;Nottingham Dese
-P;Carnesecchi;ATA;Atalanta;10;4;Carle;AC Ciughina
-P;Falcone;LEC;Lecce;9;1;Damian;Vecchie Rocce
-P;Silvestri;UDI;Udinese;9;0;Free Agent;Free Agent
-P;Ochoa;SAL;Salernitana;9;1;Damian;Vecchie Rocce
-P;Radunovic;CAG;Cagliari;8;0;Free Agent;Free Agent
-P;Montipo';VER;Verona;8;0;Free Agent;Free Agent
-P;Martinez Jo.;GEN;Genoa;8;0;Free Agent;Free Agent
-P;Caprile;EMP;Empoli;6;1;Nippon;AC Cipicchia
-P;Consigli;SAS;Sassuolo;5;9;Fracca;Garda Che Squadra
-P;Musso;ATA;Atalanta;5;8;Marce;Atletico Una Volta
-P;Turati;FRO;Frosinone;5;2;Marce;Atletico Una Volta
-P;Perin;JUV;Juventus;3;0;Free Agent;Free Agent
-P;Berisha;EMP;Empoli;3;0;Free Agent;Free Agent
-P;Cragno;SAS;Sassuolo;3;0;Free Agent;Free Agent
-P;Cerofolini;FRO;Frosinone;2;0;Free Agent;Free Agent
-P;Christensen O.;FIO;Fiorentina;2;0;Free Agent;Free Agent
-P;Sportiello;MIL;Milan;1;0;Free Agent;Free Agent
-P;Mirante;MIL;Milan;1;0;Free Agent;Free Agent
-P;Sepe;LAZ;Lazio;1;0;Free Agent;Free Agent
-P;Leali;GEN;Genoa;1;0;Free Agent;Free Agent
-P;Lamanna;MON;Monza;1;0;Free Agent;Free Agent
-P;Sommariva;GEN;Genoa;1;0;Free Agent;Free Agent
-P;Pegolo;SAS;Sassuolo;1;0;Free Agent;Free Agent
-P;Perilli;VER;Verona;1;0;Free Agent;Free Agent
-P;Padelli;UDI;Udinese;1;0;Free Agent;Free Agent
-P;Scuffet;CAG;Cagliari;1;0;Free Agent;Free Agent
-P;Gollini;NAP;Napoli;1;1;Scap;Nottingham Dese
-P;Perisan;EMP;Empoli;1;0;Free Agent;Free Agent
-P;Audero;INT;Inter;1;0;Free Agent;Free Agent
-P;Di Gennaro;INT;Inter;1;0;Free Agent;Free Agent
-P;Pinsoglio;JUV;Juventus;1;0;Free Agent;Free Agent
-P;Aresti;CAG;Cagliari;1;0;Free Agent;Free Agent
-P;Fiorillo;SAL;Salernitana;1;0;Free Agent;Free Agent
-P;Rossi F.;ATA;Atalanta;1;0;Free Agent;Free Agent
-P;Costil;SAL;Salernitana;1;0;Free Agent;Free Agent
-P;Ravaglia F.;BOL;Bologna;1;0;Free Agent;Free Agent
-P;Frattali;FRO;Frosinone;1;0;Free Agent;Free Agent
-P;Contini;NAP;Napoli;1;0;Free Agent;Free Agent
-P;Brancolini;LEC;Lecce;1;0;Free Agent;Free Agent
-P;Berardi A.;VER;Verona;1;0;Free Agent;Free Agent
-P;Gemello;TOR;Torino;1;0;Free Agent;Free Agent
-P;Boer;ROM;Roma;1;0;Free Agent;Free Agent
-P;Bagnolini;BOL;Bologna;1;0;Free Agent;Free Agent
-P;Svilar;ROM;Roma;1;0;Free Agent;Free Agent
-P;Sorrentino A.;MON;Monza;1;0;Free Agent;Free Agent
-P;Martinelli T.;FIO;Fiorentina;1;0;Free Agent;Free Agent
-P;Popa;TOR;Torino;1;0;Free Agent;Free Agent
-P;Stubljar;EMP;Empoli;1;0;Free Agent;Free Agent
-P;Gori;MON;Monza;1;0;Free Agent;Free Agent
-P;Borbei;LEC;Lecce;1;0;Free Agent;Free Agent
-P;Okoye;UDI;Udinese;1;0;Free Agent;Free Agent
-P;Mandas;LAZ;Lazio;1;0;Free Agent;Free Agent
-D;Di Lorenzo;NAP;Napoli;20;25;Carle;AC Ciughina
-D;Dimarco;INT;Inter;20;27;Marce;Atletico Una Volta
-D;Hernandez T.;MIL;Milan;18;0;Free Agent;Free Agent
-D;Carlos Augusto;INT;Inter;17;6;Marce;Atletico Una Volta
-D;Danilo;JUV;Juventus;16;30;Damian;Vecchie Rocce
-D;Posch;BOL;Bologna;15;0;Free Agent;Free Agent
-D;Schuurs;TOR;Torino;15;0;Free Agent;Free Agent
-D;Zappacosta;ATA;Atalanta;15;0;Free Agent;Free Agent
-D;Bastoni;INT;Inter;14;20;Fracca;Garda Che Squadra
-D;Dumfries;INT;Inter;14;26;Damian;Vecchie Rocce
-D;Pavard;INT;Inter;14;0;Free Agent;Free Agent
-D;Rrahmani;NAP;Napoli;14;0;Free Agent;Free Agent
-D;Smalling;ROM;Roma;14;0;Free Agent;Free Agent
-D;Bremer;JUV;Juventus;13;20;Fracca;Garda Che Squadra
-D;Romagnoli;LAZ;Lazio;13;13;Carle;AC Ciughina
-D;Tomori;MIL;Milan;13;14;Scap;Nottingham Dese
-D;Darmian;INT;Inter;12;6;Scap;Nottingham Dese
-D;Spinazzola;ROM;Roma;12;12;Carle;AC Ciughina
-D;Bakker;ATA;Atalanta;11;1;Damian;Vecchie Rocce
-D;Baschirotto;LEC;Lecce;11;1;Scap;Nottingham Dese
-D;Biraghi;FIO;Fiorentina;11;5;Fracca;Garda Che Squadra
-D;Doig;VER;Verona;11;0;Free Agent;Free Agent
-D;Mazzocchi;SAL;Salernitana;11;8;Marce;Atletico Una Volta
-D;Thiaw;MIL;Milan;11;0;Free Agent;Free Agent
-D;Acerbi;INT;Inter;10;11;Nippon;AC Cipicchia
-D;Buongiorno;TOR;Torino;10;0;Free Agent;Free Agent
-D;Calabria;MIL;Milan;10;3;Damian;Vecchie Rocce
-D;Casale;LAZ;Lazio;10;0;Free Agent;Free Agent
-D;Cuadrado;INT;Inter;10;0;Free Agent;Free Agent
-D;Ebuehi;EMP;Empoli;10;0;Free Agent;Free Agent
-D;Holm;ATA;Atalanta;10;3;Marce;Atletico Una Volta
-D;Mancini;ROM;Roma;10;6;Marce;Atletico Una Volta
-D;Mario Rui;NAP;Napoli;10;0;Free Agent;Free Agent
-D;Milenkovic;FIO;Fiorentina;10;20;Fracca;Garda Che Squadra
-D;Scalvini;ATA;Atalanta;10;14;Carle;AC Ciughina
-D;Bijol;UDI;Udinese;9;9;Nippon;AC Cipicchia
-D;Faraoni;VER;Verona;9;7;Marce;Atletico Una Volta
-D;Kolasinac;ATA;Atalanta;9;9;Nippon;AC Cipicchia
-D;Perez N.;UDI;Udinese;9;0;Free Agent;Free Agent
-D;Bastoni S.;EMP;Empoli;8;0;Free Agent;Free Agent
-D;De Vrij;INT;Inter;8;2;Fracca;Garda Che Squadra
-D;Djimsiti;ATA;Atalanta;8;5;Scap;Nottingham Dese
-D;Kristensen;ROM;Roma;8;0;Free Agent;Free Agent
-D;Kyriakopoulos;MON;Monza;8;0;Free Agent;Free Agent
-D;Mari';MON;Monza;8;0;Free Agent;Free Agent
-D;Martin;GEN;Genoa;8;0;Free Agent;Free Agent
-D;N'dicka;ROM;Roma;8;0;Free Agent;Free Agent
-D;Natan;NAP;Napoli;8;0;Free Agent;Free Agent
-D;Rodriguez R.;TOR;Torino;8;0;Free Agent;Free Agent
-D;Toloi;ATA;Atalanta;8;4;Carle;AC Ciughina
-D;Bellanova;TOR;Torino;7;3;Carle;AC Ciughina
-D;Bradaric;SAL;Salernitana;7;0;Free Agent;Free Agent
-D;Caldirola;MON;Monza;7;1;Scap;Nottingham Dese
-D;Cambiaso;JUV;Juventus;7;15;Fracca;Garda Che Squadra
-D;D'ambrosio;MON;Monza;7;1;Carle;AC Ciughina
-D;Dodo';FIO;Fiorentina;7;0;Free Agent;Free Agent
-D;Hien;VER;Verona;7;0;Free Agent;Free Agent
-D;Hysaj;LAZ;Lazio;7;0;Free Agent;Free Agent
-D;Izzo;MON;Monza;7;0;Free Agent;Free Agent
-D;Kalulu;MIL;Milan;7;0;Free Agent;Free Agent
-D;Kamara H.;UDI;Udinese;7;0;Free Agent;Free Agent
-D;Kristiansen;BOL;Bologna;7;0;Free Agent;Free Agent
-D;Lucumi';BOL;Bologna;7;0;Free Agent;Free Agent
-D;Luperto;EMP;Empoli;7;0;Free Agent;Free Agent
-D;Marusic;LAZ;Lazio;7;0;Free Agent;Free Agent
-D;Mina;FIO;Fiorentina;7;0;Free Agent;Free Agent
-D;Olivera;NAP;Napoli;7;0;Free Agent;Free Agent
-D;Parisi;FIO;Fiorentina;7;0;Free Agent;Free Agent
-D;Pedersen;SAS;Sassuolo;7;0;Free Agent;Free Agent
-D;Alex Sandro;JUV;Juventus;6;0;Free Agent;Free Agent
-D;Azzi;CAG;Cagliari;6;0;Free Agent;Free Agent
-D;Beukema;BOL;Bologna;6;0;Free Agent;Free Agent
-D;Birindelli;MON;Monza;6;0;Free Agent;Free Agent
-D;Dossena;CAG;Cagliari;6;7;Scap;Nottingham Dese
-D;Dragusin;GEN;Genoa;6;1;Nippon;AC Cipicchia
-D;Erlic;SAS;Sassuolo;6;0;Free Agent;Free Agent
-D;Gallo;LEC;Lecce;6;4;Damian;Vecchie Rocce
-D;Gatti;JUV;Juventus;6;3;Nippon;AC Cipicchia
-D;Gendrey;LEC;Lecce;6;0;Free Agent;Free Agent
-D;Gyomber;SAL;Salernitana;6;0;Free Agent;Free Agent
-D;Hateboer;ATA;Atalanta;6;0;Free Agent;Free Agent
-D;Juan Jesus;NAP;Napoli;6;0;Free Agent;Free Agent
-D;Lazzari;LAZ;Lazio;6;13;Scap;Nottingham Dese
-D;Llorente D.;ROM;Roma;6;0;Free Agent;Free Agent
-D;Marchizza;FRO;Frosinone;6;0;Free Agent;Free Agent
-D;Palomino;ATA;Atalanta;6;0;Free Agent;Free Agent
-D;Romagnoli S.;FRO;Frosinone;6;0;Free Agent;Free Agent
-D;Toljan;SAS;Sassuolo;6;0;Free Agent;Free Agent
-D;Vasquez;GEN;Genoa;6;0;Free Agent;Free Agent
-D;Viti;SAS;Sassuolo;6;0;Free Agent;Free Agent
-D;Vojvoda;TOR;Torino;6;0;Free Agent;Free Agent
-D;Wieteska;CAG;Cagliari;6;1;Damian;Vecchie Rocce
-D;Zappa;CAG;Cagliari;6;0;Free Agent;Free Agent
-D;Zemura;UDI;Udinese;6;0;Free Agent;Free Agent
-D;Augello;CAG;Cagliari;5;0;Free Agent;Free Agent
-D;Dawidowicz;VER;Verona;5;0;Free Agent;Free Agent
-D;Djidji;TOR;Torino;5;0;Free Agent;Free Agent
-D;Ebosele;UDI;Udinese;5;0;Free Agent;Free Agent
-D;Hatzidiakos;CAG;Cagliari;5;0;Free Agent;Free Agent
-D;Ismajli;EMP;Empoli;5;0;Free Agent;Free Agent
-D;Kabasele;UDI;Udinese;5;0;Free Agent;Free Agent
-D;Lovato;SAL;Salernitana;5;0;Free Agent;Free Agent
-D;Lykogiannis;BOL;Bologna;5;0;Free Agent;Free Agent
-D;Martinez Quarta;FIO;Fiorentina;5;0;Free Agent;Free Agent
-D;Masina;UDI;Udinese;5;0;Free Agent;Free Agent
-D;Monterisi;FRO;Frosinone;5;0;Free Agent;Free Agent
-D;Obert;CAG;Cagliari;5;0;Free Agent;Free Agent
-D;Pezzella Giu.;EMP;Empoli;5;0;Free Agent;Free Agent
-D;Pirola;SAL;Salernitana;5;0;Free Agent;Free Agent
-D;Pongracic;LEC;Lecce;5;0;Free Agent;Free Agent
-D;Ranieri L.;FIO;Fiorentina;5;0;Free Agent;Free Agent
-D;Ruggeri;ATA;Atalanta;5;0;Free Agent;Free Agent
-D;Sabelli;GEN;Genoa;5;0;Free Agent;Free Agent
-D;Tressoldi;SAS;Sassuolo;5;0;Free Agent;Free Agent
-D;Zortea;ATA;Atalanta;5;0;Free Agent;Free Agent
-D;Biraschi;GEN;Genoa;4;0;Free Agent;Free Agent
-D;Calafiori;BOL;Bologna;4;0;Free Agent;Free Agent
-D;Ehizibue;UDI;Udinese;4;0;Free Agent;Free Agent
-D;Lazaro;TOR;Torino;4;0;Free Agent;Free Agent
-D;Patric;LAZ;Lazio;4;0;Free Agent;Free Agent
-D;Pellegrini Lu.;LAZ;Lazio;4;0;Free Agent;Free Agent
-D;Terracciano F.;VER;Verona;4;0;Free Agent;Free Agent
-D;Vina;SAS;Sassuolo;4;0;Free Agent;Free Agent
-D;Vogliacco;GEN;Genoa;4;0;Free Agent;Free Agent
-D;Bani;GEN;Genoa;3;0;Free Agent;Free Agent
-D;Bereszynski;EMP;Empoli;3;0;Free Agent;Free Agent
-D;Bisseck;INT;Inter;3;0;Free Agent;Free Agent
-D;Carboni A.;MON;Monza;3;0;Free Agent;Free Agent
-D;Di Pardo;CAG;Cagliari;3;0;Free Agent;Free Agent
-D;Dorgu;LEC;Lecce;3;0;Free Agent;Free Agent
-D;Ferrari G.;SAS;Sassuolo;3;0;Free Agent;Free Agent
-D;Goldaniga;CAG;Cagliari;3;0;Free Agent;Free Agent
-D;Gunter;VER;Verona;3;0;Free Agent;Free Agent
-D;Hefti;GEN;Genoa;3;0;Free Agent;Free Agent
-D;Karsdorp;ROM;Roma;3;0;Free Agent;Free Agent
-D;Kjaer;MIL;Milan;3;0;Free Agent;Free Agent
-D;Lirola;FRO;Frosinone;3;0;Free Agent;Free Agent
-D;Magnani;VER;Verona;3;0;Free Agent;Free Agent
-D;Ostigard;NAP;Napoli;3;3;Damian;Vecchie Rocce
-D;Sambia;SAL;Salernitana;3;0;Free Agent;Free Agent
-D;Sazonov;TOR;Torino;3;0;Free Agent;Free Agent
-D;Soumaoro;BOL;Bologna;3;0;Free Agent;Free Agent
-D;Touba;LEC;Lecce;3;0;Free Agent;Free Agent
-D;Venuti;LEC;Lecce;3;0;Free Agent;Free Agent
-D;Zanoli;NAP;Napoli;3;0;Free Agent;Free Agent
-D;Zima;TOR;Torino;3;0;Free Agent;Free Agent
-D;Amione;VER;Verona;2;0;Free Agent;Free Agent
-D;Bonifazi;BOL;Bologna;2;0;Free Agent;Free Agent
-D;Cabal;VER;Verona;2;0;Free Agent;Free Agent
-D;Cacace;EMP;Empoli;2;0;Free Agent;Free Agent
-D;Celik;ROM;Roma;2;0;Free Agent;Free Agent
-D;Cittadini;MON;Monza;2;0;Free Agent;Free Agent
-D;Coppola D.;VER;Verona;2;0;Free Agent;Free Agent
-D;Corazza;BOL;Bologna;2;0;Free Agent;Free Agent
-D;Daniliuc;SAL;Salernitana;2;0;Free Agent;Free Agent
-D;De Sciglio;JUV;Juventus;2;0;Free Agent;Free Agent
-D;De Winter;GEN;Genoa;2;0;Free Agent;Free Agent
-D;Ebosse;UDI;Udinese;2;0;Free Agent;Free Agent
-D;Fazio;SAL;Salernitana;2;0;Free Agent;Free Agent
-D;Ferreira J.;UDI;Udinese;2;0;Free Agent;Free Agent
-D;Florenzi;MIL;Milan;2;0;Free Agent;Free Agent
-D;Haps;GEN;Genoa;2;0;Free Agent;Free Agent
-D;Kayode;FIO;Fiorentina;2;1;Marce;Atletico Una Volta
-D;Kristensen T.;UDI;Udinese;2;0;Free Agent;Free Agent
-D;Kumbulla;ROM;Roma;2;0;Free Agent;Free Agent
-D;Missori;SAS;Sassuolo;2;0;Free Agent;Free Agent
-D;Oyono;FRO;Frosinone;2;0;Free Agent;Free Agent
-D;Rugani;JUV;Juventus;2;0;Free Agent;Free Agent
-D;Walukiewicz;EMP;Empoli;2;0;Free Agent;Free Agent
-D;Amey;BOL;Bologna;1;0;Free Agent;Free Agent
-D;Bettella;MON;Monza;1;0;Free Agent;Free Agent
-D;Bonfanti;ATA;Atalanta;1;0;Free Agent;Free Agent
-D;Bronn;SAL;Salernitana;1;0;Free Agent;Free Agent
-D;Capradossi;CAG;Cagliari;1;0;Free Agent;Free Agent
-D;Carboni F.;MON;Monza;1;0;Free Agent;Free Agent
-D;De Silvestri;BOL;Bologna;1;1;Damian;Vecchie Rocce
-D;Dermaku;LEC;Lecce;1;0;Free Agent;Free Agent
-D;Gila;LAZ;Lazio;1;0;Free Agent;Free Agent
-D;Guarino;EMP;Empoli;1;0;Free Agent;Free Agent
-D;Guessand A.;UDI;Udinese;1;0;Free Agent;Free Agent
-D;Huijsen;JUV;Juventus;1;0;Free Agent;Free Agent
-D;Kalaj;FRO;Frosinone;1;0;Free Agent;Free Agent
-D;Mateus Lusuardi;FRO;Frosinone;1;0;Free Agent;Free Agent
-D;Matturro;GEN;Genoa;1;0;Free Agent;Free Agent
-D;N'guessan;TOR;Torino;1;0;Free Agent;Free Agent
-D;Okoli;FRO;Frosinone;1;0;Free Agent;Free Agent
-D;Pellegrino;MIL;Milan;1;0;Free Agent;Free Agent
-D;Pereira P.;MON;Monza;1;0;Free Agent;Free Agent
-D;Pierozzi;FIO;Fiorentina;1;0;Free Agent;Free Agent
-D;Smajlovic;LEC;Lecce;1;0;Free Agent;Free Agent
-D;Soppy;TOR;Torino;1;0;Free Agent;Free Agent
-D;Tonelli;EMP;Empoli;1;0;Free Agent;Free Agent
-C;Adli;MIL;Milan;1;0;Free Agent;Free Agent
-C;Adopo;ATA;Atalanta;3;0;Free Agent;Free Agent
-C;Aebischer;BOL;Bologna;6;0;Free Agent;Free Agent
-C;Akpa Akpro;MON;Monza;2;0;Free Agent;Free Agent
-C;Amatucci;FIO;Fiorentina;2;0;Free Agent;Free Agent
-C;Aouar;ROM;Roma;16;0;Free Agent;Free Agent
-C;Arthur Melo;FIO;Fiorentina;8;0;Free Agent;Free Agent
-C;Asllani;INT;Inter;3;0;Free Agent;Free Agent
-C;Badelj;GEN;Genoa;5;0;Free Agent;Free Agent
-C;Baez;FRO;Frosinone;4;0;Free Agent;Free Agent
-C;Bajrami;SAS;Sassuolo;13;0;Free Agent;Free Agent
-C;Baldanzi;EMP;Empoli;14;0;Free Agent;Free Agent
-C;Barak;FIO;Fiorentina;11;0;Free Agent;Free Agent
-C;Barella;INT;Inter;20;31;Scap;Nottingham Dese
-C;Barrenechea;FRO;Frosinone;3;0;Free Agent;Free Agent
-C;Basic;LAZ;Lazio;3;0;Free Agent;Free Agent
-C;Belardinelli;EMP;Empoli;1;0;Free Agent;Free Agent
-C;Bennacer;MIL;Milan;9;0;Free Agent;Free Agent
-C;Blin;LEC;Lecce;6;0;Free Agent;Free Agent
-C;Bohinen;SAL;Salernitana;4;0;Free Agent;Free Agent
-C;Boloca;SAS;Sassuolo;5;0;Free Agent;Free Agent
-C;Bonaventura;FIO;Fiorentina;15;3;Fracca;Garda Che Squadra
-C;Bondo;MON;Monza;1;0;Free Agent;Free Agent
-C;Bourabia;FRO;Frosinone;4;0;Free Agent;Free Agent
-C;Bove;ROM;Roma;6;0;Free Agent;Free Agent
-C;Brescianini;FRO;Frosinone;6;0;Free Agent;Free Agent
-C;Cajuste ;NAP;Napoli;6;0;Free Agent;Free Agent
-C;Calhanoglu;INT;Inter;17;0;Free Agent;Free Agent
-C;Camara E.;UDI;Udinese;2;0;Free Agent;Free Agent
-C;Candreva;SAL;Salernitana;17;11;Scap;Nottingham Dese
-C;Carboni V.;MON;Monza;1;0;Free Agent;Free Agent
-C;Castillejo;SAS;Sassuolo;5;0;Free Agent;Free Agent
-C;Castrovilli;FIO;Fiorentina;9;0;Free Agent;Free Agent
-C;Cataldi;LAZ;Lazio;8;0;Free Agent;Free Agent
-C;Chukwueze;MIL;Milan;19;0;Free Agent;Free Agent
-C;Ciurria;MON;Monza;14;7;Marce;Atletico Una Volta
-C;Colpani;MON;Monza;12;11;Marce;Atletico Una Volta
-C;Coulibaly L.;SAL;Salernitana;8;0;Free Agent;Free Agent
-C;Cristante;ROM;Roma;10;3;Scap;Nottingham Dese
-C;De Ketelaere;ATA;Atalanta;9;0;Free Agent;Free Agent
-C;De Roon;ATA;Atalanta;11;0;Free Agent;Free Agent
-C;Deiola;CAG;Cagliari;4;0;Free Agent;Free Agent
-C;Demme;NAP;Napoli;1;0;Free Agent;Free Agent
-C;Duda;VER;Verona;8;0;Free Agent;Free Agent
-C;Duncan;FIO;Fiorentina;6;1;Damian;Vecchie Rocce
-C;Ederson D.s.;ATA;Atalanta;12;0;Free Agent;Free Agent
-C;El Azzouzi;BOL;Bologna;1;0;Free Agent;Free Agent
-C;El Shaarawy;ROM;Roma;16;0;Free Agent;Free Agent
-C;Elmas;NAP;Napoli;14;2;Scap;Nottingham Dese
-C;Fabbian;BOL;Bologna;6;0;Free Agent;Free Agent
-C;Fagioli;JUV;Juventus;12;0;Free Agent;Free Agent
-C;Faticanti;LEC;Lecce;1;0;Free Agent;Free Agent
-C;Fazzini;EMP;Empoli;5;0;Free Agent;Free Agent
-C;Felipe Anderson;LAZ;Lazio;22;23;Nippon;AC Cipicchia
-C;Ferguson;BOL;Bologna;18;21;Fracca;Garda Che Squadra
-C;Folorunsho;VER;Verona;3;0;Free Agent;Free Agent
-C;Frattesi;INT;Inter;17;20;Fracca;Garda Che Squadra
-C;Frendrup;GEN;Genoa;7;0;Free Agent;Free Agent
-C;Freuler;BOL;Bologna;7;0;Free Agent;Free Agent
-C;Gaetano;NAP;Napoli;2;0;Free Agent;Free Agent
-C;Gagliardini;MON;Monza;7;0;Free Agent;Free Agent
-C;Garritano;FRO;Frosinone;3;0;Free Agent;Free Agent
-C;Gelli;FRO;Frosinone;3;0;Free Agent;Free Agent
-C;Gineitis;TOR;Torino;1;0;Free Agent;Free Agent
-C;Gonzalez J.;LEC;Lecce;6;0;Free Agent;Free Agent
-C;Grassi;EMP;Empoli;5;0;Free Agent;Free Agent
-C;Gudmundsson A.;GEN;Genoa;14;0;Free Agent;Free Agent
-C;Guendouzi;LAZ;Lazio;13;2;Nippon;AC Cipicchia
-C;Gyasi;EMP;Empoli;7;0;Free Agent;Free Agent
-C;Harroui;FRO;Frosinone;8;1;Damian;Vecchie Rocce
-C;Hongla;VER;Verona;5;0;Free Agent;Free Agent
-C;Hrustic;VER;Verona;2;0;Free Agent;Free Agent
-C;Ikone';FIO;Fiorentina;12;0;Free Agent;Free Agent
-C;Ilic;TOR;Torino;12;0;Free Agent;Free Agent
-C;Iling Junior;JUV;Juventus;5;0;Free Agent;Free Agent
-C;Infantino;FIO;Fiorentina;4;0;Free Agent;Free Agent
-C;Jagiello;GEN;Genoa;2;0;Free Agent;Free Agent
-C;Jankto;CAG;Cagliari;8;0;Free Agent;Free Agent
-C;Joselito;VER;Verona;1;0;Free Agent;Free Agent
-C;Kaba;LEC;Lecce;6;0;Free Agent;Free Agent
-C;Kamada;LAZ;Lazio;15;0;Free Agent;Free Agent
-C;Kastanos;SAL;Salernitana;7;0;Free Agent;Free Agent
-C;Klaassen;INT;Inter;9;0;Free Agent;Free Agent
-C;Koopmeiners;ATA;Atalanta;24;21;Damian;Vecchie Rocce
-C;Kostic;JUV;Juventus;14;3;Fracca;Garda Che Squadra
-C;Kovalenko;EMP;Empoli;4;0;Free Agent;Free Agent
-C;Krunic;MIL;Milan;7;0;Free Agent;Free Agent
-C;Kutlu;GEN;Genoa;4;0;Free Agent;Free Agent
-C;Lazovic;VER;Verona;14;0;Free Agent;Free Agent
-C;Legowski;SAL;Salernitana;1;0;Free Agent;Free Agent
-C;Lindstrom;NAP;Napoli;15;0;Free Agent;Free Agent
-C;Linetty;TOR;Torino;6;0;Free Agent;Free Agent
-C;Lipani;SAS;Sassuolo;1;0;Free Agent;Free Agent
-C;Lobotka;NAP;Napoli;13;1;Fracca;Garda Che Squadra
-C;Locatelli;JUV;Juventus;11;1;Carle;AC Ciughina
-C;Loftus-Cheek;MIL;Milan;14;0;Free Agent;Free Agent
-C;Lopez M.;FIO;Fiorentina;7;0;Free Agent;Free Agent
-C;Lovric;UDI;Udinese;15;1;Fracca;Garda Che Squadra
-C;Luis Alberto;LAZ;Lazio;22;25;Marce;Atletico Una Volta
-C;Lulic K.;FRO;Frosinone;1;0;Free Agent;Free Agent
-C;Machin;MON;Monza;6;0;Free Agent;Free Agent
-C;Maggiore;SAL;Salernitana;3;0;Free Agent;Free Agent
-C;Makoumbou;CAG;Cagliari;5;0;Free Agent;Free Agent
-C;Maldini;EMP;Empoli;4;0;Free Agent;Free Agent
-C;Maleh;EMP;Empoli;4;0;Free Agent;Free Agent
-C;Malinovskyi;GEN;Genoa;15;0;Free Agent;Free Agent
-C;Mancosu;CAG;Cagliari;6;0;Free Agent;Free Agent
-C;Mandragora;FIO;Fiorentina;10;0;Free Agent;Free Agent
-C;Marin;EMP;Empoli;8;0;Free Agent;Free Agent
-C;Martegani;SAL;Salernitana;5;0;Free Agent;Free Agent
-C;Matheus Henrique;SAS;Sassuolo;9;0;Free Agent;Free Agent
-C;Mazzitelli;FRO;Frosinone;5;0;Free Agent;Free Agent
-C;Mboula;VER;Verona;9;0;Free Agent;Free Agent
-C;Mckennie;JUV;Juventus;8;1;Carle;AC Ciughina
-C;Messias;GEN;Genoa;8;0;Free Agent;Free Agent
-C;Miranchuk;ATA;Atalanta;9;0;Free Agent;Free Agent
-C;Miretti;JUV;Juventus;5;0;Free Agent;Free Agent
-C;Mkhitaryan;INT;Inter;13;1;Carle;AC Ciughina
-C;Moro N.;BOL;Bologna;7;0;Free Agent;Free Agent
-C;Musah;MIL;Milan;9;0;Free Agent;Free Agent
-C;Nandez;CAG;Cagliari;8;0;Free Agent;Free Agent
-C;Ndoye;BOL;Bologna;12;0;Free Agent;Free Agent
-C;Nicolussi Caviglia;JUV;Juventus;1;1;Damian;Vecchie Rocce
-R;Nome;SQU;Squadra;Qt;0;Free Agent;Free Agent
-C;Obiang;SAS;Sassuolo;2;0;Free Agent;Free Agent
-C;Oristanio;CAG;Cagliari;5;0;Free Agent;Free Agent
-C;Orsolini;BOL;Bologna;19;10;Marce;Atletico Una Volta
-C;Oudin;LEC;Lecce;6;0;Free Agent;Free Agent
-C;Pafundi;UDI;Udinese;1;0;Free Agent;Free Agent
-C;Pagano;ROM;Roma;1;0;Free Agent;Free Agent
-C;Paredes;ROM;Roma;7;0;Free Agent;Free Agent
-C;Pasalic;ATA;Atalanta;13;0;Free Agent;Free Agent
-C;Payero;UDI;Udinese;5;0;Free Agent;Free Agent
-C;Pellegrini Lo.;ROM;Roma;15;0;Free Agent;Free Agent
-C;Pessina;MON;Monza;13;8;Nippon;AC Cipicchia
-C;Pobega;MIL;Milan;6;0;Free Agent;Free Agent
-C;Pogba;JUV;Juventus;12;0;Free Agent;Free Agent
-C;Politano;NAP;Napoli;15;13;Scap;Nottingham Dese
-C;Prati;CAG;Cagliari;1;0;Free Agent;Free Agent
-C;Pulisic;MIL;Milan;20;37;Damian;Vecchie Rocce
-C;Quina;UDI;Udinese;3;0;Free Agent;Free Agent
-C;Rabiot;JUV;Juventus;22;31;Nippon;AC Cipicchia
-C;Racic;SAS;Sassuolo;4;0;Free Agent;Free Agent
-C;Radonjic;TOR;Torino;12;3;Scap;Nottingham Dese
-C;Rafia;LEC;Lecce;6;0;Free Agent;Free Agent
-C;Ramadani;LEC;Lecce;7;0;Free Agent;Free Agent
-C;Ranocchia F.;EMP;Empoli;4;0;Free Agent;Free Agent
-C;Reijnders;MIL;Milan;13;0;Free Agent;Free Agent
-C;Reinier;FRO;Frosinone;8;0;Free Agent;Free Agent
-C;Renato Sanches;ROM;Roma;12;3;Carle;AC Ciughina
-C;Ricci S.;TOR;Torino;13;0;Free Agent;Free Agent
-C;Rog;CAG;Cagliari;1;0;Free Agent;Free Agent
-C;Romero L.;MIL;Milan;3;0;Free Agent;Free Agent
-C;Rovella;LAZ;Lazio;4;0;Free Agent;Free Agent
-C;Sabiri;FIO;Fiorentina;8;0;Free Agent;Free Agent
-C;Saelemaekers;BOL;Bologna;4;0;Free Agent;Free Agent
-C;Samardzic;UDI;Udinese;17;15;Carle;AC Ciughina
-C;Saponara;VER;Verona;10;0;Free Agent;Free Agent
-C;Sensi;INT;Inter;6;0;Free Agent;Free Agent
-C;Serdar;VER;Verona;5;0;Free Agent;Free Agent
-C;Sottil;FIO;Fiorentina;8;0;Free Agent;Free Agent
-C;Strefezza;LEC;Lecce;18;5;Marce;Atletico Una Volta
-C;Strootman;GEN;Genoa;6;0;Free Agent;Free Agent
-C;Sulemana I.;CAG;Cagliari;3;0;Free Agent;Free Agent
-C;Suslov;VER;Verona;3;0;Free Agent;Free Agent
-C;Tameze;TOR;Torino;8;0;Free Agent;Free Agent
-C;Tchaouna;SAL;Salernitana;3;0;Free Agent;Free Agent
-C;Tchatchoua;VER;Verona;4;0;Free Agent;Free Agent
-C;Thorsby;GEN;Genoa;8;0;Free Agent;Free Agent
-C;Thorstvedt;SAS;Sassuolo;6;0;Free Agent;Free Agent
-C;Urbanski;BOL;Bologna;2;0;Free Agent;Free Agent
-C;Vecino;LAZ;Lazio;6;0;Free Agent;Free Agent
-C;Vignato S.;MON;Monza;2;0;Free Agent;Free Agent
-C;Viola;CAG;Cagliari;1;0;Free Agent;Free Agent
-C;Vlasic;TOR;Torino;17;4;Nippon;AC Cipicchia
-C;Volpato;SAS;Sassuolo;2;0;Free Agent;Free Agent
-C;Walace;UDI;Udinese;6;0;Free Agent;Free Agent
-C;Weah;JUV;Juventus;10;0;Free Agent;Free Agent
-C;Zaccagni;LAZ;Lazio;26;31;Marce;Atletico Una Volta
-C;Zalewski;ROM;Roma;8;0;Free Agent;Free Agent
-C;Zambo Anguissa;NAP;Napoli;14;0;Free Agent;Free Agent
-C;Zarraga;UDI;Udinese;2;0;Free Agent;Free Agent
-C;Zerbin;NAP;Napoli;1;0;Free Agent;Free Agent
-C;Zielinski;NAP;Napoli;21;0;Free Agent;Free Agent
-A;Osimhen;NAP;Napoli;44;0;Free Agent;Free Agent
-A;Martinez L.;INT;Inter;40;0;Free Agent;Free Agent
-A;Rafael Leao;MIL;Milan;32;0;Free Agent;Free Agent
-A;Immobile;LAZ;Lazio;31;1;Carle;AC Ciughina
-A;Berardi;SAS;Sassuolo;30;3;Damian;Vecchie Rocce
-A;Lukaku;ROM;Roma;30;14;Carle;AC Ciughina
-A;Kvaratskhelia;NAP;Napoli;30;0;Free Agent;Free Agent
-A;Dybala;ROM;Roma;28;6;Marce;Atletico Una Volta
-A;Vlahovic;JUV;Juventus;28;18;Scap;Nottingham Dese
-A;Giroud;MIL;Milan;28;17;Damian;Vecchie Rocce
-A;Scamacca;ATA;Atalanta;27;18;Carle;AC Ciughina
-A;Dia;SAL;Salernitana;26;1;Nippon;AC Cipicchia
-A;Thuram;INT;Inter;25;17;Marce;Atletico Una Volta
-A;Lookman;ATA;Atalanta;24;1;Fracca;Garda Che Squadra
-A;Sanabria;TOR;Torino;23;1;Carle;AC Ciughina
-A;Arnautovic;INT;Inter;23;6;Fracca;Garda Che Squadra
-A;Retegui;GEN;Genoa;23;7;Fracca;Garda Che Squadra
-A;Nzola;FIO;Fiorentina;22;9;Fracca;Garda Che Squadra
-A;Lauriente';SAS;Sassuolo;21;0;Free Agent;Free Agent
-A;Zapata D.;TOR;Torino;19;0;Free Agent;Free Agent
-A;Chiesa;JUV;Juventus;19;11;Marce;Atletico Una Volta
-A;Milik;JUV;Juventus;18;1;Carle;AC Ciughina
-A;Gonzalez N.;FIO;Fiorentina;17;0;Free Agent;Free Agent
-A;Okafor;MIL;Milan;16;0;Free Agent;Free Agent
-A;Toure' E.;ATA;Atalanta;15;0;Free Agent;Free Agent
-A;Beltran L.;FIO;Fiorentina;15;0;Free Agent;Free Agent
-A;Lapadula;CAG;Cagliari;14;0;Free Agent;Free Agent
-A;Caprari;MON;Monza;14;0;Free Agent;Free Agent
-A;Sanchez;INT;Inter;14;0;Free Agent;Free Agent
-A;Abraham;ROM;Roma;14;1;Nippon;AC Cipicchia
-A;Caputo;EMP;Empoli;14;0;Free Agent;Free Agent
-A;Ngonge;VER;Verona;14;0;Free Agent;Free Agent
-A;Muriel;ATA;Atalanta;13;1;Scap;Nottingham Dese
-A;Pinamonti;SAS;Sassuolo;13;3;Nippon;AC Cipicchia
-A;Deulofeu;UDI;Udinese;13;0;Free Agent;Free Agent
-A;Jovic;MIL;Milan;13;0;Free Agent;Free Agent
-A;Zirkzee;BOL;Bologna;13;2;Marce;Atletico Una Volta
-A;Krstovic;LEC;Lecce;13;2;Nippon;AC Cipicchia
-A;Petagna;CAG;Cagliari;12;0;Free Agent;Free Agent
-A;Belotti;ROM;Roma;12;0;Free Agent;Free Agent
-A;Simeone;NAP;Napoli;12;0;Free Agent;Free Agent
-A;Cambiaghi;EMP;Empoli;12;0;Free Agent;Free Agent
-A;Shomurodov;CAG;Cagliari;12;0;Free Agent;Free Agent
-A;Azmoun;ROM;Roma;12;0;Free Agent;Free Agent
-A;Castellanos;LAZ;Lazio;12;0;Free Agent;Free Agent
-A;Thauvin;UDI;Udinese;11;0;Free Agent;Free Agent
-A;Pedro;LAZ;Lazio;11;0;Free Agent;Free Agent
-A;Brekalo;FIO;Fiorentina;11;0;Free Agent;Free Agent
-A;Henry;VER;Verona;11;0;Free Agent;Free Agent
-A;Mulattieri;SAS;Sassuolo;11;0;Free Agent;Free Agent
-A;Almqvist;LEC;Lecce;11;0;Free Agent;Free Agent
-A;Isaksen;LAZ;Lazio;11;0;Free Agent;Free Agent
-A;Karlsson;BOL;Bologna;11;0;Free Agent;Free Agent
-A;Kean;JUV;Juventus;10;2;Scap;Nottingham Dese
-A;Karamoh;TOR;Torino;10;0;Free Agent;Free Agent
-A;Djuric;VER;Verona;10;0;Free Agent;Free Agent
-A;Davis K.;UDI;Udinese;10;0;Free Agent;Free Agent
-A;Mota;MON;Monza;10;0;Free Agent;Free Agent
-A;Brenner;UDI;Udinese;10;0;Free Agent;Free Agent
-A;Cheddira;FRO;Frosinone;10;1;Fracca;Garda Che Squadra
-A;Defrel;SAS;Sassuolo;9;0;Free Agent;Free Agent
-A;Raspadori;NAP;Napoli;9;13;Marce;Atletico Una Volta
-A;Colombo;MON;Monza;9;3;Marce;Atletico Una Volta
-A;Luvumbo;CAG;Cagliari;9;0;Free Agent;Free Agent
-A;Banda;LEC;Lecce;9;0;Free Agent;Free Agent
-A;Bonazzoli;VER;Verona;8;0;Free Agent;Free Agent
-A;Pellegri;TOR;Torino;8;0;Free Agent;Free Agent
-A;Kouame';FIO;Fiorentina;8;0;Free Agent;Free Agent
-A;Piccoli;LEC;Lecce;7;0;Free Agent;Free Agent
-A;Success;UDI;Udinese;7;0;Free Agent;Free Agent
-A;Botheim;SAL;Salernitana;7;0;Free Agent;Free Agent
-A;Lucca;UDI;Udinese;7;0;Free Agent;Free Agent
-A;Caso;FRO;Frosinone;6;0;Free Agent;Free Agent
-A;Cancellieri;EMP;Empoli;5;0;Free Agent;Free Agent
-A;Jovane;SAL;Salernitana;5;0;Free Agent;Free Agent
-A;Pavoletti;CAG;Cagliari;4;0;Free Agent;Free Agent
-A;Soule';FRO;Frosinone;4;0;Free Agent;Free Agent
-A;Alvarez A.;SAS;Sassuolo;4;0;Free Agent;Free Agent
-A;Cuni;FRO;Frosinone;4;0;Free Agent;Free Agent
-A;Ekuban;GEN;Genoa;3;0;Free Agent;Free Agent
-A;Seck;TOR;Torino;3;0;Free Agent;Free Agent
-A;Kvernadze;FRO;Frosinone;3;0;Free Agent;Free Agent
-A;Destro;EMP;Empoli;2;0;Free Agent;Free Agent
-A;Van Hooijdonk;BOL;Bologna;2;0;Free Agent;Free Agent
-A;Ceide;SAS;Sassuolo;2;0;Free Agent;Free Agent
-A;Maric;MON;Monza;2;0;Free Agent;Free Agent
-A;Shpendi S.;EMP;Empoli;2;0;Free Agent;Free Agent
-A;Ikwuemesi;SAL;Salernitana;2;0;Free Agent;Free Agent
-A;Puscas;GEN;Genoa;1;0;Free Agent;Free Agent
-A;Ake' M.;UDI;Udinese;1;0;Free Agent;Free Agent
-A;Braaf;VER;Verona;1;0;Free Agent;Free Agent
-A;Kallon;VER;Verona;1;0;Free Agent;Free Agent
-A;Kaio Jorge;FRO;Frosinone;1;1;Nippon;AC Cipicchia
-A;Valencia D.;SAL;Salernitana;1;0;Free Agent;Free Agent
-A;Ekong;EMP;Empoli;1;0;Free Agent;Free Agent
-A;Vivaldo;UDI;Udinese;1;1;Damian;Vecchie Rocce
-A;Bidaoui;FRO;Frosinone;1;0;Free Agent;Free Agent
-A;Yalcin;GEN;Genoa;1;0;Free Agent;Free Agent
-A;Burnete;LEC;Lecce;1;0;Free Agent;Free Agent
-A;Corfitzen;LEC;Lecce;1;0;Free Agent;Free Agent
-A;Stewart;SAL;Salernitana;1;1;Damian;Vecchie Rocce
-A;Yildiz;JUV;Juventus;1;0;Free Agent;Free Agent
+﻿Role,Player,Club,Club Name,Initial Quote,Purchase Price,Owner,Squad
+P,Maignan,MIL,Milan,17,23,Damian,Vecchie Rocce
+P,Meret,NAP,Napoli,16,22,Scap,Nottingham Dese
+P,Sommer,INT,Inter,16,27,Carle,AC Ciughina
+P,Szczesny,JUV,Juventus,15,25,Nippon,AC Cipicchia
+P,Provedel,LAZ,Lazio,15,12,Marce,Atletico Una Volta
+P,Rui Patricio,ROM,Roma,12,8,Nippon,AC Cipicchia
+P,Di Gregorio,MON,Monza,12,1,Carle,AC Ciughina
+P,Skorupski,BOL,Bologna,10,4,Fracca,Garda Che Squadra
+P,Milinkovic-Savic V.,TOR,Torino,10,0,Free Agent,Free Agent
+P,Terracciano,FIO,Fiorentina,10,8,Scap,Nottingham Dese
+P,Carnesecchi,ATA,Atalanta,10,4,Carle,AC Ciughina
+P,Falcone,LEC,Lecce,9,1,Damian,Vecchie Rocce
+P,Silvestri,UDI,Udinese,9,0,Free Agent,Free Agent
+P,Ochoa,SAL,Salernitana,9,1,Damian,Vecchie Rocce
+P,Radunovic,CAG,Cagliari,8,0,Free Agent,Free Agent
+P,Montipo',VER,Verona,8,0,Free Agent,Free Agent
+P,Martinez Jo.,GEN,Genoa,8,0,Free Agent,Free Agent
+P,Caprile,EMP,Empoli,6,1,Nippon,AC Cipicchia
+P,Consigli,SAS,Sassuolo,5,9,Fracca,Garda Che Squadra
+P,Musso,ATA,Atalanta,5,8,Marce,Atletico Una Volta
+P,Turati,FRO,Frosinone,5,2,Marce,Atletico Una Volta
+P,Perin,JUV,Juventus,3,0,Free Agent,Free Agent
+P,Berisha,EMP,Empoli,3,0,Free Agent,Free Agent
+P,Cragno,SAS,Sassuolo,3,0,Free Agent,Free Agent
+P,Cerofolini,FRO,Frosinone,2,0,Free Agent,Free Agent
+P,Christensen O.,FIO,Fiorentina,2,0,Free Agent,Free Agent
+P,Sportiello,MIL,Milan,1,0,Free Agent,Free Agent
+P,Mirante,MIL,Milan,1,0,Free Agent,Free Agent
+P,Sepe,LAZ,Lazio,1,0,Free Agent,Free Agent
+P,Leali,GEN,Genoa,1,0,Free Agent,Free Agent
+P,Lamanna,MON,Monza,1,0,Free Agent,Free Agent
+P,Sommariva,GEN,Genoa,1,0,Free Agent,Free Agent
+P,Pegolo,SAS,Sassuolo,1,0,Free Agent,Free Agent
+P,Perilli,VER,Verona,1,0,Free Agent,Free Agent
+P,Padelli,UDI,Udinese,1,0,Free Agent,Free Agent
+P,Scuffet,CAG,Cagliari,1,0,Free Agent,Free Agent
+P,Gollini,NAP,Napoli,1,1,Scap,Nottingham Dese
+P,Perisan,EMP,Empoli,1,0,Free Agent,Free Agent
+P,Audero,INT,Inter,1,0,Free Agent,Free Agent
+P,Di Gennaro,INT,Inter,1,0,Free Agent,Free Agent
+P,Pinsoglio,JUV,Juventus,1,0,Free Agent,Free Agent
+P,Aresti,CAG,Cagliari,1,0,Free Agent,Free Agent
+P,Fiorillo,SAL,Salernitana,1,0,Free Agent,Free Agent
+P,Rossi F.,ATA,Atalanta,1,0,Free Agent,Free Agent
+P,Costil,SAL,Salernitana,1,0,Free Agent,Free Agent
+P,Ravaglia F.,BOL,Bologna,1,0,Free Agent,Free Agent
+P,Frattali,FRO,Frosinone,1,0,Free Agent,Free Agent
+P,Contini,NAP,Napoli,1,0,Free Agent,Free Agent
+P,Brancolini,LEC,Lecce,1,0,Free Agent,Free Agent
+P,Berardi A.,VER,Verona,1,0,Free Agent,Free Agent
+P,Gemello,TOR,Torino,1,0,Free Agent,Free Agent
+P,Boer,ROM,Roma,1,0,Free Agent,Free Agent
+P,Bagnolini,BOL,Bologna,1,0,Free Agent,Free Agent
+P,Svilar,ROM,Roma,1,0,Free Agent,Free Agent
+P,Sorrentino A.,MON,Monza,1,0,Free Agent,Free Agent
+P,Martinelli T.,FIO,Fiorentina,1,0,Free Agent,Free Agent
+P,Popa,TOR,Torino,1,0,Free Agent,Free Agent
+P,Stubljar,EMP,Empoli,1,0,Free Agent,Free Agent
+P,Gori,MON,Monza,1,0,Free Agent,Free Agent
+P,Borbei,LEC,Lecce,1,0,Free Agent,Free Agent
+P,Okoye,UDI,Udinese,1,0,Free Agent,Free Agent
+P,Mandas,LAZ,Lazio,1,0,Free Agent,Free Agent
+D,Di Lorenzo,NAP,Napoli,20,25,Carle,AC Ciughina
+D,Dimarco,INT,Inter,20,27,Marce,Atletico Una Volta
+D,Hernandez T.,MIL,Milan,18,0,Free Agent,Free Agent
+D,Carlos Augusto,INT,Inter,17,6,Marce,Atletico Una Volta
+D,Danilo,JUV,Juventus,16,30,Damian,Vecchie Rocce
+D,Posch,BOL,Bologna,15,0,Free Agent,Free Agent
+D,Schuurs,TOR,Torino,15,0,Free Agent,Free Agent
+D,Zappacosta,ATA,Atalanta,15,0,Free Agent,Free Agent
+D,Bastoni,INT,Inter,14,20,Fracca,Garda Che Squadra
+D,Dumfries,INT,Inter,14,26,Damian,Vecchie Rocce
+D,Pavard,INT,Inter,14,0,Free Agent,Free Agent
+D,Rrahmani,NAP,Napoli,14,0,Free Agent,Free Agent
+D,Smalling,ROM,Roma,14,0,Free Agent,Free Agent
+D,Bremer,JUV,Juventus,13,20,Fracca,Garda Che Squadra
+D,Romagnoli,LAZ,Lazio,13,13,Carle,AC Ciughina
+D,Tomori,MIL,Milan,13,14,Scap,Nottingham Dese
+D,Darmian,INT,Inter,12,6,Scap,Nottingham Dese
+D,Spinazzola,ROM,Roma,12,12,Carle,AC Ciughina
+D,Bakker,ATA,Atalanta,11,1,Damian,Vecchie Rocce
+D,Baschirotto,LEC,Lecce,11,1,Scap,Nottingham Dese
+D,Biraghi,FIO,Fiorentina,11,5,Fracca,Garda Che Squadra
+D,Doig,VER,Verona,11,0,Free Agent,Free Agent
+D,Mazzocchi,SAL,Salernitana,11,8,Marce,Atletico Una Volta
+D,Thiaw,MIL,Milan,11,0,Free Agent,Free Agent
+D,Acerbi,INT,Inter,10,11,Nippon,AC Cipicchia
+D,Buongiorno,TOR,Torino,10,0,Free Agent,Free Agent
+D,Calabria,MIL,Milan,10,3,Damian,Vecchie Rocce
+D,Casale,LAZ,Lazio,10,0,Free Agent,Free Agent
+D,Cuadrado,INT,Inter,10,0,Free Agent,Free Agent
+D,Ebuehi,EMP,Empoli,10,0,Free Agent,Free Agent
+D,Holm,ATA,Atalanta,10,3,Marce,Atletico Una Volta
+D,Mancini,ROM,Roma,10,6,Marce,Atletico Una Volta
+D,Mario Rui,NAP,Napoli,10,0,Free Agent,Free Agent
+D,Milenkovic,FIO,Fiorentina,10,20,Fracca,Garda Che Squadra
+D,Scalvini,ATA,Atalanta,10,14,Carle,AC Ciughina
+D,Bijol,UDI,Udinese,9,9,Nippon,AC Cipicchia
+D,Faraoni,VER,Verona,9,7,Marce,Atletico Una Volta
+D,Kolasinac,ATA,Atalanta,9,9,Nippon,AC Cipicchia
+D,Perez N.,UDI,Udinese,9,0,Free Agent,Free Agent
+D,Bastoni S.,EMP,Empoli,8,0,Free Agent,Free Agent
+D,De Vrij,INT,Inter,8,2,Fracca,Garda Che Squadra
+D,Djimsiti,ATA,Atalanta,8,5,Scap,Nottingham Dese
+D,Kristensen,ROM,Roma,8,0,Free Agent,Free Agent
+D,Kyriakopoulos,MON,Monza,8,0,Free Agent,Free Agent
+D,Mari',MON,Monza,8,0,Free Agent,Free Agent
+D,Martin,GEN,Genoa,8,0,Free Agent,Free Agent
+D,N'dicka,ROM,Roma,8,0,Free Agent,Free Agent
+D,Natan,NAP,Napoli,8,0,Free Agent,Free Agent
+D,Rodriguez R.,TOR,Torino,8,0,Free Agent,Free Agent
+D,Toloi,ATA,Atalanta,8,4,Carle,AC Ciughina
+D,Bellanova,TOR,Torino,7,3,Carle,AC Ciughina
+D,Bradaric,SAL,Salernitana,7,0,Free Agent,Free Agent
+D,Caldirola,MON,Monza,7,1,Scap,Nottingham Dese
+D,Cambiaso,JUV,Juventus,7,15,Fracca,Garda Che Squadra
+D,D'ambrosio,MON,Monza,7,1,Carle,AC Ciughina
+D,Dodo',FIO,Fiorentina,7,0,Free Agent,Free Agent
+D,Hien,VER,Verona,7,0,Free Agent,Free Agent
+D,Hysaj,LAZ,Lazio,7,0,Free Agent,Free Agent
+D,Izzo,MON,Monza,7,0,Free Agent,Free Agent
+D,Kalulu,MIL,Milan,7,0,Free Agent,Free Agent
+D,Kamara H.,UDI,Udinese,7,0,Free Agent,Free Agent
+D,Kristiansen,BOL,Bologna,7,0,Free Agent,Free Agent
+D,Lucumi',BOL,Bologna,7,0,Free Agent,Free Agent
+D,Luperto,EMP,Empoli,7,0,Free Agent,Free Agent
+D,Marusic,LAZ,Lazio,7,0,Free Agent,Free Agent
+D,Mina,FIO,Fiorentina,7,0,Free Agent,Free Agent
+D,Olivera,NAP,Napoli,7,0,Free Agent,Free Agent
+D,Parisi,FIO,Fiorentina,7,0,Free Agent,Free Agent
+D,Pedersen,SAS,Sassuolo,7,0,Free Agent,Free Agent
+D,Alex Sandro,JUV,Juventus,6,0,Free Agent,Free Agent
+D,Azzi,CAG,Cagliari,6,0,Free Agent,Free Agent
+D,Beukema,BOL,Bologna,6,0,Free Agent,Free Agent
+D,Birindelli,MON,Monza,6,0,Free Agent,Free Agent
+D,Dossena,CAG,Cagliari,6,7,Scap,Nottingham Dese
+D,Dragusin,GEN,Genoa,6,1,Nippon,AC Cipicchia
+D,Erlic,SAS,Sassuolo,6,0,Free Agent,Free Agent
+D,Gallo,LEC,Lecce,6,4,Damian,Vecchie Rocce
+D,Gatti,JUV,Juventus,6,3,Nippon,AC Cipicchia
+D,Gendrey,LEC,Lecce,6,0,Free Agent,Free Agent
+D,Gyomber,SAL,Salernitana,6,0,Free Agent,Free Agent
+D,Hateboer,ATA,Atalanta,6,0,Free Agent,Free Agent
+D,Juan Jesus,NAP,Napoli,6,0,Free Agent,Free Agent
+D,Lazzari,LAZ,Lazio,6,13,Scap,Nottingham Dese
+D,Llorente D.,ROM,Roma,6,0,Free Agent,Free Agent
+D,Marchizza,FRO,Frosinone,6,0,Free Agent,Free Agent
+D,Palomino,ATA,Atalanta,6,0,Free Agent,Free Agent
+D,Romagnoli S.,FRO,Frosinone,6,0,Free Agent,Free Agent
+D,Toljan,SAS,Sassuolo,6,0,Free Agent,Free Agent
+D,Vasquez,GEN,Genoa,6,0,Free Agent,Free Agent
+D,Viti,SAS,Sassuolo,6,0,Free Agent,Free Agent
+D,Vojvoda,TOR,Torino,6,0,Free Agent,Free Agent
+D,Wieteska,CAG,Cagliari,6,1,Damian,Vecchie Rocce
+D,Zappa,CAG,Cagliari,6,0,Free Agent,Free Agent
+D,Zemura,UDI,Udinese,6,0,Free Agent,Free Agent
+D,Augello,CAG,Cagliari,5,0,Free Agent,Free Agent
+D,Dawidowicz,VER,Verona,5,0,Free Agent,Free Agent
+D,Djidji,TOR,Torino,5,0,Free Agent,Free Agent
+D,Ebosele,UDI,Udinese,5,0,Free Agent,Free Agent
+D,Hatzidiakos,CAG,Cagliari,5,0,Free Agent,Free Agent
+D,Ismajli,EMP,Empoli,5,0,Free Agent,Free Agent
+D,Kabasele,UDI,Udinese,5,0,Free Agent,Free Agent
+D,Lovato,SAL,Salernitana,5,0,Free Agent,Free Agent
+D,Lykogiannis,BOL,Bologna,5,0,Free Agent,Free Agent
+D,Martinez Quarta,FIO,Fiorentina,5,0,Free Agent,Free Agent
+D,Masina,UDI,Udinese,5,0,Free Agent,Free Agent
+D,Monterisi,FRO,Frosinone,5,0,Free Agent,Free Agent
+D,Obert,CAG,Cagliari,5,0,Free Agent,Free Agent
+D,Pezzella Giu.,EMP,Empoli,5,0,Free Agent,Free Agent
+D,Pirola,SAL,Salernitana,5,0,Free Agent,Free Agent
+D,Pongracic,LEC,Lecce,5,0,Free Agent,Free Agent
+D,Ranieri L.,FIO,Fiorentina,5,0,Free Agent,Free Agent
+D,Ruggeri,ATA,Atalanta,5,0,Free Agent,Free Agent
+D,Sabelli,GEN,Genoa,5,0,Free Agent,Free Agent
+D,Tressoldi,SAS,Sassuolo,5,0,Free Agent,Free Agent
+D,Zortea,ATA,Atalanta,5,0,Free Agent,Free Agent
+D,Biraschi,GEN,Genoa,4,0,Free Agent,Free Agent
+D,Calafiori,BOL,Bologna,4,0,Free Agent,Free Agent
+D,Ehizibue,UDI,Udinese,4,0,Free Agent,Free Agent
+D,Lazaro,TOR,Torino,4,0,Free Agent,Free Agent
+D,Patric,LAZ,Lazio,4,0,Free Agent,Free Agent
+D,Pellegrini Lu.,LAZ,Lazio,4,0,Free Agent,Free Agent
+D,Terracciano F.,VER,Verona,4,0,Free Agent,Free Agent
+D,Vina,SAS,Sassuolo,4,0,Free Agent,Free Agent
+D,Vogliacco,GEN,Genoa,4,0,Free Agent,Free Agent
+D,Bani,GEN,Genoa,3,0,Free Agent,Free Agent
+D,Bereszynski,EMP,Empoli,3,0,Free Agent,Free Agent
+D,Bisseck,INT,Inter,3,0,Free Agent,Free Agent
+D,Carboni A.,MON,Monza,3,0,Free Agent,Free Agent
+D,Di Pardo,CAG,Cagliari,3,0,Free Agent,Free Agent
+D,Dorgu,LEC,Lecce,3,0,Free Agent,Free Agent
+D,Ferrari G.,SAS,Sassuolo,3,0,Free Agent,Free Agent
+D,Goldaniga,CAG,Cagliari,3,0,Free Agent,Free Agent
+D,Gunter,VER,Verona,3,0,Free Agent,Free Agent
+D,Hefti,GEN,Genoa,3,0,Free Agent,Free Agent
+D,Karsdorp,ROM,Roma,3,0,Free Agent,Free Agent
+D,Kjaer,MIL,Milan,3,0,Free Agent,Free Agent
+D,Lirola,FRO,Frosinone,3,0,Free Agent,Free Agent
+D,Magnani,VER,Verona,3,0,Free Agent,Free Agent
+D,Ostigard,NAP,Napoli,3,3,Damian,Vecchie Rocce
+D,Sambia,SAL,Salernitana,3,0,Free Agent,Free Agent
+D,Sazonov,TOR,Torino,3,0,Free Agent,Free Agent
+D,Soumaoro,BOL,Bologna,3,0,Free Agent,Free Agent
+D,Touba,LEC,Lecce,3,0,Free Agent,Free Agent
+D,Venuti,LEC,Lecce,3,0,Free Agent,Free Agent
+D,Zanoli,NAP,Napoli,3,0,Free Agent,Free Agent
+D,Zima,TOR,Torino,3,0,Free Agent,Free Agent
+D,Amione,VER,Verona,2,0,Free Agent,Free Agent
+D,Bonifazi,BOL,Bologna,2,0,Free Agent,Free Agent
+D,Cabal,VER,Verona,2,0,Free Agent,Free Agent
+D,Cacace,EMP,Empoli,2,0,Free Agent,Free Agent
+D,Celik,ROM,Roma,2,0,Free Agent,Free Agent
+D,Cittadini,MON,Monza,2,0,Free Agent,Free Agent
+D,Coppola D.,VER,Verona,2,0,Free Agent,Free Agent
+D,Corazza,BOL,Bologna,2,0,Free Agent,Free Agent
+D,Daniliuc,SAL,Salernitana,2,0,Free Agent,Free Agent
+D,De Sciglio,JUV,Juventus,2,0,Free Agent,Free Agent
+D,De Winter,GEN,Genoa,2,0,Free Agent,Free Agent
+D,Ebosse,UDI,Udinese,2,0,Free Agent,Free Agent
+D,Fazio,SAL,Salernitana,2,0,Free Agent,Free Agent
+D,Ferreira J.,UDI,Udinese,2,0,Free Agent,Free Agent
+D,Florenzi,MIL,Milan,2,0,Free Agent,Free Agent
+D,Haps,GEN,Genoa,2,0,Free Agent,Free Agent
+D,Kayode,FIO,Fiorentina,2,1,Marce,Atletico Una Volta
+D,Kristensen T.,UDI,Udinese,2,0,Free Agent,Free Agent
+D,Kumbulla,ROM,Roma,2,0,Free Agent,Free Agent
+D,Missori,SAS,Sassuolo,2,0,Free Agent,Free Agent
+D,Oyono,FRO,Frosinone,2,0,Free Agent,Free Agent
+D,Rugani,JUV,Juventus,2,0,Free Agent,Free Agent
+D,Walukiewicz,EMP,Empoli,2,0,Free Agent,Free Agent
+D,Amey,BOL,Bologna,1,0,Free Agent,Free Agent
+D,Bettella,MON,Monza,1,0,Free Agent,Free Agent
+D,Bonfanti,ATA,Atalanta,1,0,Free Agent,Free Agent
+D,Bronn,SAL,Salernitana,1,0,Free Agent,Free Agent
+D,Capradossi,CAG,Cagliari,1,0,Free Agent,Free Agent
+D,Carboni F.,MON,Monza,1,0,Free Agent,Free Agent
+D,De Silvestri,BOL,Bologna,1,1,Damian,Vecchie Rocce
+D,Dermaku,LEC,Lecce,1,0,Free Agent,Free Agent
+D,Gila,LAZ,Lazio,1,0,Free Agent,Free Agent
+D,Guarino,EMP,Empoli,1,0,Free Agent,Free Agent
+D,Guessand A.,UDI,Udinese,1,0,Free Agent,Free Agent
+D,Huijsen,JUV,Juventus,1,0,Free Agent,Free Agent
+D,Kalaj,FRO,Frosinone,1,0,Free Agent,Free Agent
+D,Mateus Lusuardi,FRO,Frosinone,1,0,Free Agent,Free Agent
+D,Matturro,GEN,Genoa,1,0,Free Agent,Free Agent
+D,N'guessan,TOR,Torino,1,0,Free Agent,Free Agent
+D,Okoli,FRO,Frosinone,1,0,Free Agent,Free Agent
+D,Pellegrino,MIL,Milan,1,0,Free Agent,Free Agent
+D,Pereira P.,MON,Monza,1,0,Free Agent,Free Agent
+D,Pierozzi,FIO,Fiorentina,1,0,Free Agent,Free Agent
+D,Smajlovic,LEC,Lecce,1,0,Free Agent,Free Agent
+D,Soppy,TOR,Torino,1,0,Free Agent,Free Agent
+D,Tonelli,EMP,Empoli,1,0,Free Agent,Free Agent
+C,Adli,MIL,Milan,1,0,Free Agent,Free Agent
+C,Adopo,ATA,Atalanta,3,0,Free Agent,Free Agent
+C,Aebischer,BOL,Bologna,6,0,Free Agent,Free Agent
+C,Akpa Akpro,MON,Monza,2,0,Free Agent,Free Agent
+C,Amatucci,FIO,Fiorentina,2,0,Free Agent,Free Agent
+C,Aouar,ROM,Roma,16,0,Free Agent,Free Agent
+C,Arthur Melo,FIO,Fiorentina,8,0,Free Agent,Free Agent
+C,Asllani,INT,Inter,3,0,Free Agent,Free Agent
+C,Badelj,GEN,Genoa,5,0,Free Agent,Free Agent
+C,Baez,FRO,Frosinone,4,0,Free Agent,Free Agent
+C,Bajrami,SAS,Sassuolo,13,0,Free Agent,Free Agent
+C,Baldanzi,EMP,Empoli,14,0,Free Agent,Free Agent
+C,Barak,FIO,Fiorentina,11,0,Free Agent,Free Agent
+C,Barella,INT,Inter,20,31,Scap,Nottingham Dese
+C,Barrenechea,FRO,Frosinone,3,0,Free Agent,Free Agent
+C,Basic,LAZ,Lazio,3,0,Free Agent,Free Agent
+C,Belardinelli,EMP,Empoli,1,0,Free Agent,Free Agent
+C,Bennacer,MIL,Milan,9,0,Free Agent,Free Agent
+C,Blin,LEC,Lecce,6,0,Free Agent,Free Agent
+C,Bohinen,SAL,Salernitana,4,0,Free Agent,Free Agent
+C,Boloca,SAS,Sassuolo,5,0,Free Agent,Free Agent
+C,Bonaventura,FIO,Fiorentina,15,3,Fracca,Garda Che Squadra
+C,Bondo,MON,Monza,1,0,Free Agent,Free Agent
+C,Bourabia,FRO,Frosinone,4,0,Free Agent,Free Agent
+C,Bove,ROM,Roma,6,0,Free Agent,Free Agent
+C,Brescianini,FRO,Frosinone,6,0,Free Agent,Free Agent
+C,Cajuste ,NAP,Napoli,6,0,Free Agent,Free Agent
+C,Calhanoglu,INT,Inter,17,0,Free Agent,Free Agent
+C,Camara E.,UDI,Udinese,2,0,Free Agent,Free Agent
+C,Candreva,SAL,Salernitana,17,11,Scap,Nottingham Dese
+C,Carboni V.,MON,Monza,1,0,Free Agent,Free Agent
+C,Castillejo,SAS,Sassuolo,5,0,Free Agent,Free Agent
+C,Castrovilli,FIO,Fiorentina,9,0,Free Agent,Free Agent
+C,Cataldi,LAZ,Lazio,8,0,Free Agent,Free Agent
+C,Chukwueze,MIL,Milan,19,0,Free Agent,Free Agent
+C,Ciurria,MON,Monza,14,7,Marce,Atletico Una Volta
+C,Colpani,MON,Monza,12,11,Marce,Atletico Una Volta
+C,Coulibaly L.,SAL,Salernitana,8,0,Free Agent,Free Agent
+C,Cristante,ROM,Roma,10,3,Scap,Nottingham Dese
+C,De Ketelaere,ATA,Atalanta,9,0,Free Agent,Free Agent
+C,De Roon,ATA,Atalanta,11,0,Free Agent,Free Agent
+C,Deiola,CAG,Cagliari,4,0,Free Agent,Free Agent
+C,Demme,NAP,Napoli,1,0,Free Agent,Free Agent
+C,Duda,VER,Verona,8,0,Free Agent,Free Agent
+C,Duncan,FIO,Fiorentina,6,1,Damian,Vecchie Rocce
+C,Ederson D.s.,ATA,Atalanta,12,0,Free Agent,Free Agent
+C,El Azzouzi,BOL,Bologna,1,0,Free Agent,Free Agent
+C,El Shaarawy,ROM,Roma,16,0,Free Agent,Free Agent
+C,Elmas,NAP,Napoli,14,2,Scap,Nottingham Dese
+C,Fabbian,BOL,Bologna,6,0,Free Agent,Free Agent
+C,Fagioli,JUV,Juventus,12,0,Free Agent,Free Agent
+C,Faticanti,LEC,Lecce,1,0,Free Agent,Free Agent
+C,Fazzini,EMP,Empoli,5,0,Free Agent,Free Agent
+C,Felipe Anderson,LAZ,Lazio,22,23,Nippon,AC Cipicchia
+C,Ferguson,BOL,Bologna,18,21,Fracca,Garda Che Squadra
+C,Folorunsho,VER,Verona,3,0,Free Agent,Free Agent
+C,Frattesi,INT,Inter,17,20,Fracca,Garda Che Squadra
+C,Frendrup,GEN,Genoa,7,0,Free Agent,Free Agent
+C,Freuler,BOL,Bologna,7,0,Free Agent,Free Agent
+C,Gaetano,NAP,Napoli,2,0,Free Agent,Free Agent
+C,Gagliardini,MON,Monza,7,0,Free Agent,Free Agent
+C,Garritano,FRO,Frosinone,3,0,Free Agent,Free Agent
+C,Gelli,FRO,Frosinone,3,0,Free Agent,Free Agent
+C,Gineitis,TOR,Torino,1,0,Free Agent,Free Agent
+C,Gonzalez J.,LEC,Lecce,6,0,Free Agent,Free Agent
+C,Grassi,EMP,Empoli,5,0,Free Agent,Free Agent
+C,Gudmundsson A.,GEN,Genoa,14,0,Free Agent,Free Agent
+C,Guendouzi,LAZ,Lazio,13,2,Nippon,AC Cipicchia
+C,Gyasi,EMP,Empoli,7,0,Free Agent,Free Agent
+C,Harroui,FRO,Frosinone,8,1,Damian,Vecchie Rocce
+C,Hongla,VER,Verona,5,0,Free Agent,Free Agent
+C,Hrustic,VER,Verona,2,0,Free Agent,Free Agent
+C,Ikone',FIO,Fiorentina,12,0,Free Agent,Free Agent
+C,Ilic,TOR,Torino,12,0,Free Agent,Free Agent
+C,Iling Junior,JUV,Juventus,5,0,Free Agent,Free Agent
+C,Infantino,FIO,Fiorentina,4,0,Free Agent,Free Agent
+C,Jagiello,GEN,Genoa,2,0,Free Agent,Free Agent
+C,Jankto,CAG,Cagliari,8,0,Free Agent,Free Agent
+C,Joselito,VER,Verona,1,0,Free Agent,Free Agent
+C,Kaba,LEC,Lecce,6,0,Free Agent,Free Agent
+C,Kamada,LAZ,Lazio,15,0,Free Agent,Free Agent
+C,Kastanos,SAL,Salernitana,7,0,Free Agent,Free Agent
+C,Klaassen,INT,Inter,9,0,Free Agent,Free Agent
+C,Koopmeiners,ATA,Atalanta,24,21,Damian,Vecchie Rocce
+C,Kostic,JUV,Juventus,14,3,Fracca,Garda Che Squadra
+C,Kovalenko,EMP,Empoli,4,0,Free Agent,Free Agent
+C,Krunic,MIL,Milan,7,0,Free Agent,Free Agent
+C,Kutlu,GEN,Genoa,4,0,Free Agent,Free Agent
+C,Lazovic,VER,Verona,14,0,Free Agent,Free Agent
+C,Legowski,SAL,Salernitana,1,0,Free Agent,Free Agent
+C,Lindstrom,NAP,Napoli,15,0,Free Agent,Free Agent
+C,Linetty,TOR,Torino,6,0,Free Agent,Free Agent
+C,Lipani,SAS,Sassuolo,1,0,Free Agent,Free Agent
+C,Lobotka,NAP,Napoli,13,1,Fracca,Garda Che Squadra
+C,Locatelli,JUV,Juventus,11,1,Carle,AC Ciughina
+C,Loftus-Cheek,MIL,Milan,14,0,Free Agent,Free Agent
+C,Lopez M.,FIO,Fiorentina,7,0,Free Agent,Free Agent
+C,Lovric,UDI,Udinese,15,1,Fracca,Garda Che Squadra
+C,Luis Alberto,LAZ,Lazio,22,25,Marce,Atletico Una Volta
+C,Lulic K.,FRO,Frosinone,1,0,Free Agent,Free Agent
+C,Machin,MON,Monza,6,0,Free Agent,Free Agent
+C,Maggiore,SAL,Salernitana,3,0,Free Agent,Free Agent
+C,Makoumbou,CAG,Cagliari,5,0,Free Agent,Free Agent
+C,Maldini,EMP,Empoli,4,0,Free Agent,Free Agent
+C,Maleh,EMP,Empoli,4,0,Free Agent,Free Agent
+C,Malinovskyi,GEN,Genoa,15,0,Free Agent,Free Agent
+C,Mancosu,CAG,Cagliari,6,0,Free Agent,Free Agent
+C,Mandragora,FIO,Fiorentina,10,0,Free Agent,Free Agent
+C,Marin,EMP,Empoli,8,0,Free Agent,Free Agent
+C,Martegani,SAL,Salernitana,5,0,Free Agent,Free Agent
+C,Matheus Henrique,SAS,Sassuolo,9,0,Free Agent,Free Agent
+C,Mazzitelli,FRO,Frosinone,5,0,Free Agent,Free Agent
+C,Mboula,VER,Verona,9,0,Free Agent,Free Agent
+C,Mckennie,JUV,Juventus,8,1,Carle,AC Ciughina
+C,Messias,GEN,Genoa,8,0,Free Agent,Free Agent
+C,Miranchuk,ATA,Atalanta,9,0,Free Agent,Free Agent
+C,Miretti,JUV,Juventus,5,0,Free Agent,Free Agent
+C,Mkhitaryan,INT,Inter,13,1,Carle,AC Ciughina
+C,Moro N.,BOL,Bologna,7,0,Free Agent,Free Agent
+C,Musah,MIL,Milan,9,0,Free Agent,Free Agent
+C,Nandez,CAG,Cagliari,8,0,Free Agent,Free Agent
+C,Ndoye,BOL,Bologna,12,0,Free Agent,Free Agent
+C,Nicolussi Caviglia,JUV,Juventus,1,1,Damian,Vecchie Rocce
+R,Nome,SQU,Squadra,Qt,0,Free Agent,Free Agent
+C,Obiang,SAS,Sassuolo,2,0,Free Agent,Free Agent
+C,Oristanio,CAG,Cagliari,5,0,Free Agent,Free Agent
+C,Orsolini,BOL,Bologna,19,10,Marce,Atletico Una Volta
+C,Oudin,LEC,Lecce,6,0,Free Agent,Free Agent
+C,Pafundi,UDI,Udinese,1,0,Free Agent,Free Agent
+C,Pagano,ROM,Roma,1,0,Free Agent,Free Agent
+C,Paredes,ROM,Roma,7,0,Free Agent,Free Agent
+C,Pasalic,ATA,Atalanta,13,0,Free Agent,Free Agent
+C,Payero,UDI,Udinese,5,0,Free Agent,Free Agent
+C,Pellegrini Lo.,ROM,Roma,15,0,Free Agent,Free Agent
+C,Pessina,MON,Monza,13,8,Nippon,AC Cipicchia
+C,Pobega,MIL,Milan,6,0,Free Agent,Free Agent
+C,Pogba,JUV,Juventus,12,0,Free Agent,Free Agent
+C,Politano,NAP,Napoli,15,13,Scap,Nottingham Dese
+C,Prati,CAG,Cagliari,1,0,Free Agent,Free Agent
+C,Pulisic,MIL,Milan,20,37,Damian,Vecchie Rocce
+C,Quina,UDI,Udinese,3,0,Free Agent,Free Agent
+C,Rabiot,JUV,Juventus,22,31,Nippon,AC Cipicchia
+C,Racic,SAS,Sassuolo,4,0,Free Agent,Free Agent
+C,Radonjic,TOR,Torino,12,3,Scap,Nottingham Dese
+C,Rafia,LEC,Lecce,6,0,Free Agent,Free Agent
+C,Ramadani,LEC,Lecce,7,0,Free Agent,Free Agent
+C,Ranocchia F.,EMP,Empoli,4,0,Free Agent,Free Agent
+C,Reijnders,MIL,Milan,13,0,Free Agent,Free Agent
+C,Reinier,FRO,Frosinone,8,0,Free Agent,Free Agent
+C,Renato Sanches,ROM,Roma,12,3,Carle,AC Ciughina
+C,Ricci S.,TOR,Torino,13,0,Free Agent,Free Agent
+C,Rog,CAG,Cagliari,1,0,Free Agent,Free Agent
+C,Romero L.,MIL,Milan,3,0,Free Agent,Free Agent
+C,Rovella,LAZ,Lazio,4,0,Free Agent,Free Agent
+C,Sabiri,FIO,Fiorentina,8,0,Free Agent,Free Agent
+C,Saelemaekers,BOL,Bologna,4,0,Free Agent,Free Agent
+C,Samardzic,UDI,Udinese,17,15,Carle,AC Ciughina
+C,Saponara,VER,Verona,10,0,Free Agent,Free Agent
+C,Sensi,INT,Inter,6,0,Free Agent,Free Agent
+C,Serdar,VER,Verona,5,0,Free Agent,Free Agent
+C,Sottil,FIO,Fiorentina,8,0,Free Agent,Free Agent
+C,Strefezza,LEC,Lecce,18,5,Marce,Atletico Una Volta
+C,Strootman,GEN,Genoa,6,0,Free Agent,Free Agent
+C,Sulemana I.,CAG,Cagliari,3,0,Free Agent,Free Agent
+C,Suslov,VER,Verona,3,0,Free Agent,Free Agent
+C,Tameze,TOR,Torino,8,0,Free Agent,Free Agent
+C,Tchaouna,SAL,Salernitana,3,0,Free Agent,Free Agent
+C,Tchatchoua,VER,Verona,4,0,Free Agent,Free Agent
+C,Thorsby,GEN,Genoa,8,0,Free Agent,Free Agent
+C,Thorstvedt,SAS,Sassuolo,6,0,Free Agent,Free Agent
+C,Urbanski,BOL,Bologna,2,0,Free Agent,Free Agent
+C,Vecino,LAZ,Lazio,6,0,Free Agent,Free Agent
+C,Vignato S.,MON,Monza,2,0,Free Agent,Free Agent
+C,Viola,CAG,Cagliari,1,0,Free Agent,Free Agent
+C,Vlasic,TOR,Torino,17,4,Nippon,AC Cipicchia
+C,Volpato,SAS,Sassuolo,2,0,Free Agent,Free Agent
+C,Walace,UDI,Udinese,6,0,Free Agent,Free Agent
+C,Weah,JUV,Juventus,10,0,Free Agent,Free Agent
+C,Zaccagni,LAZ,Lazio,26,31,Marce,Atletico Una Volta
+C,Zalewski,ROM,Roma,8,0,Free Agent,Free Agent
+C,Zambo Anguissa,NAP,Napoli,14,0,Free Agent,Free Agent
+C,Zarraga,UDI,Udinese,2,0,Free Agent,Free Agent
+C,Zerbin,NAP,Napoli,1,0,Free Agent,Free Agent
+C,Zielinski,NAP,Napoli,21,0,Free Agent,Free Agent
+A,Osimhen,NAP,Napoli,44,0,Free Agent,Free Agent
+A,Martinez L.,INT,Inter,40,0,Free Agent,Free Agent
+A,Rafael Leao,MIL,Milan,32,0,Free Agent,Free Agent
+A,Immobile,LAZ,Lazio,31,1,Carle,AC Ciughina
+A,Berardi,SAS,Sassuolo,30,3,Damian,Vecchie Rocce
+A,Lukaku,ROM,Roma,30,14,Carle,AC Ciughina
+A,Kvaratskhelia,NAP,Napoli,30,0,Free Agent,Free Agent
+A,Dybala,ROM,Roma,28,6,Marce,Atletico Una Volta
+A,Vlahovic,JUV,Juventus,28,18,Scap,Nottingham Dese
+A,Giroud,MIL,Milan,28,17,Damian,Vecchie Rocce
+A,Scamacca,ATA,Atalanta,27,18,Carle,AC Ciughina
+A,Dia,SAL,Salernitana,26,1,Nippon,AC Cipicchia
+A,Thuram,INT,Inter,25,17,Marce,Atletico Una Volta
+A,Lookman,ATA,Atalanta,24,1,Fracca,Garda Che Squadra
+A,Sanabria,TOR,Torino,23,1,Carle,AC Ciughina
+A,Arnautovic,INT,Inter,23,6,Fracca,Garda Che Squadra
+A,Retegui,GEN,Genoa,23,7,Fracca,Garda Che Squadra
+A,Nzola,FIO,Fiorentina,22,9,Fracca,Garda Che Squadra
+A,Lauriente',SAS,Sassuolo,21,0,Free Agent,Free Agent
+A,Zapata D.,TOR,Torino,19,0,Free Agent,Free Agent
+A,Chiesa,JUV,Juventus,19,11,Marce,Atletico Una Volta
+A,Milik,JUV,Juventus,18,1,Carle,AC Ciughina
+A,Gonzalez N.,FIO,Fiorentina,17,0,Free Agent,Free Agent
+A,Okafor,MIL,Milan,16,0,Free Agent,Free Agent
+A,Toure' E.,ATA,Atalanta,15,0,Free Agent,Free Agent
+A,Beltran L.,FIO,Fiorentina,15,0,Free Agent,Free Agent
+A,Lapadula,CAG,Cagliari,14,0,Free Agent,Free Agent
+A,Caprari,MON,Monza,14,0,Free Agent,Free Agent
+A,Sanchez,INT,Inter,14,0,Free Agent,Free Agent
+A,Abraham,ROM,Roma,14,1,Nippon,AC Cipicchia
+A,Caputo,EMP,Empoli,14,0,Free Agent,Free Agent
+A,Ngonge,VER,Verona,14,0,Free Agent,Free Agent
+A,Muriel,ATA,Atalanta,13,1,Scap,Nottingham Dese
+A,Pinamonti,SAS,Sassuolo,13,3,Nippon,AC Cipicchia
+A,Deulofeu,UDI,Udinese,13,0,Free Agent,Free Agent
+A,Jovic,MIL,Milan,13,0,Free Agent,Free Agent
+A,Zirkzee,BOL,Bologna,13,2,Marce,Atletico Una Volta
+A,Krstovic,LEC,Lecce,13,2,Nippon,AC Cipicchia
+A,Petagna,CAG,Cagliari,12,0,Free Agent,Free Agent
+A,Belotti,ROM,Roma,12,0,Free Agent,Free Agent
+A,Simeone,NAP,Napoli,12,0,Free Agent,Free Agent
+A,Cambiaghi,EMP,Empoli,12,0,Free Agent,Free Agent
+A,Shomurodov,CAG,Cagliari,12,0,Free Agent,Free Agent
+A,Azmoun,ROM,Roma,12,0,Free Agent,Free Agent
+A,Castellanos,LAZ,Lazio,12,0,Free Agent,Free Agent
+A,Thauvin,UDI,Udinese,11,0,Free Agent,Free Agent
+A,Pedro,LAZ,Lazio,11,0,Free Agent,Free Agent
+A,Brekalo,FIO,Fiorentina,11,0,Free Agent,Free Agent
+A,Henry,VER,Verona,11,0,Free Agent,Free Agent
+A,Mulattieri,SAS,Sassuolo,11,0,Free Agent,Free Agent
+A,Almqvist,LEC,Lecce,11,0,Free Agent,Free Agent
+A,Isaksen,LAZ,Lazio,11,0,Free Agent,Free Agent
+A,Karlsson,BOL,Bologna,11,0,Free Agent,Free Agent
+A,Kean,JUV,Juventus,10,2,Scap,Nottingham Dese
+A,Karamoh,TOR,Torino,10,0,Free Agent,Free Agent
+A,Djuric,VER,Verona,10,0,Free Agent,Free Agent
+A,Davis K.,UDI,Udinese,10,0,Free Agent,Free Agent
+A,Mota,MON,Monza,10,0,Free Agent,Free Agent
+A,Brenner,UDI,Udinese,10,0,Free Agent,Free Agent
+A,Cheddira,FRO,Frosinone,10,1,Fracca,Garda Che Squadra
+A,Defrel,SAS,Sassuolo,9,0,Free Agent,Free Agent
+A,Raspadori,NAP,Napoli,9,13,Marce,Atletico Una Volta
+A,Colombo,MON,Monza,9,3,Marce,Atletico Una Volta
+A,Luvumbo,CAG,Cagliari,9,0,Free Agent,Free Agent
+A,Banda,LEC,Lecce,9,0,Free Agent,Free Agent
+A,Bonazzoli,VER,Verona,8,0,Free Agent,Free Agent
+A,Pellegri,TOR,Torino,8,0,Free Agent,Free Agent
+A,Kouame',FIO,Fiorentina,8,0,Free Agent,Free Agent
+A,Piccoli,LEC,Lecce,7,0,Free Agent,Free Agent
+A,Success,UDI,Udinese,7,0,Free Agent,Free Agent
+A,Botheim,SAL,Salernitana,7,0,Free Agent,Free Agent
+A,Lucca,UDI,Udinese,7,0,Free Agent,Free Agent
+A,Caso,FRO,Frosinone,6,0,Free Agent,Free Agent
+A,Cancellieri,EMP,Empoli,5,0,Free Agent,Free Agent
+A,Jovane,SAL,Salernitana,5,0,Free Agent,Free Agent
+A,Pavoletti,CAG,Cagliari,4,0,Free Agent,Free Agent
+A,Soule',FRO,Frosinone,4,0,Free Agent,Free Agent
+A,Alvarez A.,SAS,Sassuolo,4,0,Free Agent,Free Agent
+A,Cuni,FRO,Frosinone,4,0,Free Agent,Free Agent
+A,Ekuban,GEN,Genoa,3,0,Free Agent,Free Agent
+A,Seck,TOR,Torino,3,0,Free Agent,Free Agent
+A,Kvernadze,FRO,Frosinone,3,0,Free Agent,Free Agent
+A,Destro,EMP,Empoli,2,0,Free Agent,Free Agent
+A,Van Hooijdonk,BOL,Bologna,2,0,Free Agent,Free Agent
+A,Ceide,SAS,Sassuolo,2,0,Free Agent,Free Agent
+A,Maric,MON,Monza,2,0,Free Agent,Free Agent
+A,Shpendi S.,EMP,Empoli,2,0,Free Agent,Free Agent
+A,Ikwuemesi,SAL,Salernitana,2,0,Free Agent,Free Agent
+A,Puscas,GEN,Genoa,1,0,Free Agent,Free Agent
+A,Ake' M.,UDI,Udinese,1,0,Free Agent,Free Agent
+A,Braaf,VER,Verona,1,0,Free Agent,Free Agent
+A,Kallon,VER,Verona,1,0,Free Agent,Free Agent
+A,Kaio Jorge,FRO,Frosinone,1,1,Nippon,AC Cipicchia
+A,Valencia D.,SAL,Salernitana,1,0,Free Agent,Free Agent
+A,Ekong,EMP,Empoli,1,0,Free Agent,Free Agent
+A,Vivaldo,UDI,Udinese,1,1,Damian,Vecchie Rocce
+A,Bidaoui,FRO,Frosinone,1,0,Free Agent,Free Agent
+A,Yalcin,GEN,Genoa,1,0,Free Agent,Free Agent
+A,Burnete,LEC,Lecce,1,0,Free Agent,Free Agent
+A,Corfitzen,LEC,Lecce,1,0,Free Agent,Free Agent
+A,Stewart,SAL,Salernitana,1,1,Damian,Vecchie Rocce
+A,Yildiz,JUV,Juventus,1,0,Free Agent,Free Agent
