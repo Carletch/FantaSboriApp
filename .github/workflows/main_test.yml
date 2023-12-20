@@ -1,8 +1,8 @@
 name: Update Players Stats
 
-on:
-  schedule:
-    - cron: "0 10 * * *"
+on: workflow_dispatch
+  # schedule:
+  #   - cron: "0 10 * * *"
 
 jobs:
   build:
