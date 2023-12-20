@@ -30,12 +30,12 @@ jobs:
       - name: Execute Python Script
         run: python updatePlayerStats.py
 
-      - name: Check if there are any changes
+      - name: Check For Any Change
         id: verify_diff
         run: |
           git diff --quiet . || echo "changed=true" >> $GITHUB_OUTPUT
 
-      - name: Commit files
+      - name: Commit Changes
         if: steps.verify_diff.outputs.changed == 'true'
         run: |
           git config --local user.name carletch 
