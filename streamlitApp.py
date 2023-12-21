@@ -62,14 +62,14 @@ with st.sidebar:
                             options = data['Role'].unique(),
                             default = data['Role'].unique())
     
-    Player_filter = st.selectbox(label = 'Player',
-                                   options = data['Player'].drop_duplicates().sort_values())
+    # Player_filter = st.selectbox(label = 'Player',
+                                  # options = data['Player'].drop_duplicates().sort_values())
 
 
 # In[ ]:
 
-
-data1 = data.query('Role == @Role_filter & Club == @Club_filter & Squad == @Squad_filter & Player == @Player_filter')
+data_slice = data
+# data_slice = data.query('Role == @Role_filter & Club == @Club_filter & Squad == @Squad_filter') # & Player == @Player_filter')
 
 # total_impressions = float(df1['Impressions'].sum())
 # total_clicks = float(df1['Clicks'].sum())
@@ -78,6 +78,46 @@ data1 = data.query('Role == @Role_filter & Club == @Club_filter & Squad == @Squa
 # total_approved_conversions = float(df1['Approved_Conversion'].sum())
 
 # total1, total2, total3,total4,total5 = st.columns(5,gap='large')
+
+data_1 = data_slice.sort_values('Current Quote', ascending = False).head(10)
+# print(data_bar.head())
+# fig = px.bar(data_bar, x = 'Player', y = 'Goals Scored')
+# fig.show()
+st.bar_chart(data_1, x = 'Player', y = 'Current Quote', use_container_width = False) #, color = 'Role')
+
+data_c = int(data_slice[data_slice['Owner'] != 'Carle']['Current Gain/Loss'].sum())
+data_n = int(data_slice[data_slice['Owner'] != 'Nippon']['Current Gain/Loss'].sum())
+data_s = int(data_slice[data_slice['Owner'] != 'Scap']['Current Gain/Loss'].sum())
+data_m = int(data_slice[data_slice['Owner'] != 'Marce']['Current Gain/Loss'].sum())
+data_f = int(data_slice[data_slice['Owner'] != 'Fracca']['Current Gain/Loss'].sum())
+data_d = int(data_slice[data_slice['Owner'] != 'Demian']['Current Gain/Loss'].sum())
+# st.bar_chart(data_2, x = 'Owner', y = 'Current Gain/Loss', use_container_width = False) #, color = 'Role')
+
+data_c, data_n, data_s, data_m, data_f, data_d = st.columns(6, gap = 'large')
+
+with data_c:
+    # st.image('images/impression.png',use_column_width='Auto')
+    st.metric(label = 'Carle', value = data_c)
+    
+with data_n:
+    # st.image('images/tap.png',use_column_width='Auto')
+    st.metric(label = 'Nippon', value = data_n)
+
+with data_s:
+    # st.image('images/hand.png',use_column_width='Auto')
+    st.metric(label = 'Scap', value = data_s)
+
+with data_m:
+    # st.image('images/conversion.png',use_column_width='Auto')
+    st.metric(label = 'Marce', value = data_m)
+
+with data_f:
+    # st.image('images/app_conversion.png',use_column_width='Auto')
+    st.metric(label = 'Fracca', value = data_f)
+
+with data_d:
+    # st.image('images/app_conversion.png',use_column_width='Auto')
+    st.metric(label = 'Demian', value = data_d)
 
 
 # In[ ]:
