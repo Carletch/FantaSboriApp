@@ -99,8 +99,8 @@ stats = pd.DataFrame(stats, columns = ['Rank', 'Role', 'Player', 'Jersey', 'Club
                                        'FM FP', 'MV FP', 'FM GdS', 'MV GdS', 'FM Sud', 'MV Sud',
                                        'Games', 'Yellow Cards', 'Red Cards',
                                        'Assists', 'Goals Scored', 'Penalties Scored', 'Missed Penalties',
-                                       'Goals Conceded', 'Penalties Saved', 'All Clean-Sheets'])
-stats = stats.drop(['Rank', 'Jersey', 'All Clean-Sheets'], axis = 1)
+                                       'Goals Conceded', 'Penalties Saved', 'Clean Sheets'])
+stats = stats.drop(['Rank', 'Jersey'], axis = 1)
 stats = stats.drop_duplicates()
 
 stats = stats.replace('', np.NaN)
@@ -138,13 +138,13 @@ data = data.merge(squads, how = 'outer', on = ['Role', 'Player', 'Club'])
 data['Current Gain/Loss'] = data['Current Quote'] - data['Purchase Price']
 data.loc[data['Purchase Price'] == 0, 'Current Gain/Loss'] = 0
 
-data['Role'] = data['Role'].str.replace('P', 'Portiere')                            .str.replace('D', 'Difensore')                            .str.replace('C', 'Centrocampista')                            .str.replace('A', 'Attaccante')
+data['Role'] = data['Role'].str.replace('P', 'Portiere').str.replace('D', 'Difensore').str.replace('C', 'Centrocampista').str.replace('A', 'Attaccante')
 
 data = data[['Role', 'Player', 'Club', 'Club Name',
              'Squad', 'Owner', 'Purchase Price', 'Initial Quote', 'Current Quote', 'Current Gain/Loss',
              'Games', 'Yellow Cards', 'Red Cards',
              'Assists', 'Goals Scored', 'Penalties Scored', 'Missed Penalties',
-             'Goals Conceded', 'Penalties Saved',
+             'Goals Conceded', 'Penalties Saved', 'Clean Sheets',
              'FM FP', 'MV FP', 'FM GdS', 'MV GdS', 'FM Sud', 'MV Sud']].copy()
 
 print(f'Final data shape: {data.shape}')
