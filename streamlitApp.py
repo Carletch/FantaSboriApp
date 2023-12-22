@@ -93,31 +93,31 @@ data_f = int(data_slice[data_slice['Owner'] != 'Fracca']['Current Gain/Loss'].su
 data_d = int(data_slice[data_slice['Owner'] != 'Demian']['Current Gain/Loss'].sum())
 # st.bar_chart(data_2, x = 'Owner', y = 'Current Gain/Loss', use_container_width = False) #, color = 'Role')
 
-data_c, data_n, data_s, data_m, data_f, data_d = st.columns(6, gap = 'large')
+# data_c, data_n, data_s, data_m, data_f, data_d = st.columns(6, gap = 'large')
 
-with data_c:
+# with data_c:
     # st.image('images/impression.png',use_column_width='Auto')
-    st.metric(label = 'Carle', value = data_c)
+#     st.metric(label = 'Carle', value = data_c)
     
-with data_n:
-    # st.image('images/tap.png',use_column_width='Auto')
-    st.metric(label = 'Nippon', value = data_n)
+# with data_n:
+#     # st.image('images/tap.png',use_column_width='Auto')
+#     st.metric(label = 'Nippon', value = data_n)
 
-with data_s:
+# with data_s:
     # st.image('images/hand.png',use_column_width='Auto')
-    st.metric(label = 'Scap', value = data_s)
+#     st.metric(label = 'Scap', value = data_s)
 
-with data_m:
+# with data_m:
     # st.image('images/conversion.png',use_column_width='Auto')
-    st.metric(label = 'Marce', value = data_m)
+#     st.metric(label = 'Marce', value = data_m)
 
-with data_f:
-    # st.image('images/app_conversion.png',use_column_width='Auto')
-    st.metric(label = 'Fracca', value = data_f)
+# with data_f:
+     # st.image('images/app_conversion.png',use_column_width='Auto')
+#     st.metric(label = 'Fracca', value = data_f)
 
-with data_d:
+# with data_d:
     # st.image('images/app_conversion.png',use_column_width='Auto')
-    st.metric(label = 'Demian', value = data_d)
+#     st.metric(label = 'Demian', value = data_d)
 
 
 # In[ ]:

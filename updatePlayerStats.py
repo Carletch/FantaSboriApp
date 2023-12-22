@@ -133,7 +133,7 @@ print(squads.head())
 
 
 data = quotes.merge(stats, how = 'right', on = ['Role', 'Player', 'Club'])
-data = data.merge(squads, how = 'outer', on = ['Role', 'Player', 'Club'])
+data = data.merge(squads, how = 'inner', on = ['Role', 'Player', 'Club'])
 
 data['Current Gain/Loss'] = data['Current Quote'] - data['Purchase Price']
 data.loc[data['Purchase Price'] == 0, 'Current Gain/Loss'] = 0
