@@ -40,15 +40,15 @@ st.set_page_config(page_title = 'FantaSbori App',
 # In[ ]:
 
 
-header_left, header_mid, header_right = st.columns([1, 2, 1], gap = 'large')
+# header_left, header_mid, header_right = st.columns([1, 2, 1], gap = 'large')
 
 
 # In[ ]:
 
 
-with header_mid:
+# with header_mid:
     
-    st.title('FantaSbori APP')
+st.title('FantaSbori APP')
 
 with st.sidebar:
     
@@ -93,11 +93,16 @@ data_f = int(data_slice[data_slice['Owner'] != 'Fracca']['Current Gain/Loss'].su
 data_d = int(data_slice[data_slice['Owner'] != 'Demian']['Current Gain/Loss'].sum())
 # st.bar_chart(data_2, x = 'Owner', y = 'Current Gain/Loss', use_container_width = False) #, color = 'Role')
 
-# data_c, data_n, data_s, data_m, data_f, data_d = st.columns(6, gap = 'large')
+# data_c, data_n, data_s, data_m, data_f, data_d = st.columns(6)
+# Row A
+a1, a2, a3 = st.columns(3)
+a1.metric("Carle", f"{data_c}")
+a2.metric("Nippon", f"{data_n}")
+a2.metric("Scap", f"{data_s}")
 
 # with data_c:
     # st.image('images/impression.png',use_column_width='Auto')
-#     st.metric(label = 'Carle', value = data_c)
+#     st.metric(label = 'Carle', vapip install talue = data_c)
     
 # with data_n:
 #     # st.image('images/tap.png',use_column_width='Auto')
