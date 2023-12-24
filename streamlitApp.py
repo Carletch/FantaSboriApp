@@ -80,7 +80,7 @@ data_1 = data_slice.sort_values('Current Quote', ascending = False).head(10)
 st.bar_chart(data_1,
              x = 'Player',
              y = 'Current Quote',
-             color = 'Role',
+             # color = 'Role',
              sort = None,
              use_container_width = False) 
 
