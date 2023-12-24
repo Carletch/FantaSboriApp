@@ -81,7 +81,7 @@ st.bar_chart(data_1,
              x = 'Player',
              y = 'Current Quote',
              # color = 'Role',
-             sort = None,
+             # sort = None,
              use_container_width = False) 
 
 data_c = int(data_slice[data_slice['Owner'] != 'Carle']['Current Gain/Loss'].sum())
