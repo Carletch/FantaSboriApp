@@ -71,19 +71,18 @@ with st.sidebar:
 data_slice = data
 # data_slice = data.query('Role == @Role_filter & Club == @Club_filter & Squad == @Squad_filter') # & Player == @Player_filter')
 
-# total_impressions = float(df1['Impressions'].sum())
-# total_clicks = float(df1['Clicks'].sum())
-# total_spent = float(df1['Spent'].sum())
-# total_conversions= float(df1['Total_Conversion'].sum()) 
-# total_approved_conversions = float(df1['Approved_Conversion'].sum())
-
 # total1, total2, total3,total4,total5 = st.columns(5,gap='large')
 
 data_1 = data_slice.sort_values('Current Quote', ascending = False).head(10)
 # print(data_bar.head())
 # fig = px.bar(data_bar, x = 'Player', y = 'Goals Scored')
 # fig.show()
-st.bar_chart(data_1, x = 'Player', y = 'Current Quote', use_container_width = False) #, color = 'Role')
+st.bar_chart(data_1,
+             x = 'Player',
+             y = 'Current Quote',
+             color = 'Role',
+             sort = None,
+             use_container_width = False) 
 
 data_c = int(data_slice[data_slice['Owner'] != 'Carle']['Current Gain/Loss'].sum())
 data_n = int(data_slice[data_slice['Owner'] != 'Nippon']['Current Gain/Loss'].sum())
