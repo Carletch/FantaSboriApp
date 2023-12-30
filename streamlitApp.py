@@ -6,6 +6,7 @@
 import os
 import pandas as pd
 
+import altair as alt
 import streamlit as st
 
 import plotly.express as px
@@ -79,10 +80,24 @@ data_1 = data_slice.sort_values('Current Quote', ascending = False).head(10)
 # fig.show()
 st.bar_chart(data_1,
              x = 'Player',
-             y = 'Current Quote') #,
-             # color = 'Role',
+             y = 'Current Quote'
+             #color = "#FF0000"
              # sort = None,
-             # use_container_width = False) 
+             # use_container_width = False
+             ) 
+
+top10_quotes_chart = alt.Chart(data_1).mark_bar().encode(
+    y = alt.Y('Player', 
+              scale = alt.Scale(reverse = False), 
+              sort = alt.EncodingSortField(field = 'Current Quote', order = 'descending')
+              ),
+    x = alt.X('Current Quote'),
+    color = 'Role'
+)
+# .properties(width = 300, height = 200)
+
+st.altair_chart(top10_quotes_chart, use_container_width = True, theme = 'streamlit')
+
 
 data_c = int(data_slice[data_slice['Owner'] != 'Carle']['Current Gain/Loss'].sum())
 data_n = int(data_slice[data_slice['Owner'] != 'Nippon']['Current Gain/Loss'].sum())
@@ -122,6 +137,10 @@ a2.metric("Scap", f"{data_s}")
 # with data_d:
     # st.image('images/app_conversion.png',use_column_width='Auto')
 #     st.metric(label = 'Demian', value = data_d)
+
+
+
+
 
 
 # In[ ]:
