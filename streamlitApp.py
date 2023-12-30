@@ -79,10 +79,10 @@ data_1 = data_slice.sort_values('Current Quote', ascending = False).head(10)
 # fig.show()
 st.bar_chart(data_1,
              x = 'Player',
-             y = 'Current Quote',
+             y = 'Current Quote') #,
              # color = 'Role',
              # sort = None,
-             use_container_width = False) 
+             # use_container_width = False) 
 
 data_c = int(data_slice[data_slice['Owner'] != 'Carle']['Current Gain/Loss'].sum())
 data_n = int(data_slice[data_slice['Owner'] != 'Nippon']['Current Gain/Loss'].sum())
