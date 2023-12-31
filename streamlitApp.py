@@ -81,21 +81,51 @@ data_1 = data_slice.sort_values('Current Quote', ascending = False).head(10)
 st.bar_chart(data_1,
              x = 'Player',
              y = 'Current Quote'
-             #color = "#FF0000"
+             # color = "#FF0000"
              # sort = None,
              # use_container_width = False
              ) 
 
-top10_quotes_chart = alt.Chart(data_1).mark_bar().encode(
-    y = alt.Y('Player', 
-              scale = alt.Scale(reverse = False), 
-              sort = alt.EncodingSortField(field = 'Current Quote', order = 'descending')
-              ),
-    x = alt.X('Current Quote'),
-    color = 'Role'
-)
-# .properties(width = 300, height = 200)
+def altairBarPlotFlipped(data, x_axis, y_axis, color_axis, chart_title):
 
+    source = data
+
+    base = alt.Chart(source).encode(
+        y = alt.Y(
+            y_axis, 
+            scale = alt.Scale(reverse = False), 
+            sort = alt.EncodingSortField(field = 'Current Quote', order = 'descending'),
+            axis = alt.Axis(title = None),
+            ),
+        x = alt.X(
+            x_axis,
+            axis = alt.Axis(title = None, labels = False),
+            # axis = alt.Axis(labels = False)),
+            ),
+        # color = color_axis
+    )
+    
+    bars = base.mark_bar().encode(
+        color = color_axis,
+    ).properties(
+        title = chart_title,
+        # width = 300, 
+        # height = 200
+    )
+
+    text = bars.mark_text(
+        align = 'center',
+        baseline = 'middle',
+        color = 'white',
+        dx = 12,
+    ).encode(
+        text = x_axis,
+    )
+
+    return (bars + text).interactive()
+
+
+top10_quotes_chart = altairBarPlotFlipped(data_1, 'Current Quote', 'Player', 'Role', 'Top 10 Current Quotes')
 st.altair_chart(top10_quotes_chart, use_container_width = True, theme = 'streamlit')
 
 
