@@ -1,8 +1,8 @@
 # FantaSbori App 
 
-** An app to allow for better player and team stats analysis for Italian Fantasy Football League **
+*An app to allow for better player and team stats analysis for Italian Fantasy Football League*
 
-Current version: ** 0.1 **
+Current version: **0.1**
 
 Built on:
 
@@ -11,6 +11,6 @@ Built on:
 
 Main sources:
 
-* Google Drive: Auctions data, initial player quotes, and league results
-* Fanta Pazz - https://www.fantapazz.com: Updated player quotes and stats
-* Lega Serie A - https://www.legaseriea.it/it/serie-a: Seria A fixtures
+* Shared Google Drive: Auctions data, initial player quotes, and league results
+* <a href = 'https://www.fantapazz.com'>FantaPazz</a>: Updated player quotes and stats
+* <a href = 'https://www.legaseriea.it/it/serie-a'>Lega Serie A</a>: Serie A fixtures and results
