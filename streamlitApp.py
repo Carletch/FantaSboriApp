@@ -78,13 +78,13 @@ data_1 = data_slice.sort_values('Current Quote', ascending = False).head(10)
 # print(data_bar.head())
 # fig = px.bar(data_bar, x = 'Player', y = 'Goals Scored')
 # fig.show()
-st.bar_chart(data_1,
-             x = 'Player',
-             y = 'Current Quote'
+# st.bar_chart(data_1,
+#              x = 'Player',
+#              y = 'Current Quote'
              # color = "#FF0000"
              # sort = None,
              # use_container_width = False
-             ) 
+#              ) 
 
 def altairBarPlotFlipped(data, x_axis, y_axis, color_axis, chart_title):
 
