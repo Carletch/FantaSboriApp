@@ -49,7 +49,7 @@ st.set_page_config(page_title = 'FantaSbori App',
 
 # with header_mid:
     
-st.title('FantaSbori APP')
+st.title('FantaSbori App :soccer:')
 
 with st.sidebar:
     
