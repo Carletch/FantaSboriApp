@@ -51,28 +51,79 @@ st.set_page_config(page_title = 'FantaSbori App',
     
 st.title('FantaSbori App :soccer:')
 
-with st.sidebar:
-    
-    Squad_filter = st.selectbox(label = 'Squad',
-                                options = data['Squad'].drop_duplicates().sort_values()),
 
-    Club_filter = st.selectbox(label = 'Club',
-                                 options = data['Club Name'].drop_duplicates().sort_values()),
+
+# In[ ]:
     
-    Role_filter = st.multiselect(label = 'Role',
-                            options = data['Role'].unique(),
-                            default = data['Role'].unique())
+
+# with st.sidebar:
     
-    # Player_filter = st.selectbox(label = 'Player',
-                                  # options = data['Player'].drop_duplicates().sort_values())
+#     Squad_filter = st.selectbox(label = 'Squad',
+#                                 options = data['Squad'].drop_duplicates().sort_values()),
+# 
+#     Club_filter = st.selectbox(label = 'Club',
+#                                  options = data['Club Name'].drop_duplicates().sort_values()),
+#     
+#     Role_filter = st.multiselect(label = 'Role',
+#                             options = data['Role'].unique(),
+#                             default = data['Role'].unique())
+#     
+#     # Player_filter = st.selectbox(label = 'Player',
+#                                   # options = data['Player'].drop_duplicates().sort_values())
+
+
+
+# In[ ]:
+    
+
+
+data_slice = data
+
+# data_slice = data.query('Role == @Role_filter & Club == @Club_filter & Squad == @Squad_filter') # & Player == @Player_filter')
+
+# total1, total2, total3,total4,total5 = st.columns(5,gap='large')
+
+
 
 
 # In[ ]:
 
-data_slice = data
-# data_slice = data.query('Role == @Role_filter & Club == @Club_filter & Squad == @Squad_filter') # & Player == @Player_filter')
 
-# total1, total2, total3,total4,total5 = st.columns(5,gap='large')
+def splitByOwner(data, measure, data_type = float):
+
+    data = data.groupby(['Owner'], as_index = False)[measure].sum()
+
+    x = {}
+
+    for owner in data['Owner'].drop_duplicates():
+        x[owner] = data[data['Owner'] == owner][measure].astype(data_type)
+    
+    return x
+
+gain_loss_standings = splitByOwner(data_slice, 'Current Gain/Loss', int)
+del gain_loss_standings['Free Agent']
+
+# data_c, data_n, data_s, data_m, data_f, data_d = st.columns(6)
+# Row A
+
+a1, a2, a3, a4, a5, a6 = st.columns(6)
+
+a1.metric('Carle', f"{gain_loss_standings['Carle'].item()}")
+a2.metric('Damian', f"{gain_loss_standings['Damian'].item()}")
+a3.metric('Fracca', f"{gain_loss_standings['Fracca'].item()}")
+a4.metric('Marce', f"{gain_loss_standings['Marce'].item()}")
+a5.metric('Nippon', f"{gain_loss_standings['Nippon'].item()}")
+a6.metric('Scap', f"{gain_loss_standings['Scap'].item()}")
+
+# with data_c:
+    # st.image('images/impression.png',use_column_width='Auto')
+#     st.metric(label = 'Carle', value = data_c)
+
+
+
+
+# In[ ]:
+
 
 data_1 = data_slice.sort_values('Current Quote', ascending = False).head(10)
 # print(data_bar.head())
@@ -127,55 +178,6 @@ def altairBarPlotFlipped(data, x_axis, y_axis, color_axis, chart_title):
 
 top10_quotes_chart = altairBarPlotFlipped(data_1, 'Current Quote', 'Player', 'Role', 'Top 10 Current Quotes')
 st.altair_chart(top10_quotes_chart, use_container_width = True, theme = 'streamlit')
-
-
-data_c = int(data_slice[data_slice['Owner'] != 'Carle']['Current Gain/Loss'].sum())
-data_n = int(data_slice[data_slice['Owner'] != 'Nippon']['Current Gain/Loss'].sum())
-data_s = int(data_slice[data_slice['Owner'] != 'Scap']['Current Gain/Loss'].sum())
-data_m = int(data_slice[data_slice['Owner'] != 'Marce']['Current Gain/Loss'].sum())
-data_f = int(data_slice[data_slice['Owner'] != 'Fracca']['Current Gain/Loss'].sum())
-data_d = int(data_slice[data_slice['Owner'] != 'Demian']['Current Gain/Loss'].sum())
-# st.bar_chart(data_2, x = 'Owner', y = 'Current Gain/Loss', use_container_width = False) #, color = 'Role')
-
-# data_c, data_n, data_s, data_m, data_f, data_d = st.columns(6)
-# Row A
-a1, a2, a3 = st.columns(3)
-a1.metric("Carle", f"{data_c}")
-a2.metric("Nippon", f"{data_n}")
-a2.metric("Scap", f"{data_s}")
-
-# with data_c:
-    # st.image('images/impression.png',use_column_width='Auto')
-#     st.metric(label = 'Carle', vapip install talue = data_c)
-    
-# with data_n:
-#     # st.image('images/tap.png',use_column_width='Auto')
-#     st.metric(label = 'Nippon', value = data_n)
-
-# with data_s:
-    # st.image('images/hand.png',use_column_width='Auto')
-#     st.metric(label = 'Scap', value = data_s)
-
-# with data_m:
-    # st.image('images/conversion.png',use_column_width='Auto')
-#     st.metric(label = 'Marce', value = data_m)
-
-# with data_f:
-     # st.image('images/app_conversion.png',use_column_width='Auto')
-#     st.metric(label = 'Fracca', value = data_f)
-
-# with data_d:
-    # st.image('images/app_conversion.png',use_column_width='Auto')
-#     st.metric(label = 'Demian', value = data_d)
-
-
-
-
-
-
-# In[ ]:
-
-
 
 
 
