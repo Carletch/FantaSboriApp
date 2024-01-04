@@ -93,13 +93,12 @@ a1, a2, a3, a4, a5, a6 = st.columns(6)
 
 # cols = [a1, a2, a3, a4, a5, a6]
 
-a1.metric('Carle', f"{gain_loss_standings['Carle'].item()}")
-a2.metric('Damian', f"{gain_loss_standings['Damian'].item()}")
-a3.metric('Fracca', f"{gain_loss_standings['Fracca'].item()}")
-a4.metric('Marce', f"{gain_loss_standings['Marce'].item()}")
-a5.metric('Nippon', f"{gain_loss_standings['Nippon'].item()}")
-a6.metric('Scap', f"{gain_loss_standings['Scap'].item()}")
-
+a1.metric('AC Ciughina', f"{gain_loss_standings['Carle'].item()}", 'Carle')
+a2.metric('Vecchie Rocce', f"{gain_loss_standings['Damian'].item()}", 'D    amian')
+a3.metric('Garda Che Squadra', f"{gain_loss_standings['Fracca'].item()}", 'Fracca')
+a4.metric('Atletico Una Volta', f"{gain_loss_standings['Marce'].item()}", 'Marce')
+a5.metric('AC Picchia', f"{gain_loss_standings['Nippon'].item()}", 'Nippon')
+a6.metric('Nottingham Dese', f"{gain_loss_standings['Scap'].item()}", 'Scap')
 
 
 def altairBarPlotFlipped(data, x_axis, y_axis, color_axis, reverse_scale = False, chart_title = ''):
