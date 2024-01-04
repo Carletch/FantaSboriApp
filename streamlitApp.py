@@ -122,7 +122,7 @@ def altairBarPlotFlipped(data, x_axis, y_axis, color_axis, reverse_scale = False
     )
     
     bars = base.mark_bar().encode(
-        color = color_axis,
+        # color = color_axis,
     # ).properties(
     #     title = chart_title,
         # width = 300, 
@@ -141,12 +141,12 @@ def altairBarPlotFlipped(data, x_axis, y_axis, color_axis, reverse_scale = False
     return (bars + text).interactive()
 
 
-st.header("Hot Top 10's")
+st.header("Top-10 Players")
 
-b1, b2, b3 = st.columns(3)
+b1, b2, b3, b4 = st.columns(4)
 
 with b1:
-    st.subheader('Players by Current Quote')
+    st.subheader('Most Valuable')
 
     top10_quotes = data.sort_values('Current Quote', ascending = False).head(10)
     top10_quotes_chart = altairBarPlotFlipped(top10_quotes, 'Current Quote', 'Player', 'Role')
@@ -155,15 +155,15 @@ with b1:
 
 with b2:
 
-    st.subheader('Deals')
+    st.subheader('Best Deals')
 
     top10_gains = data.sort_values('Current Gain/Loss', ascending = False).head(10)
     top10_gains_chart = altairBarPlotFlipped(top10_gains, 'Current Gain/Loss', 'Player', 'Role')
 
     st.altair_chart(top10_gains_chart, use_container_width = True, theme = 'streamlit')
-  
-with b3:
 
+with b3:
+    
     st.subheader('Most Improved')
 
     top10_mimp = data
@@ -172,4 +172,16 @@ with b3:
     top10_mimp = top10_mimp.sort_values('Improvement', ascending = False).head(10)
     top10_mimp_chart = altairBarPlotFlipped(top10_mimp, 'Improvement', 'Player', 'Role')
 
-    st.altair_chart(top10_mimp_chart, use_container_width = True, theme = 'streamlit')  
+    st.altair_chart(top10_mimp_chart, use_container_width = True, theme = 'streamlit') 
+
+with b4:
+
+    st.subheader('Worst Performing')
+
+    worst10_mimp = data
+    worst10_mimp['Improvement'] = worst10_mimp['Current Quote'] - worst10_mimp['Initial Quote']
+
+    worst10_mimp = worst10_mimp.sort_values('Improvement', ascending = False).tail(10)
+    worst10_mimp_chart = altairBarPlotFlipped(worst10_mimp, 'Improvement', 'Player', 'Role')
+
+    st.altair_chart(worst10_mimp_chart, use_container_width = True, theme = 'streamlit')  
