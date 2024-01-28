@@ -1,457 +1,424 @@
 Role,Player,Club,Club Name,Squad,Owner,Purchase Price,Initial Quote,Current Quote,Current Gain/Loss,Games,Yellow Cards,Red Cards,Assists,Goals Scored,Penalties Scored,Missed Penalties,Goals Conceded,Penalties Saved,Clean Sheets,FM FP,MV FP,FM GdS,MV GdS,FM Sud,MV Sud
-Portiere,Sommer,INT,Inter,AC Ciughina,Carle,27,16,22,-5,18,0,0,0,0,0,0,8,0,12,5.68,6.13,5.78,6.22,5.83,6.28
-Portiere,Szczesny,JUV,Juventus,AC Cipicchia,Nippon,25,15,21,-4,16,0,0,0,0,0,0,10,0,9,5.5,6.13,5.53,6.16,5.53,6.16
-Portiere,Provedel,LAZ,Lazio,Atletico Una Volta,Marce,12,15,19,7,18,0,0,0,0,0,0,19,0,6,5.21,6.26,5.31,6.36,5.36,6.42
-Portiere,Terracciano,FIO,Fiorentina,Nottingham Dese,Scap,8,10,18,10,16,2,0,0,0,0,0,12,1,6,5.84,6.47,5.81,6.44,5.84,6.47
-Portiere,Di Gregorio,MON,Monza,AC Ciughina,Carle,1,12,17,16,17,0,0,0,0,0,0,17,1,6,5.59,6.41,5.68,6.5,5.47,6.29
-Portiere,Maignan,MIL,Milan,Vecchie Rocce,Damian,23,17,13,-10,15,1,1,1,0,0,0,18,0,6,5.03,6.27,5.17,6.4,4.9,6.2
-Portiere,Meret,NAP,Napoli,Nottingham Dese,Scap,22,16,13,-9,16,0,0,0,0,0,0,19,1,5,5.16,6.16,5.06,6.06,5.09,6.09
-Portiere,Rui Patricio,ROM,Roma,AC Cipicchia,Nippon,8,12,11,3,18,0,0,0,0,0,0,20,0,5,4.94,6.06,5.0,6.11,4.69,5.81
-Portiere,Skorupski,BOL,Bologna,Garda Che Squadra,Fracca,4,10,11,7,17,2,0,0,0,0,0,15,0,7,5.34,6.28,5.38,6.32,5.26,6.21
-Portiere,Carnesecchi,ATA,Atalanta,AC Ciughina,Carle,4,10,8,4,8,0,0,0,0,0,0,8,0,3,5.38,6.38,5.13,6.13,5.0,6.0
-Portiere,Falcone,LEC,Lecce,Vecchie Rocce,Damian,1,9,7,6,18,0,0,0,0,0,0,24,1,2,5.32,6.49,5.28,6.44,5.14,6.31
-Portiere,Caprile,EMP,Empoli,AC Cipicchia,Nippon,1,6,6,5,3,0,0,0,0,0,0,3,1,1,6.83,6.83,6.17,6.17,6.67,6.67
-Portiere,Silvestri,UDI,Udinese,Free Agent,Free Agent,0,9,5,0,17,0,0,0,0,0,0,28,0,4,4.29,5.94,4.21,5.85,4.29,5.94
-Portiere,Scuffet,CAG,Cagliari,Free Agent,Free Agent,0,1,5,0,11,1,0,0,0,0,0,19,0,1,4.61,6.39,4.59,6.36,4.45,6.23
-Portiere,Costil,SAL,Salernitana,Free Agent,Free Agent,0,1,5,0,7,0,0,0,0,0,0,14,0,1,4.39,6.39,4.21,6.21,4.36,6.36
-Portiere,Consigli,SAS,Sassuolo,Garda Che Squadra,Fracca,9,5,4,-5,16,1,0,0,0,0,0,27,0,0,4.61,6.33,4.63,6.34,4.5,6.22
-Portiere,Ochoa,SAL,Salernitana,Vecchie Rocce,Damian,1,9,2,1,11,0,0,0,0,0,0,22,0,0,4.43,6.43,4.09,6.09,4.27,6.27
-Portiere,Turati,FRO,Frosinone,Atletico Una Volta,Marce,2,5,2,0,17,0,0,0,0,0,0,30,0,2,4.31,6.07,4.21,5.97,4.0,5.76
-Portiere,Okoye,UDI,Udinese,Free Agent,Free Agent,0,1,2,0,1,0,0,0,0,0,0,0,0,1,6.25,6.25,6.0,6.0,7.0,7.0
+Portiere,Szczesny,JUV,Juventus,AC Cipicchia,Nippon,25,15,23,-2,20,0,0,0,0,0,0,12,0,11,5.56,6.16,5.6,6.2,5.6,6.2
+Portiere,Sommer,INT,Inter,AC Ciughina,Carle,27,16,22,-5,21,0,0,0,0,0,0,10,0,12,5.67,6.14,5.74,6.21,5.76,6.24
+Portiere,Provedel,LAZ,Lazio,Atletico Una Volta,Marce,12,15,20,8,21,0,0,0,0,0,0,20,0,7,5.27,6.23,5.38,6.33,5.4,6.36
+Portiere,Terracciano,FIO,Fiorentina,Nottingham Dese,Scap,8,10,17,9,19,2,0,0,0,0,0,15,1,6,5.72,6.41,5.74,6.42,5.74,6.42
+Portiere,Di Gregorio,MON,Monza,AC Ciughina,Carle,1,12,16,15,18,0,0,0,0,0,0,17,1,7,5.63,6.4,5.72,6.5,5.53,6.31
+Portiere,Maignan,MIL,Milan,Vecchie Rocce,Damian,23,17,10,-13,19,1,1,1,0,0,0,23,0,7,4.96,6.2,5.13,6.37,4.87,6.16
+Portiere,Rui Patricio,ROM,Roma,AC Cipicchia,Nippon,8,12,10,2,20,0,0,0,0,0,0,22,0,5,4.93,6.03,4.98,6.08,4.68,5.78
+Portiere,Carnesecchi,ATA,Atalanta,AC Ciughina,Carle,4,10,10,6,12,0,0,0,0,0,0,9,0,5,5.65,6.4,5.5,6.25,5.42,6.17
+Portiere,Skorupski,BOL,Bologna,Garda Che Squadra,Fracca,4,10,10,6,20,2,0,0,0,0,0,19,1,7,5.43,6.28,5.48,6.33,5.33,6.18
+Portiere,Meret,NAP,Napoli,Nottingham Dese,Scap,22,16,9,-13,17,0,0,0,0,0,0,19,1,5,5.21,6.15,5.12,6.06,5.15,6.09
+Portiere,Caprile,EMP,Empoli,AC Cipicchia,Nippon,1,6,6,5,7,0,0,0,0,0,0,9,1,2,5.64,6.5,5.29,6.14,5.5,6.36
+Portiere,Consigli,SAS,Sassuolo,Garda Che Squadra,Fracca,9,5,5,-4,19,1,0,0,0,0,0,30,1,1,4.84,6.29,4.82,6.26,4.74,6.18
+Portiere,Turati,FRO,Frosinone,Atletico Una Volta,Marce,2,5,5,3,20,0,0,0,0,0,0,39,0,2,4.19,6.14,4.05,6.0,3.9,5.85
+Portiere,Falcone,LEC,Lecce,Vecchie Rocce,Damian,1,9,5,4,21,0,0,0,0,0,0,29,1,2,5.2,6.44,5.17,6.4,5.07,6.31
+Portiere,Silvestri,UDI,Udinese,Free Agent,Free Agent,0,9,4,0,17,0,0,0,0,0,0,28,0,4,4.29,5.94,4.21,5.85,4.29,5.94
+Portiere,Scuffet,CAG,Cagliari,Free Agent,Free Agent,0,1,4,0,15,1,0,0,0,0,0,26,0,1,4.55,6.32,4.6,6.37,4.57,6.33
+Portiere,Ochoa,SAL,Salernitana,Vecchie Rocce,Damian,1,9,3,2,13,0,0,0,0,0,0,26,0,0,4.37,6.37,4.12,6.12,4.23,6.23
+Portiere,Costil,SAL,Salernitana,Free Agent,Free Agent,0,1,3,0,8,0,0,0,0,0,0,16,0,1,4.34,6.34,4.19,6.19,4.31,6.31
+Portiere,Gollini,NAP,Napoli,Nottingham Dese,Scap,1,1,2,1,5,0,0,0,0,0,0,6,0,0,4.95,6.15,5.0,6.2,5.0,6.2
+Portiere,Okoye,UDI,Udinese,Free Agent,Free Agent,0,1,2,0,5,0,0,0,0,0,0,9,0,1,4.35,6.15,4.0,5.8,4.3,6.1
 Portiere,Radunovic,CAG,Cagliari,Free Agent,Free Agent,0,8,1,0,7,0,0,0,0,0,0,12,0,2,4.14,5.86,4.0,5.71,4.0,5.71
-Portiere,Musso,ATA,Atalanta,Atletico Una Volta,Marce,8,5,1,-7,10,0,0,0,0,0,0,12,0,5,4.9,6.1,4.8,6.0,4.75,5.95
-Portiere,Cragno,SAS,Sassuolo,Free Agent,Free Agent,0,3,1,0,2,0,0,0,0,0,0,6,0,0,3.5,6.5,3.5,6.5,3.25,6.25
-Portiere,Bagnolini,BOL,Bologna,Free Agent,Free Agent,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
-Portiere,Ravaglia F.,BOL,Bologna,Free Agent,Free Agent,0,1,1,0,1,0,0,0,0,0,0,0,0,1,6.5,6.5,7.0,7.0,7.5,7.5
+Portiere,Musso,ATA,Atalanta,Atletico Una Volta,Marce,8,5,1,-7,11,0,0,0,0,0,0,12,0,5,5.0,6.09,4.91,6.0,4.86,5.95
+Portiere,Cragno,SAS,Sassuolo,Free Agent,Free Agent,0,3,1,0,3,0,0,0,0,0,0,6,0,0,4.33,6.33,4.33,6.33,4.17,6.17
+Portiere,Bagnolini,BOL,Bologna,Free Agent,Free Agent,0,1,1,0,1,0,0,0,0,0,0,0,0,0,6.0,6.0,6.0,6.0,6.0,6.0
+Portiere,Ravaglia F.,BOL,Bologna,Free Agent,Free Agent,0,1,1,0,3,0,0,0,0,0,0,1,0,1,5.75,6.08,5.83,6.17,6.0,6.33
 Portiere,Aresti,CAG,Cagliari,Free Agent,Free Agent,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
 Portiere,Perisan,EMP,Empoli,Free Agent,Free Agent,0,1,1,0,1,0,0,0,0,0,0,2,0,0,3.75,5.75,3.5,5.5,3.5,5.5
 Portiere,Stubljar,EMP,Empoli,Free Agent,Free Agent,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
 Portiere,Cerofolini,FRO,Frosinone,Free Agent,Free Agent,0,2,1,0,1,0,0,0,0,0,0,1,0,0,5.25,6.25,5.5,6.5,5.5,6.5
 Portiere,Leali,GEN,Genoa,Free Agent,Free Agent,0,1,1,0,1,0,0,0,0,0,0,2,0,0,5.0,7.0,4.0,6.0,4.5,6.5
 Portiere,Sommariva,GEN,Genoa,Free Agent,Free Agent,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
-Portiere,Di Gennaro,INT,Inter,Free Agent,Free Agent,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+Portiere,Di Gennaro,INT,Inter,Free Agent,Free Agent,0,1,1,0,1,0,0,0,0,0,0,0,0,0,6.0,6.0,6.0,6.0,6.0,6.0
 Portiere,Perin,JUV,Juventus,Free Agent,Free Agent,0,3,1,0,2,0,0,0,0,0,0,1,0,1,5.25,5.75,5.75,6.25,5.5,6.0
 Portiere,Pinsoglio,JUV,Juventus,Free Agent,Free Agent,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
 Portiere,Brancolini,LEC,Lecce,Free Agent,Free Agent,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
 Portiere,Mirante,MIL,Milan,Free Agent,Free Agent,0,1,1,0,1,0,0,0,0,0,0,1,0,0,6.0,7.0,5.5,6.5,6.0,7.0
 Portiere,Sportiello,MIL,Milan,Free Agent,Free Agent,0,1,1,0,2,0,0,0,0,0,0,1,0,1,5.75,6.25,6.0,6.5,6.0,6.5
 Portiere,Lamanna,MON,Monza,Free Agent,Free Agent,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
-Portiere,Contini,NAP,Napoli,Free Agent,Free Agent,0,1,1,0,1,0,0,0,0,0,0,0,0,0,6.0,6.0,6.0,6.0,6.0,6.0
-Portiere,Gollini,NAP,Napoli,Nottingham Dese,Scap,1,1,1,0,2,0,0,0,0,0,0,2,0,0,5.25,6.25,5.5,6.5,5.75,6.75
+Portiere,Contini,NAP,Napoli,Free Agent,Free Agent,0,1,1,0,2,0,0,0,0,0,0,0,0,0,6.0,6.0,6.0,6.0,6.0,6.0
 Portiere,Boer,ROM,Roma,Free Agent,Free Agent,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
-Portiere,Svilar,ROM,Roma,Free Agent,Free Agent,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+Portiere,Svilar,ROM,Roma,Free Agent,Free Agent,0,1,1,0,1,0,0,0,0,0,0,3,0,0,3.0,6.0,2.5,5.5,2.5,5.5
 Portiere,Fiorillo,SAL,Salernitana,Free Agent,Free Agent,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
-Portiere,Sepe,LAZ,Lazio,Free Agent,Free Agent,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
-Portiere,Pegolo,SAS,Sassuolo,Free Agent,Free Agent,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
-Portiere,Gemello,TOR,Torino,Free Agent,Free Agent,0,1,1,0,1,0,0,0,0,0,0,2,0,0,2.5,4.5,3.5,5.5,3.0,5.0
-Portiere,Popa,TOR,Torino,Free Agent,Free Agent,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+Portiere,Sepe,LAZ,Lazio,Free Agent,Free Agent,0,1,1,0,1,0,0,0,0,0,0,0,0,0,6.0,6.0,6.0,6.0,6.0,6.0
+Portiere,Pegolo,SAS,Sassuolo,Free Agent,Free Agent,0,1,1,0,1,0,0,0,0,0,0,0,0,0,6.0,6.0,6.0,6.0,6.0,6.0
+Portiere,Gemello,TOR,Torino,Free Agent,Free Agent,0,1,1,0,2,0,0,0,0,0,0,2,0,0,4.25,5.25,4.75,5.75,4.5,5.5
+Portiere,Popa,TOR,Torino,Free Agent,Free Agent,0,1,1,0,1,0,0,0,0,0,0,0,0,0,6.0,6.0,6.0,6.0,6.0,6.0
 Portiere,Padelli,UDI,Udinese,Free Agent,Free Agent,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
 Portiere,Berardi A.,VER,Verona,Free Agent,Free Agent,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
 Portiere,Perilli,VER,Verona,Free Agent,Free Agent,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
 Portiere,Gori,MON,Monza,Free Agent,Free Agent,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
-Portiere,Audero,INT,Inter,Free Agent,Free Agent,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+Portiere,Audero,INT,Inter,Free Agent,Free Agent,0,1,1,0,1,0,0,0,0,0,0,0,0,0,6.0,6.0,6.0,6.0,6.0,6.0
 Portiere,Borbei,LEC,Lecce,Free Agent,Free Agent,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
 Portiere,Frattali,FRO,Frosinone,Free Agent,Free Agent,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
-Portiere,Mandas,LAZ,Lazio,Free Agent,Free Agent,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
-Difensore,Dimarco,INT,Inter,Atletico Una Volta,Marce,27,20,25,-2,15,0,0,4,3,0,0,0,0,0,7.35,6.48,7.3,6.43,7.43,6.57
-Difensore,Di Lorenzo,NAP,Napoli,AC Ciughina,Carle,25,20,16,-9,18,4,0,4,1,0,0,0,0,0,6.33,6.06,6.19,5.92,6.25,6.03
-Difensore,Acerbi,INT,Inter,AC Cipicchia,Nippon,11,10,14,3,15,1,0,1,1,0,0,0,0,0,6.57,6.33,6.67,6.43,6.53,6.3
-Difensore,Bremer,JUV,Juventus,Garda Che Squadra,Fracca,20,13,13,-7,18,3,0,0,1,0,0,0,0,0,6.29,6.21,6.31,6.22,6.5,6.42
-Difensore,Tomori,MIL,Milan,Nottingham Dese,Scap,14,13,13,-1,16,2,1,0,3,0,0,0,0,0,6.44,6.0,6.66,6.22,6.53,6.09
-Difensore,Gatti,JUV,Juventus,AC Cipicchia,Nippon,3,6,13,10,16,4,0,0,3,0,0,0,0,0,6.36,6.05,6.38,6.06,6.5,6.19
-Difensore,Carlos Augusto,INT,Inter,Atletico Una Volta,Marce,6,17,12,6,16,1,0,1,0,0,0,0,0,0,6.19,6.16,6.09,6.06,6.1,6.07
-Difensore,Dumfries,INT,Inter,Vecchie Rocce,Damian,26,14,12,-14,14,1,0,3,2,0,0,0,0,0,6.88,6.27,6.89,6.29,6.86,6.32
-Difensore,Dragusin,GEN,Genoa,AC Cipicchia,Nippon,1,6,12,11,18,1,0,1,2,0,0,0,0,0,6.53,6.17,6.58,6.22,6.53,6.17
-Difensore,Danilo,JUV,Juventus,Vecchie Rocce,Damian,30,16,10,-20,13,4,0,0,1,0,0,0,0,0,6.17,6.1,6.04,5.96,6.12,6.04
-Difensore,Mancini,ROM,Roma,Atletico Una Volta,Marce,6,10,10,4,18,4,0,0,2,0,0,0,0,0,6.24,6.01,6.25,6.03,6.25,6.03
-Difensore,Buongiorno,TOR,Torino,Free Agent,Free Agent,0,10,10,0,15,3,0,0,2,0,0,0,0,0,6.52,6.22,6.77,6.47,6.57,6.27
-Difensore,Scalvini,ATA,Atalanta,AC Ciughina,Carle,14,10,9,-5,15,1,0,1,0,0,0,0,0,0,5.73,5.7,6.1,6.07,6.03,6.0
-Difensore,Toljan,SAS,Sassuolo,Free Agent,Free Agent,0,6,9,0,17,1,0,5,0,0,0,0,0,0,6.24,5.97,6.18,5.91,5.91,5.71
-Difensore,Posch,BOL,Bologna,Free Agent,Free Agent,0,15,8,0,13,3,0,0,0,0,0,0,0,0,5.92,6.04,5.96,6.08,5.96,6.08
-Difensore,Rrahmani,NAP,Napoli,Free Agent,Free Agent,0,14,8,0,13,2,0,0,0,0,0,0,0,0,5.67,5.75,5.58,5.65,5.62,5.69
-Difensore,Zappacosta,ATA,Atalanta,Free Agent,Free Agent,0,15,8,0,15,3,0,1,0,0,0,0,0,0,5.9,5.93,5.8,5.83,6.0,6.03
-Difensore,Darmian,INT,Inter,Nottingham Dese,Scap,6,12,8,2,16,1,0,0,0,0,0,0,0,0,6.09,6.13,6.13,6.16,6.31,6.34
-Difensore,Baschirotto,LEC,Lecce,Nottingham Dese,Scap,1,11,8,7,17,1,1,1,0,0,0,0,0,0,5.84,5.87,5.88,5.91,5.79,5.82
-Difensore,Djimsiti,ATA,Atalanta,Nottingham Dese,Scap,5,8,8,3,16,3,0,0,0,0,0,0,0,0,5.94,6.03,6.18,6.26,6.18,6.26
-Difensore,Bellanova,TOR,Torino,AC Ciughina,Carle,3,7,8,5,16,5,0,2,0,0,0,0,0,0,5.95,5.98,6.13,6.16,5.94,5.97
-Difensore,Beukema,BOL,Bologna,Free Agent,Free Agent,0,6,8,0,16,3,0,1,0,0,0,0,0,0,6.09,6.13,6.13,6.16,6.19,6.28
-Difensore,Dossena,CAG,Cagliari,Nottingham Dese,Scap,7,6,8,1,18,0,0,1,2,0,0,0,0,0,6.13,5.85,6.28,6.0,6.33,6.06
-Difensore,Martinez Quarta,FIO,Fiorentina,Free Agent,Free Agent,0,5,8,0,14,2,0,0,3,0,0,0,0,0,6.71,6.14,6.75,6.18,6.75,6.18
-Difensore,Zappa,CAG,Cagliari,Free Agent,Free Agent,0,6,8,0,18,2,0,0,1,0,0,0,0,0,5.82,5.71,5.79,5.68,5.85,5.74
-Difensore,Caldirola,MON,Monza,Nottingham Dese,Scap,1,7,8,7,16,1,1,1,1,0,0,0,0,0,6.13,5.97,5.97,5.81,5.91,5.75
-Difensore,Monterisi,FRO,Frosinone,Free Agent,Free Agent,0,5,8,0,15,0,0,1,2,0,0,0,0,0,6.43,5.97,6.3,5.83,6.4,5.93
-Difensore,Cambiaso,JUV,Juventus,Garda Che Squadra,Fracca,15,7,8,-7,16,5,0,2,1,0,0,0,0,0,6.25,6.09,6.31,6.16,6.2,6.03
+Portiere,Mandas,LAZ,Lazio,Free Agent,Free Agent,0,1,1,0,1,0,0,0,0,0,0,0,0,0,6.0,6.0,6.0,6.0,6.0,6.0
+Difensore,Dimarco,INT,Inter,Atletico Una Volta,Marce,27,20,26,-1,18,0,0,5,3,0,0,0,0,0,7.21,6.43,7.22,6.44,7.31,6.53
+Difensore,Bremer,JUV,Juventus,Garda Che Squadra,Fracca,20,13,15,-5,22,3,0,0,2,0,0,0,0,0,6.45,6.25,6.5,6.3,6.66,6.45
+Difensore,Di Lorenzo,NAP,Napoli,AC Ciughina,Carle,25,20,14,-11,21,4,0,4,1,0,0,0,0,0,6.21,5.98,6.12,5.88,6.14,5.95
+Difensore,Acerbi,INT,Inter,AC Cipicchia,Nippon,11,10,13,2,18,1,0,1,1,0,0,0,0,0,6.44,6.25,6.53,6.33,6.39,6.19
+Difensore,Buongiorno,TOR,Torino,Free Agent,Free Agent,0,10,13,0,19,5,0,0,3,0,0,0,0,0,6.66,6.32,6.87,6.53,6.66,6.32
+Difensore,Danilo,JUV,Juventus,Vecchie Rocce,Damian,30,16,12,-18,16,4,0,1,1,0,0,0,0,0,6.28,6.16,6.16,6.03,6.19,6.13
+Difensore,Carlos Augusto,INT,Inter,Atletico Una Volta,Marce,6,17,12,6,19,1,0,1,0,0,0,0,0,0,6.17,6.14,6.08,6.05,6.08,6.06
+Difensore,Gatti,JUV,Juventus,AC Cipicchia,Nippon,3,6,12,9,19,5,0,0,3,0,0,0,0,0,6.26,6.03,6.26,6.03,6.37,6.13
+Difensore,Dumfries,INT,Inter,Vecchie Rocce,Damian,26,14,10,-16,16,1,0,3,2,0,0,0,0,0,6.78,6.25,6.75,6.22,6.72,6.25
+Difensore,Rrahmani,NAP,Napoli,Free Agent,Free Agent,0,14,10,0,16,3,0,0,1,0,0,0,0,0,5.86,5.77,5.81,5.72,5.81,5.72
+Difensore,Zappacosta,ATA,Atalanta,Free Agent,Free Agent,0,15,10,0,19,4,0,1,1,0,0,0,0,0,6.08,5.97,6.0,5.89,6.18,6.08
+Difensore,Mancini,ROM,Roma,Atletico Una Volta,Marce,6,10,10,4,20,5,0,0,2,0,0,0,0,0,6.23,6.05,6.2,6.03,6.25,6.08
+Difensore,Posch,BOL,Bologna,Free Agent,Free Agent,0,15,9,0,16,5,0,1,0,0,0,0,0,0,5.92,6.02,5.91,6.0,5.84,5.94
+Difensore,Scalvini,ATA,Atalanta,AC Ciughina,Carle,14,10,9,-5,19,2,0,1,0,0,0,0,0,0,5.8,5.8,6.08,6.08,6.05,6.05
+Difensore,Bellanova,TOR,Torino,AC Ciughina,Carle,3,7,9,6,20,5,0,3,0,0,0,0,0,0,6.1,6.08,6.25,6.23,6.1,6.08
+Difensore,Gendrey,LEC,Lecce,Free Agent,Free Agent,0,6,9,0,21,4,0,2,1,0,0,0,0,0,6.15,6.01,5.98,5.83,6.05,5.9
+Difensore,Cambiaso,JUV,Juventus,Garda Che Squadra,Fracca,15,7,9,-6,19,5,0,3,1,0,0,0,0,0,6.32,6.13,6.42,6.24,6.31,6.11
+Difensore,Calabria,MIL,Milan,Vecchie Rocce,Damian,3,10,8,5,19,3,1,3,0,0,0,0,0,0,5.87,5.84,5.89,5.87,5.95,5.92
+Difensore,Baschirotto,LEC,Lecce,Nottingham Dese,Scap,1,11,8,7,20,1,1,1,0,0,0,0,0,0,5.81,5.84,5.85,5.88,5.85,5.88
+Difensore,Djimsiti,ATA,Atalanta,Nottingham Dese,Scap,5,8,8,3,20,3,0,0,0,0,0,0,0,0,5.96,6.04,6.21,6.29,6.24,6.31
+Difensore,Dossena,CAG,Cagliari,Nottingham Dese,Scap,7,6,8,1,22,3,0,2,2,0,0,0,0,0,6.09,5.89,6.23,6.02,6.25,6.05
+Difensore,Martinez Quarta,FIO,Fiorentina,Free Agent,Free Agent,0,5,8,0,17,3,0,0,3,0,0,0,0,0,6.56,6.12,6.62,6.18,6.56,6.12
+Difensore,Bradaric,SAL,Salernitana,Free Agent,Free Agent,0,7,8,0,21,4,0,3,0,0,0,0,0,0,5.81,5.76,5.76,5.71,5.64,5.69
+Difensore,Zappa,CAG,Cagliari,Free Agent,Free Agent,0,6,8,0,22,2,0,1,1,0,0,0,0,0,5.88,5.74,5.88,5.74,5.86,5.76
+Difensore,Lazaro,TOR,Torino,Free Agent,Free Agent,0,4,8,0,18,2,0,2,0,0,0,0,0,0,6.15,6.1,6.0,5.94,5.86,5.92
 Difensore,Smalling,ROM,Roma,Free Agent,Free Agent,0,14,7,0,3,0,0,0,0,0,0,0,0,0,5.5,5.5,5.33,5.33,5.0,5.0
-Difensore,Calabria,MIL,Milan,Vecchie Rocce,Damian,3,10,7,4,15,1,1,2,0,0,0,0,0,0,5.82,5.78,5.93,5.9,6.0,5.97
-Difensore,Milenkovic,FIO,Fiorentina,Garda Che Squadra,Fracca,20,10,7,-13,16,2,0,0,0,0,0,0,0,0,5.67,5.73,5.75,5.81,6.06,6.13
-Difensore,Erlic,SAS,Sassuolo,Free Agent,Free Agent,0,6,7,0,18,3,0,0,1,0,0,0,0,0,5.82,5.74,5.64,5.56,5.81,5.72
-Difensore,Biraghi,FIO,Fiorentina,Garda Che Squadra,Fracca,5,11,7,2,14,4,0,2,1,0,0,0,0,0,6.04,5.82,6.0,5.79,5.96,5.82
-Difensore,Marusic,LAZ,Lazio,Free Agent,Free Agent,0,7,7,0,18,2,0,0,0,0,0,0,0,0,5.61,5.67,5.44,5.5,5.47,5.5
-Difensore,Spinazzola,ROM,Roma,AC Ciughina,Carle,12,12,7,-5,13,0,0,2,1,0,0,0,0,0,6.46,6.08,6.38,6.0,6.12,5.73
-Difensore,Mazzocchi,SAL,Salernitana,Atletico Una Volta,Marce,8,11,7,-1,18,4,0,1,0,0,0,0,0,0,5.71,5.76,5.53,5.58,5.72,5.78
-Difensore,Kolasinac,ATA,Atalanta,AC Cipicchia,Nippon,9,9,7,-2,15,2,0,0,1,0,0,0,0,0,6.38,6.25,6.43,6.3,6.27,6.13
-Difensore,Gendrey,LEC,Lecce,Free Agent,Free Agent,0,6,7,0,18,3,0,2,0,0,0,0,0,0,5.99,5.96,5.83,5.81,5.94,5.92
-Difensore,Sabelli,GEN,Genoa,Free Agent,Free Agent,0,5,7,0,16,2,0,0,0,0,0,0,0,0,5.94,6.0,6.16,6.22,6.03,6.09
-Difensore,Gallo,LEC,Lecce,Vecchie Rocce,Damian,4,6,7,3,15,2,0,2,0,0,0,0,0,0,6.18,6.12,5.87,5.8,5.93,5.93
-Difensore,Kyriakopoulos,MON,Monza,Free Agent,Free Agent,0,8,7,0,14,3,0,3,0,0,0,0,0,0,5.98,5.88,6.0,5.89,5.89,5.86
-Difensore,Bisseck,INT,Inter,Free Agent,Free Agent,0,3,7,0,4,0,0,0,1,0,0,0,0,0,7.38,6.63,7.5,6.75,7.38,6.63
-Difensore,Ebosele,UDI,Udinese,Free Agent,Free Agent,0,5,7,0,18,2,0,0,0,0,0,0,0,0,6.01,6.07,5.78,5.83,6.0,6.06
-Difensore,Lykogiannis,BOL,Bologna,Free Agent,Free Agent,0,5,7,0,10,1,0,0,1,0,0,0,0,0,6.28,6.03,6.23,6.0,6.32,6.0
-Difensore,Terracciano F.,VER,Verona,Free Agent,Free Agent,0,4,7,0,17,1,0,1,0,0,0,0,0,0,6.0,5.97,5.97,5.94,5.94,5.97
-Difensore,Calafiori,BOL,Bologna,Free Agent,Free Agent,0,4,7,0,14,1,0,0,0,0,0,0,0,0,6.11,6.14,6.46,6.5,6.61,6.64
-Difensore,Augello,CAG,Cagliari,Free Agent,Free Agent,0,5,6,0,14,1,0,0,0,0,0,0,0,0,5.77,5.8,5.64,5.68,5.93,5.96
-Difensore,Hateboer,ATA,Atalanta,Free Agent,Free Agent,0,6,6,0,8,2,0,1,0,0,0,0,0,0,5.88,5.88,5.94,5.94,5.81,5.81
-Difensore,Luperto,EMP,Empoli,Free Agent,Free Agent,0,7,6,0,18,1,0,0,0,0,0,0,0,0,5.79,5.82,5.89,5.92,5.97,6.0
-Difensore,Pirola,SAL,Salernitana,Free Agent,Free Agent,0,5,6,0,14,2,0,0,1,0,0,0,0,0,5.68,5.54,5.61,5.46,5.71,5.57
-Difensore,Ebuehi,EMP,Empoli,Free Agent,Free Agent,0,10,6,0,13,0,0,1,0,0,0,0,0,0,5.98,5.9,5.92,5.85,6.04,5.96
-Difensore,Bradaric,SAL,Salernitana,Free Agent,Free Agent,0,7,6,0,18,3,0,1,0,0,0,0,0,0,5.64,5.67,5.64,5.67,5.56,5.64
-Difensore,Bani,GEN,Genoa,Free Agent,Free Agent,0,3,6,0,14,6,0,0,1,0,0,0,0,0,5.98,5.98,6.39,6.39,6.07,6.07
-Difensore,Patric,LAZ,Lazio,Free Agent,Free Agent,0,4,6,0,10,3,0,0,1,0,0,0,0,0,6.15,6.0,5.85,5.7,6.2,6.05
-Difensore,Florenzi,MIL,Milan,Free Agent,Free Agent,0,2,6,0,12,3,0,1,0,0,0,0,0,0,5.98,6.02,5.85,5.88,5.77,5.88
-Difensore,Ruggeri,ATA,Atalanta,Free Agent,Free Agent,0,5,6,0,17,2,0,3,0,0,0,0,0,0,6.15,6.03,6.26,6.15,6.26,6.15
-Difensore,Vasquez,GEN,Genoa,Free Agent,Free Agent,0,6,6,0,16,2,0,0,0,0,0,0,0,0,5.97,6.03,5.97,6.03,5.97,6.03
-Difensore,Lazaro,TOR,Torino,Free Agent,Free Agent,0,4,6,0,14,2,0,0,0,0,0,0,0,0,5.96,6.04,5.79,5.86,5.79,5.86
-Difensore,De Winter,GEN,Genoa,Free Agent,Free Agent,0,2,6,0,14,4,0,1,0,0,0,0,0,0,5.8,5.88,5.79,5.86,6.07,6.14
-Difensore,Natan,NAP,Napoli,Free Agent,Free Agent,0,8,6,0,10,1,1,0,0,0,0,0,0,0,5.88,6.03,5.7,5.85,5.7,5.85
-Difensore,Kristiansen,BOL,Bologna,Free Agent,Free Agent,0,7,6,0,13,2,0,1,0,0,0,0,0,0,5.85,5.85,5.79,5.79,5.83,5.83
-Difensore,Casale,LAZ,Lazio,Free Agent,Free Agent,0,10,5,0,8,1,0,0,0,0,0,0,0,0,5.75,5.81,5.31,5.38,5.63,5.69
-Difensore,Juan Jesus,NAP,Napoli,Free Agent,Free Agent,0,6,5,0,9,3,0,0,0,0,0,0,0,0,5.61,5.78,5.67,5.83,5.83,6.0
-Difensore,Pongracic,LEC,Lecce,Free Agent,Free Agent,0,5,5,0,17,5,0,0,0,0,0,0,0,0,5.88,6.03,6.0,6.15,5.97,6.12
-Difensore,Cacace,EMP,Empoli,Free Agent,Free Agent,0,2,5,0,13,5,0,0,0,0,0,0,0,0,5.5,5.69,5.33,5.54,5.5,5.69
-Difensore,Vojvoda,TOR,Torino,Free Agent,Free Agent,0,6,5,0,11,1,0,0,0,0,0,0,0,0,5.82,5.86,5.82,5.86,5.64,5.68
-Difensore,Romagnoli S.,FRO,Frosinone,Free Agent,Free Agent,0,6,5,0,15,3,0,1,1,0,0,0,0,0,6.02,5.85,5.84,5.69,6.06,5.91
-Difensore,Gila,LAZ,Lazio,Free Agent,Free Agent,0,1,5,0,6,0,0,0,0,0,0,0,0,0,5.92,5.92,5.83,5.83,6.0,6.0
-Difensore,Kayode,FIO,Fiorentina,Atletico Una Volta,Marce,1,2,5,4,11,2,0,1,0,0,0,0,0,0,6.0,6.0,6.27,6.27,6.41,6.41
-Difensore,Fazio,SAL,Salernitana,Free Agent,Free Agent,0,2,5,0,9,3,0,1,1,0,0,0,0,0,6.25,5.97,6.44,6.17,6.06,5.89
-Difensore,Pedersen,SAS,Sassuolo,Free Agent,Free Agent,0,7,5,0,11,3,0,0,0,0,0,0,0,0,5.64,5.77,5.5,5.64,5.59,5.73
-Difensore,Pavard,INT,Inter,Free Agent,Free Agent,0,14,5,0,7,1,0,0,0,0,0,0,0,0,6.11,6.18,6.17,6.25,5.8,5.9
-Difensore,Kristensen T.,UDI,Udinese,Free Agent,Free Agent,0,2,5,0,8,0,0,0,0,0,0,0,0,0,5.81,5.81,5.67,5.67,5.89,5.89
+Difensore,Tomori,MIL,Milan,Nottingham Dese,Scap,14,13,7,-7,16,2,1,0,3,0,0,0,0,0,6.44,6.0,6.66,6.22,6.53,6.09
+Difensore,Darmian,INT,Inter,Nottingham Dese,Scap,6,12,7,1,19,1,0,0,0,0,0,0,0,0,6.03,6.05,6.08,6.11,6.21,6.24
+Difensore,Erlic,SAS,Sassuolo,Free Agent,Free Agent,0,6,7,0,21,4,0,0,1,0,0,0,0,0,5.8,5.75,5.62,5.57,5.79,5.74
+Difensore,Biraghi,FIO,Fiorentina,Garda Che Squadra,Fracca,5,11,7,2,17,4,0,2,1,0,0,0,0,0,5.99,5.81,5.94,5.76,5.88,5.76
+Difensore,Marusic,LAZ,Lazio,Free Agent,Free Agent,0,7,7,0,21,2,0,0,0,0,0,0,0,0,5.67,5.71,5.52,5.57,5.58,5.6
+Difensore,Spinazzola,ROM,Roma,AC Ciughina,Carle,12,12,7,-5,16,0,0,2,1,0,0,0,0,0,6.36,6.05,6.25,5.94,6.03,5.72
+Difensore,Kolasinac,ATA,Atalanta,AC Cipicchia,Nippon,9,9,7,-2,19,2,0,0,1,0,0,0,0,0,6.36,6.25,6.39,6.29,6.26,6.16
+Difensore,Luperto,EMP,Empoli,Free Agent,Free Agent,0,7,7,0,22,1,0,1,0,0,0,0,0,0,5.93,5.91,5.98,5.95,6.09,6.07
+Difensore,Kjaer,MIL,Milan,Free Agent,Free Agent,0,3,7,0,10,1,0,1,0,0,0,0,0,0,5.93,5.88,6.05,6.0,5.9,5.85
+Difensore,Sabelli,GEN,Genoa,Free Agent,Free Agent,0,5,7,0,18,3,0,0,0,0,0,0,0,0,5.93,6.01,6.14,6.22,6.0,6.08
+Difensore,Gallo,LEC,Lecce,Vecchie Rocce,Damian,4,6,7,3,18,2,0,2,0,0,0,0,0,0,6.11,6.06,5.92,5.86,5.94,5.94
+Difensore,Toljan,SAS,Sassuolo,Free Agent,Free Agent,0,6,7,0,19,1,0,5,0,0,0,0,0,0,6.21,5.97,6.16,5.92,5.92,5.74
+Difensore,Ebosele,UDI,Udinese,Free Agent,Free Agent,0,5,7,0,22,3,0,0,0,0,0,0,0,0,5.99,6.06,5.77,5.84,5.98,6.05
+Difensore,Lykogiannis,BOL,Bologna,Free Agent,Free Agent,0,5,7,0,13,1,0,0,1,0,0,0,0,0,6.17,5.98,6.11,5.93,6.14,5.89
+Difensore,Gila,LAZ,Lazio,Free Agent,Free Agent,0,1,7,0,9,1,0,0,0,0,0,0,0,0,5.97,6.03,5.89,5.94,6.11,6.17
+Difensore,Monterisi,FRO,Frosinone,Free Agent,Free Agent,0,5,7,0,16,1,0,2,2,0,0,0,0,0,6.45,5.98,6.28,5.81,6.41,5.94
+Difensore,Pedersen,SAS,Sassuolo,Free Agent,Free Agent,0,7,7,0,14,3,0,1,0,0,0,0,0,0,5.82,5.86,5.68,5.71,5.71,5.75
+Difensore,Pavard,INT,Inter,Free Agent,Free Agent,0,14,7,0,10,2,0,0,0,0,0,0,0,0,6.08,6.18,6.22,6.33,5.88,6.0
+Difensore,Milenkovic,FIO,Fiorentina,Garda Che Squadra,Fracca,20,10,6,-14,18,2,0,0,0,0,0,0,0,0,5.72,5.78,5.75,5.81,6.06,6.11
+Difensore,Beukema,BOL,Bologna,Free Agent,Free Agent,0,6,6,0,18,3,0,1,0,0,0,0,0,0,6.03,6.06,6.06,6.08,6.17,6.25
+Difensore,Cacace,EMP,Empoli,Free Agent,Free Agent,0,2,6,0,16,5,0,0,0,0,0,0,0,0,5.53,5.69,5.5,5.67,5.59,5.75
+Difensore,Bani,GEN,Genoa,Free Agent,Free Agent,0,3,6,0,16,7,0,0,1,0,0,0,0,0,5.98,6.02,6.41,6.44,6.06,6.09
+Difensore,Patric,LAZ,Lazio,Free Agent,Free Agent,0,4,6,0,13,3,0,0,1,0,0,0,0,0,6.15,6.04,5.88,5.77,6.23,6.12
+Difensore,Florenzi,MIL,Milan,Free Agent,Free Agent,0,2,6,0,15,3,0,2,0,0,0,0,0,0,6.08,6.05,5.97,5.94,5.91,5.94
+Difensore,Ruggeri,ATA,Atalanta,Free Agent,Free Agent,0,5,6,0,21,3,0,3,0,0,0,0,0,0,6.1,6.02,6.21,6.14,6.26,6.14
+Difensore,Vasquez,GEN,Genoa,Free Agent,Free Agent,0,6,6,0,19,3,0,0,0,0,0,0,0,0,5.96,6.04,5.97,6.05,5.97,6.05
+Difensore,Pellegrini Lu.,LAZ,Lazio,Free Agent,Free Agent,0,4,6,0,10,4,0,0,1,0,0,0,0,0,6.1,6.0,5.91,5.82,6.1,6.0
+Difensore,De Winter,GEN,Genoa,Free Agent,Free Agent,0,2,6,0,15,5,0,1,0,0,0,0,0,0,5.78,5.88,5.77,5.87,6.03,6.13
+Difensore,Fazio,SAL,Salernitana,Free Agent,Free Agent,0,2,6,0,11,3,0,1,1,0,0,0,0,0,6.2,5.98,6.32,6.09,6.14,6.0
+Difensore,Kristiansen,BOL,Bologna,Free Agent,Free Agent,0,7,6,0,17,3,0,1,0,0,0,0,0,0,5.81,5.84,5.75,5.78,5.75,5.78
+Difensore,Kristensen T.,UDI,Udinese,Free Agent,Free Agent,0,2,6,0,12,2,0,0,0,0,0,0,0,0,5.71,5.79,5.58,5.65,5.65,5.73
+Difensore,Casale,LAZ,Lazio,Free Agent,Free Agent,0,10,5,0,9,1,0,0,0,0,0,0,0,0,5.78,5.83,5.39,5.44,5.67,5.72
+Difensore,Mario Rui,NAP,Napoli,Free Agent,Free Agent,0,10,5,0,12,4,0,1,0,0,0,0,0,0,5.71,5.79,5.54,5.63,5.62,5.69
+Difensore,Augello,CAG,Cagliari,Free Agent,Free Agent,0,5,5,0,18,1,0,0,0,0,0,0,0,0,5.69,5.72,5.58,5.61,5.78,5.81
+Difensore,Ebuehi,EMP,Empoli,Free Agent,Free Agent,0,10,5,0,14,0,0,1,0,0,0,0,0,0,5.95,5.88,5.86,5.79,5.96,5.89
+Difensore,Lazzari,LAZ,Lazio,Nottingham Dese,Scap,13,6,5,-8,14,2,1,2,0,0,0,0,0,0,6.0,6.0,5.89,5.89,5.89,5.89
+Difensore,Pongracic,LEC,Lecce,Free Agent,Free Agent,0,5,5,0,20,6,0,0,0,0,0,0,0,0,5.86,6.01,5.93,6.08,6.0,6.15
+Difensore,Kyriakopoulos,MON,Monza,Free Agent,Free Agent,0,8,5,0,16,3,0,3,0,0,0,0,0,0,5.88,5.78,5.94,5.84,5.88,5.84
+Difensore,Bisseck,INT,Inter,Free Agent,Free Agent,0,3,5,0,5,0,0,0,1,0,0,0,0,0,7.1,6.5,7.2,6.6,7.1,6.5
+Difensore,Caldirola,MON,Monza,Nottingham Dese,Scap,1,7,5,4,19,3,1,1,1,0,0,0,0,0,5.91,5.83,5.84,5.76,5.79,5.71
+Difensore,Romagnoli S.,FRO,Frosinone,Free Agent,Free Agent,0,6,5,0,17,4,0,1,1,0,0,0,0,0,5.97,5.85,5.81,5.69,5.97,5.86
+Difensore,Okoli,FRO,Frosinone,Free Agent,Free Agent,0,1,5,0,17,6,0,0,0,0,0,0,0,0,5.59,5.76,5.59,5.76,5.62,5.79
+Difensore,Goldaniga,CAG,Cagliari,Free Agent,Free Agent,0,3,5,0,13,3,0,0,0,0,0,0,0,0,5.63,5.75,5.81,5.92,5.5,5.62
+Difensore,Kayode,FIO,Fiorentina,Atletico Una Volta,Marce,1,2,5,4,14,2,0,1,0,0,0,0,0,0,5.95,5.95,6.14,6.14,6.21,6.21
+Difensore,Rugani,JUV,Juventus,Free Agent,Free Agent,0,2,5,0,8,2,0,0,1,0,0,0,0,0,6.38,6.13,6.5,6.25,6.44,6.19
+Difensore,Calafiori,BOL,Bologna,Free Agent,Free Agent,0,4,5,0,18,3,0,1,0,0,0,0,0,0,5.92,6.06,6.19,6.33,6.33,6.53
+Difensore,Holm,ATA,Atalanta,Atletico Una Volta,Marce,3,10,5,2,9,1,0,0,1,0,0,0,0,0,6.47,6.19,6.35,6.1,6.44,6.17
 Difensore,Thiaw,MIL,Milan,Free Agent,Free Agent,0,11,4,0,11,3,1,0,0,0,0,0,0,0,5.57,5.8,5.73,5.95,5.73,5.95
-Difensore,Mario Rui,NAP,Napoli,Free Agent,Free Agent,0,10,4,0,9,4,0,1,0,0,0,0,0,0,5.72,5.83,5.61,5.72,5.6,5.7
-Difensore,Cuadrado,INT,Inter,Free Agent,Free Agent,0,10,4,0,7,1,0,2,0,0,0,0,0,0,6.39,6.18,6.36,6.14,6.14,5.93
-Difensore,Ostigard,NAP,Napoli,Vecchie Rocce,Damian,3,3,4,1,9,0,0,0,1,0,0,0,0,0,6.17,5.83,6.06,5.72,6.3,6.0
-Difensore,Doig,VER,Verona,Free Agent,Free Agent,0,11,4,0,10,2,0,0,0,0,0,0,0,0,5.7,5.8,5.6,5.7,5.55,5.65
-Difensore,Martin,GEN,Genoa,Free Agent,Free Agent,0,8,4,0,7,0,1,0,0,0,0,0,0,0,5.43,5.57,5.63,5.75,5.43,5.57
-Difensore,Kjaer,MIL,Milan,Free Agent,Free Agent,0,3,4,0,6,0,0,0,0,0,0,0,0,0,5.79,5.79,6.0,6.0,5.92,5.92
-Difensore,Olivera,NAP,Napoli,Free Agent,Free Agent,0,7,4,0,11,2,0,1,0,0,0,0,0,0,5.95,5.95,5.59,5.59,5.68,5.77
-Difensore,Gyomber,SAL,Salernitana,Free Agent,Free Agent,0,6,4,0,15,8,0,0,0,0,0,0,0,0,5.25,5.52,5.17,5.43,5.13,5.4
-Difensore,Lazzari,LAZ,Lazio,Nottingham Dese,Scap,13,6,4,-9,11,2,1,2,0,0,0,0,0,0,6.0,6.0,5.86,5.86,5.86,5.86
-Difensore,Ismajli,EMP,Empoli,Free Agent,Free Agent,0,5,4,0,12,0,0,0,0,0,0,0,0,0,5.77,5.77,5.79,5.79,5.75,5.75
-Difensore,Marchizza,FRO,Frosinone,Free Agent,Free Agent,0,6,4,0,13,1,0,4,0,0,0,0,0,0,6.29,6.02,6.27,6.0,6.23,5.96
-Difensore,Azzi,CAG,Cagliari,Free Agent,Free Agent,0,6,4,0,11,0,0,0,0,0,0,0,0,0,5.82,5.82,5.6,5.6,5.65,5.65
-Difensore,Birindelli,MON,Monza,Free Agent,Free Agent,0,6,4,0,13,4,0,1,0,0,0,0,0,0,5.88,5.96,5.93,6.0,5.89,5.96
-Difensore,Dawidowicz,VER,Verona,Free Agent,Free Agent,0,5,4,0,13,3,0,0,0,0,0,0,0,0,5.96,6.08,5.77,5.88,5.81,5.92
-Difensore,Carboni A.,MON,Monza,Free Agent,Free Agent,0,3,4,0,12,1,0,0,0,0,0,0,0,0,6.13,6.17,6.0,6.04,5.79,5.83
-Difensore,Goldaniga,CAG,Cagliari,Free Agent,Free Agent,0,3,4,0,11,3,0,0,0,0,0,0,0,0,5.55,5.68,5.77,5.91,5.45,5.59
-Difensore,Oyono,FRO,Frosinone,Free Agent,Free Agent,0,2,4,0,14,4,0,1,0,0,0,0,0,0,5.7,5.77,5.87,5.93,5.82,5.89
-Difensore,Rugani,JUV,Juventus,Free Agent,Free Agent,0,2,4,0,6,1,0,0,1,0,0,0,0,0,6.63,6.21,6.67,6.25,6.67,6.25
-Difensore,Vina,SAS,Sassuolo,Free Agent,Free Agent,0,4,4,0,15,1,0,3,0,0,0,0,0,0,5.72,5.82,5.47,5.57,5.47,5.57
-Difensore,Kabasele,UDI,Udinese,Free Agent,Free Agent,0,5,4,0,10,5,0,1,1,0,0,0,0,0,6.08,5.93,5.64,5.5,5.77,5.64
-Difensore,Dorgu,LEC,Lecce,Free Agent,Free Agent,0,3,4,0,14,4,0,0,0,0,0,0,0,0,5.89,6.04,5.64,5.79,5.75,5.89
-Difensore,Bijol,UDI,Udinese,AC Cipicchia,Nippon,9,9,3,-6,13,1,0,0,0,0,0,0,0,0,5.92,5.96,5.96,6.0,5.85,5.88
-Difensore,Parisi,FIO,Fiorentina,Free Agent,Free Agent,0,7,3,0,10,3,0,1,0,0,0,0,0,0,5.8,5.85,5.95,6.0,5.77,5.82
-Difensore,Magnani,VER,Verona,Free Agent,Free Agent,0,3,3,0,13,4,0,0,0,0,0,0,0,0,5.75,5.9,5.5,5.65,5.35,5.5
-Difensore,Pellegrini Lu.,LAZ,Lazio,Free Agent,Free Agent,0,4,3,0,7,3,0,0,0,0,0,0,0,0,5.68,5.89,5.5,5.69,5.64,5.86
-Difensore,Ehizibue,UDI,Udinese,Free Agent,Free Agent,0,4,3,0,3,0,0,0,0,0,0,0,0,0,5.67,5.67,5.75,5.75,6.0,6.0
-Difensore,Okoli,FRO,Frosinone,Free Agent,Free Agent,0,1,3,0,14,6,0,0,0,0,0,0,0,0,5.54,5.75,5.64,5.86,5.64,5.86
-Difensore,Amione,VER,Verona,Free Agent,Free Agent,0,2,3,0,8,2,0,0,0,0,0,0,0,0,5.78,5.91,5.63,5.75,5.56,5.69
-Difensore,Bereszynski,EMP,Empoli,Free Agent,Free Agent,0,3,3,0,7,1,0,0,0,0,0,0,0,0,5.54,5.61,5.56,5.63,5.56,5.63
-Difensore,Lirola,FRO,Frosinone,Free Agent,Free Agent,0,3,3,0,7,1,0,1,1,0,0,0,0,0,6.54,6.04,6.5,6.0,6.29,5.79
-Difensore,Haps,GEN,Genoa,Free Agent,Free Agent,0,2,3,0,8,0,0,1,0,0,0,0,0,0,5.91,5.78,6.06,5.94,5.88,5.75
-Difensore,Toloi,ATA,Atalanta,AC Ciughina,Carle,4,8,2,-2,6,2,1,0,0,0,0,0,0,0,5.58,5.92,5.58,5.92,5.58,5.92
-Difensore,Bakker,ATA,Atalanta,Vecchie Rocce,Damian,1,11,2,1,4,0,0,0,0,0,0,0,0,0,5.56,5.56,5.63,5.63,5.63,5.63
-Difensore,Izzo,MON,Monza,Free Agent,Free Agent,0,7,2,0,5,3,0,0,0,0,0,0,0,0,5.45,5.75,5.8,6.1,5.6,5.9
+Difensore,Juan Jesus,NAP,Napoli,Free Agent,Free Agent,0,6,4,0,12,4,0,0,0,0,0,0,0,0,5.5,5.67,5.54,5.71,5.71,5.88
+Difensore,Djidji,TOR,Torino,Free Agent,Free Agent,0,5,4,0,5,0,0,0,0,0,0,0,0,0,6.3,6.3,6.17,6.25,6.1,6.1
+Difensore,Magnani,VER,Verona,Free Agent,Free Agent,0,3,4,0,16,4,0,0,0,0,0,0,0,0,5.77,5.89,5.66,5.78,5.44,5.56
+Difensore,Ismajli,EMP,Empoli,Free Agent,Free Agent,0,5,4,0,15,0,0,0,0,0,0,0,0,0,5.77,5.77,5.83,5.83,5.83,5.83
+Difensore,Azzi,CAG,Cagliari,Free Agent,Free Agent,0,6,4,0,14,1,0,0,0,0,0,0,0,0,5.8,5.84,5.58,5.62,5.69,5.73
+Difensore,Birindelli,MON,Monza,Free Agent,Free Agent,0,6,4,0,14,5,0,1,0,0,0,0,0,0,5.86,5.96,5.87,5.97,5.84,5.94
+Difensore,Tressoldi,SAS,Sassuolo,Free Agent,Free Agent,0,5,4,0,15,2,1,0,0,0,0,0,0,0,5.38,5.52,5.2,5.33,5.36,5.5
+Difensore,Ehizibue,UDI,Udinese,Free Agent,Free Agent,0,4,4,0,7,0,0,0,0,0,0,0,0,0,5.82,5.82,5.75,5.75,5.75,5.75
+Difensore,Walukiewicz,EMP,Empoli,Free Agent,Free Agent,0,2,4,0,14,4,0,0,0,0,0,0,0,0,5.41,5.55,5.57,5.71,5.54,5.68
+Difensore,Natan,NAP,Napoli,Free Agent,Free Agent,0,8,4,0,11,1,1,0,0,0,0,0,0,0,5.89,6.02,5.73,5.86,5.73,5.86
+Difensore,Martin,GEN,Genoa,Free Agent,Free Agent,0,8,3,0,8,1,1,0,0,0,0,0,0,0,5.34,5.53,5.61,5.78,5.38,5.56
+Difensore,Hateboer,ATA,Atalanta,Free Agent,Free Agent,0,6,3,0,10,2,0,1,0,0,0,0,0,0,5.9,5.9,5.95,5.95,5.85,5.85
+Difensore,Gyomber,SAL,Salernitana,Free Agent,Free Agent,0,6,3,0,18,9,0,0,0,0,0,0,0,0,5.29,5.54,5.19,5.44,5.19,5.44
+Difensore,Pirola,SAL,Salernitana,Free Agent,Free Agent,0,5,3,0,14,2,0,0,1,0,0,0,0,0,5.68,5.54,5.61,5.46,5.71,5.57
+Difensore,Vojvoda,TOR,Torino,Free Agent,Free Agent,0,6,3,0,12,1,0,0,0,0,0,0,0,0,5.83,5.88,5.83,5.88,5.67,5.71
+Difensore,De Silvestri,BOL,Bologna,Vecchie Rocce,Damian,1,1,3,2,10,0,0,0,2,0,0,0,0,0,6.8,6.2,6.7,6.1,6.91,6.36
+Difensore,Sambia,SAL,Salernitana,Free Agent,Free Agent,0,3,3,0,3,0,0,0,0,0,0,0,0,0,6.33,6.33,6.13,6.13,6.5,6.5
+Difensore,Bereszynski,EMP,Empoli,Free Agent,Free Agent,0,3,3,0,9,2,0,1,0,0,0,0,0,0,5.75,5.75,5.75,5.75,5.7,5.7
+Difensore,Lirola,FRO,Frosinone,Free Agent,Free Agent,0,3,3,0,9,1,0,1,1,0,0,0,0,0,6.31,5.92,6.06,5.67,5.94,5.56
+Difensore,Toloi,ATA,Atalanta,AC Ciughina,Carle,4,8,2,-2,7,2,1,0,0,0,0,0,0,0,5.64,5.93,5.64,5.93,5.64,5.93
+Difensore,Bakker,ATA,Atalanta,Vecchie Rocce,Damian,1,11,2,1,5,0,0,0,0,0,0,0,0,0,5.65,5.65,5.7,5.7,5.7,5.7
+Difensore,Cuadrado,INT,Inter,Free Agent,Free Agent,0,10,2,0,8,1,0,2,0,0,0,0,0,0,6.34,6.16,6.31,6.13,6.13,5.94
+Difensore,Izzo,MON,Monza,Free Agent,Free Agent,0,7,2,0,6,3,0,0,0,0,0,0,0,0,5.5,5.75,5.67,5.92,5.5,5.75
+Difensore,Ostigard,NAP,Napoli,Vecchie Rocce,Damian,3,3,2,-1,10,0,0,0,1,0,0,0,0,0,6.15,5.85,6.05,5.75,6.27,6.0
+Difensore,Bijol,UDI,Udinese,AC Cipicchia,Nippon,9,9,2,-7,13,1,0,0,0,0,0,0,0,0,5.92,5.96,5.96,6.0,5.85,5.88
+Difensore,Parisi,FIO,Fiorentina,Free Agent,Free Agent,0,7,2,0,12,3,0,1,0,0,0,0,0,0,5.85,5.9,5.96,6.0,5.81,5.85
 Difensore,Kalulu,MIL,Milan,Free Agent,Free Agent,0,7,2,0,3,0,0,0,0,0,0,0,0,0,5.83,5.83,6.0,6.0,5.75,5.75
-Difensore,Viti,SAS,Sassuolo,Free Agent,Free Agent,0,6,2,0,4,0,0,0,0,0,0,0,0,0,5.75,5.75,5.63,5.63,5.75,5.75
-Difensore,De Vrij,INT,Inter,Garda Che Squadra,Fracca,2,8,2,0,11,0,0,0,0,0,0,0,0,0,6.2,6.2,6.25,6.25,6.3,6.3
-Difensore,Djidji,TOR,Torino,Free Agent,Free Agent,0,5,2,0,2,0,0,0,0,0,0,0,0,0,6.13,6.13,5.67,5.83,6.0,6.0
-Difensore,Daniliuc,SAL,Salernitana,Free Agent,Free Agent,0,2,2,0,9,2,0,0,0,0,0,0,0,0,5.5,5.61,5.22,5.33,5.17,5.28
-Difensore,Zemura,UDI,Udinese,Free Agent,Free Agent,0,6,2,0,11,1,0,0,0,0,0,0,0,0,5.82,5.86,5.64,5.68,5.59,5.64
-Difensore,Karsdorp,ROM,Roma,Free Agent,Free Agent,0,3,2,0,9,1,0,1,0,0,0,0,0,0,6.11,6.06,5.72,5.67,5.83,5.78
-Difensore,Tressoldi,SAS,Sassuolo,Free Agent,Free Agent,0,5,2,0,12,2,1,0,0,0,0,0,0,0,5.27,5.44,5.08,5.25,5.29,5.46
-Difensore,Walukiewicz,EMP,Empoli,Free Agent,Free Agent,0,2,2,0,10,3,0,0,0,0,0,0,0,0,5.25,5.4,5.35,5.5,5.35,5.5
-Difensore,Holm,ATA,Atalanta,Atletico Una Volta,Marce,3,10,2,-1,5,0,0,0,0,0,0,0,0,0,6.1,6.1,5.83,5.83,6.0,6.0
-Difensore,Schuurs,TOR,Torino,Free Agent,Free Agent,0,15,1,0,9,2,0,0,1,0,0,0,0,0,6.19,5.97,6.22,6.0,6.0,5.78
+Difensore,Viti,SAS,Sassuolo,Free Agent,Free Agent,0,6,2,0,6,0,0,0,0,0,0,0,0,0,5.75,5.75,5.58,5.58,5.75,5.75
+Difensore,De Vrij,INT,Inter,Garda Che Squadra,Fracca,2,8,2,0,13,0,0,0,0,0,0,0,0,0,6.25,6.25,6.29,6.29,6.29,6.29
+Difensore,Lovato,SAL,Salernitana,Free Agent,Free Agent,0,5,2,0,12,2,0,0,0,0,0,0,0,0,5.25,5.33,5.13,5.21,5.38,5.46
+Difensore,Celik,ROM,Roma,Free Agent,Free Agent,0,2,2,0,5,0,0,0,0,0,0,0,0,0,5.65,5.65,5.7,5.7,5.6,5.6
+Difensore,Karsdorp,ROM,Roma,Free Agent,Free Agent,0,3,2,0,11,1,0,1,0,0,0,0,0,0,6.02,5.98,5.82,5.77,5.82,5.77
+Difensore,Dawidowicz,VER,Verona,Free Agent,Free Agent,0,5,2,0,14,4,0,0,0,0,0,0,0,0,5.89,6.04,5.71,5.86,5.79,5.93
+Difensore,Dorgu,LEC,Lecce,Free Agent,Free Agent,0,3,2,0,15,4,0,0,0,0,0,0,0,0,5.87,6.0,5.7,5.83,5.77,5.9
+Difensore,Haps,GEN,Genoa,Free Agent,Free Agent,0,2,2,0,9,0,0,1,0,0,0,0,0,0,5.89,5.78,6.05,5.95,5.89,5.78
+Difensore,Wieteska,CAG,Cagliari,Vecchie Rocce,Damian,1,6,2,1,8,3,1,1,0,0,0,0,0,0,5.31,5.5,5.06,5.25,5.06,5.25
+Difensore,Schuurs,TOR,Torino,Free Agent,Free Agent,0,15,1,0,10,2,0,0,1,0,0,0,0,0,6.18,5.98,6.2,6.0,6.0,5.8
 Difensore,Obert,CAG,Cagliari,Free Agent,Free Agent,0,5,1,0,7,1,0,0,0,0,0,0,0,0,5.36,5.43,5.29,5.36,5.29,5.36
-Difensore,Hysaj,LAZ,Lazio,Free Agent,Free Agent,0,7,1,0,8,1,0,0,0,0,0,0,0,0,5.63,5.69,5.31,5.38,5.5,5.56
-Difensore,Faraoni,VER,Verona,Atletico Una Volta,Marce,7,9,1,-6,11,5,0,1,0,0,0,0,0,0,5.82,5.95,5.27,5.41,5.41,5.55
-Difensore,Alex Sandro,JUV,Juventus,Free Agent,Free Agent,0,6,1,0,4,1,0,0,0,0,0,0,0,0,5.94,6.06,5.63,5.75,5.75,5.88
-Difensore,Cittadini,MON,Monza,Free Agent,Free Agent,0,2,1,0,1,1,0,0,0,0,0,0,0,0,5.5,6.0,5.5,6.0,5.5,6.0
-Difensore,Lovato,SAL,Salernitana,Free Agent,Free Agent,0,5,1,0,10,2,0,0,0,0,0,0,0,0,5.25,5.35,5.2,5.3,5.45,5.55
-Difensore,Masina,UDI,Udinese,Free Agent,Free Agent,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,5.5,6.0
-Difensore,Soppy,TOR,Torino,Free Agent,Free Agent,0,1,1,0,3,0,0,0,0,0,0,0,0,0,5.83,5.83,5.67,5.67,5.33,5.33
-Difensore,Vogliacco,GEN,Genoa,Free Agent,Free Agent,0,4,1,0,2,2,0,0,0,0,0,0,0,0,5.0,5.5,5.25,5.75,5.25,5.75
-Difensore,Celik,ROM,Roma,Free Agent,Free Agent,0,2,1,0,3,0,0,0,0,0,0,0,0,0,5.5,5.5,5.5,5.5,5.33,5.33
-Difensore,Cabal,VER,Verona,Free Agent,Free Agent,0,2,1,0,1,0,0,0,0,0,0,0,0,0,6.0,6.0,6.5,6.5,6.0,6.0
-Difensore,Palomino,ATA,Atalanta,Free Agent,Free Agent,0,6,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
-Difensore,Bonifazi,BOL,Bologna,Free Agent,Free Agent,0,2,1,0,1,0,0,0,0,0,0,0,0,0,6.0,6.0,6.0,6.0,6.0,6.0
-Difensore,De Silvestri,BOL,Bologna,Vecchie Rocce,Damian,1,1,1,0,7,0,0,0,1,0,0,0,0,0,6.57,6.14,6.5,6.07,6.69,6.31
-Difensore,Zanoli,NAP,Napoli,Free Agent,Free Agent,0,3,1,0,2,0,0,0,0,0,0,0,0,0,6.0,6.0,5.75,5.75,6.0,6.0
-Difensore,Bronn,SAL,Salernitana,Free Agent,Free Agent,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,6.0,6.0
-Difensore,Matturro,GEN,Genoa,Free Agent,Free Agent,0,1,1,0,2,0,0,0,0,0,0,0,0,0,4.25,5.25,5.0,6.0,4.25,5.25
-Difensore,Venuti,LEC,Lecce,Free Agent,Free Agent,0,3,1,0,1,0,0,0,0,0,0,0,0,0,5.75,5.75,5.0,5.0,5.0,5.0
+Difensore,Hysaj,LAZ,Lazio,Free Agent,Free Agent,0,7,1,0,9,1,0,0,0,0,0,0,0,0,5.67,5.72,5.39,5.44,5.55,5.6
+Difensore,Olivera,NAP,Napoli,Free Agent,Free Agent,0,7,1,0,12,2,0,1,0,0,0,0,0,0,5.96,5.96,5.63,5.63,5.71,5.79
+Difensore,Alex Sandro,JUV,Juventus,Free Agent,Free Agent,0,6,1,0,5,1,0,0,0,0,0,0,0,0,5.9,6.0,5.7,5.8,5.8,5.9
+Difensore,Masina,UDI,Udinese,Free Agent,Free Agent,0,5,1,0,1,1,0,0,0,0,0,0,0,0,5.5,6.0,5.0,5.5,5.0,5.5
+Difensore,Soppy,TOR,Torino,Free Agent,Free Agent,0,1,1,0,4,0,0,0,0,0,0,0,0,0,5.88,5.88,5.75,5.75,5.5,5.5
+Difensore,Marchizza,FRO,Frosinone,Free Agent,Free Agent,0,6,1,0,13,1,0,4,0,0,0,0,0,0,6.29,6.02,6.27,6.0,6.23,5.96
+Difensore,Vogliacco,GEN,Genoa,Free Agent,Free Agent,0,4,1,0,4,3,0,0,0,0,0,0,0,0,5.38,5.75,5.63,6.0,5.5,5.88
+Difensore,Daniliuc,SAL,Salernitana,Free Agent,Free Agent,0,2,1,0,10,2,0,0,0,0,0,0,0,0,5.53,5.63,5.3,5.4,5.25,5.35
+Difensore,Zemura,UDI,Udinese,Free Agent,Free Agent,0,6,1,0,11,1,0,0,0,0,0,0,0,0,5.82,5.86,5.64,5.68,5.58,5.63
+Difensore,Cabal,VER,Verona,Free Agent,Free Agent,0,2,1,0,3,0,0,0,0,0,0,0,0,0,6.0,6.0,6.33,6.33,5.83,5.83
+Difensore,Palomino,ATA,Atalanta,Free Agent,Free Agent,0,6,1,0,1,0,0,0,0,0,0,0,0,0,6.0,6.0,6.0,6.0,6.0,6.0
+Difensore,Bronn,SAL,Salernitana,Free Agent,Free Agent,0,1,1,0,1,0,0,0,0,0,0,0,0,0,6.0,6.0,6.0,6.0,5.75,5.75
+Difensore,Matturro,GEN,Genoa,Free Agent,Free Agent,0,1,1,0,2,0,0,0,0,0,0,0,0,0,4.25,5.25,5.0,6.0,4.83,5.5
+Difensore,Venuti,LEC,Lecce,Free Agent,Free Agent,0,3,1,0,2,1,0,0,0,0,0,0,0,0,5.63,5.88,5.25,5.5,5.0,5.25
+Difensore,Carboni A.,MON,Monza,Free Agent,Free Agent,0,3,1,0,12,1,0,0,0,0,0,0,0,0,6.13,6.17,6.0,6.04,5.79,5.83
 Difensore,Kumbulla,ROM,Roma,Free Agent,Free Agent,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
-Difensore,Sambia,SAL,Salernitana,Free Agent,Free Agent,0,3,1,0,1,0,0,0,0,0,0,0,0,0,6.5,6.5,5.75,5.75,6.5,6.5
-Difensore,Missori,SAS,Sassuolo,Free Agent,Free Agent,0,2,1,0,1,0,0,0,0,0,0,0,0,0,5.5,5.5,6.0,6.0,5.5,5.5
-Difensore,Zima,TOR,Torino,Free Agent,Free Agent,0,3,1,0,3,0,0,0,0,0,0,0,0,0,5.92,5.92,6.17,6.17,6.0,6.0
-Difensore,Gunter,VER,Verona,Free Agent,Free Agent,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
-Difensore,Zortea,ATA,Atalanta,Free Agent,Free Agent,0,5,1,0,5,1,0,0,1,0,0,0,0,0,6.55,6.05,6.4,5.9,6.6,6.1
-Difensore,Amey,BOL,Bologna,Free Agent,Free Agent,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
-Difensore,Soumaoro,BOL,Bologna,Free Agent,Free Agent,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
-Difensore,Capradossi,CAG,Cagliari,Free Agent,Free Agent,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
-Difensore,Di Pardo,CAG,Cagliari,Free Agent,Free Agent,0,3,1,0,4,0,0,0,0,0,0,0,0,0,5.75,5.75,5.5,5.5,5.5,5.5
+Difensore,Missori,SAS,Sassuolo,Free Agent,Free Agent,0,2,1,0,3,0,0,0,0,0,0,0,0,0,5.83,5.83,5.83,5.83,5.75,5.75
+Difensore,Zima,TOR,Torino,Free Agent,Free Agent,0,3,1,0,4,0,0,0,0,0,0,0,0,0,5.94,5.94,6.13,6.13,6.0,6.0
+Difensore,Amey,BOL,Bologna,Free Agent,Free Agent,0,1,1,0,1,0,0,0,0,0,0,0,0,0,6.0,6.0,6.0,6.0,6.0,6.0
+Difensore,Soumaoro,BOL,Bologna,Free Agent,Free Agent,0,3,1,0,1,0,0,0,0,0,0,0,0,0,6.0,6.0,6.0,6.0,6.0,6.0
+Difensore,Di Pardo,CAG,Cagliari,Free Agent,Free Agent,0,3,1,0,5,0,0,0,0,0,0,0,0,0,5.8,5.8,5.67,5.67,5.5,5.5
 Difensore,Guarino,EMP,Empoli,Free Agent,Free Agent,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
 Difensore,Tonelli,EMP,Empoli,Free Agent,Free Agent,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
 Difensore,Kalaj,FRO,Frosinone,Free Agent,Free Agent,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+Difensore,Oyono,FRO,Frosinone,Free Agent,Free Agent,0,2,1,0,14,4,0,1,0,0,0,0,0,0,5.7,5.77,5.87,5.93,5.82,5.89
 Difensore,De Sciglio,JUV,Juventus,Free Agent,Free Agent,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
 Difensore,Dermaku,LEC,Lecce,Free Agent,Free Agent,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
-Difensore,Smajlovic,LEC,Lecce,Free Agent,Free Agent,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
 Difensore,Bettella,MON,Monza,Free Agent,Free Agent,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
-Difensore,Carboni F.,MON,Monza,Free Agent,Free Agent,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
 Difensore,Ebosse,UDI,Udinese,Free Agent,Free Agent,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,5.5,5.5,6.0,6.0
-Difensore,Mina,FIO,Fiorentina,Free Agent,Free Agent,0,7,1,0,1,1,0,0,0,0,0,0,0,0,5.25,5.75,5.0,5.5,5.5,6.0
-Difensore,Corazza,BOL,Bologna,Free Agent,Free Agent,0,2,1,0,3,1,0,0,0,0,0,0,0,0,5.67,5.83,5.67,5.83,5.5,5.67
-Difensore,Huijsen,JUV,Juventus,Free Agent,Free Agent,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,6.0,6.0
+Difensore,Amione,VER,Verona,Free Agent,Free Agent,0,2,1,0,8,2,0,0,0,0,0,0,0,0,5.78,5.91,5.63,5.75,5.56,5.69
+Difensore,Kabasele,UDI,Udinese,Free Agent,Free Agent,0,5,1,0,10,5,0,1,1,0,0,0,0,0,6.08,5.93,5.64,5.5,5.77,5.64
+Difensore,Mina,FIO,Fiorentina,Free Agent,Free Agent,0,7,1,0,2,1,0,0,0,0,0,0,0,0,5.63,5.88,5.5,5.75,5.75,6.0
+Difensore,Corazza,BOL,Bologna,Free Agent,Free Agent,0,2,1,0,4,1,0,0,0,0,0,0,0,0,5.75,5.88,5.75,5.88,5.63,5.75
 Difensore,Pellegrino,MIL,Milan,Free Agent,Free Agent,0,1,1,0,1,0,0,0,0,0,0,0,0,0,5.0,5.0,5.0,5.0,5.0,5.0
 Difensore,Touba,LEC,Lecce,Free Agent,Free Agent,0,3,1,0,2,0,0,0,0,0,0,0,0,0,6.25,6.25,5.63,5.75,5.5,5.63
-Difensore,Wieteska,CAG,Cagliari,Vecchie Rocce,Damian,1,6,1,0,5,1,1,1,0,0,0,0,0,0,5.3,5.4,5.1,5.2,5.1,5.2
-Difensore,Sazonov,TOR,Torino,Free Agent,Free Agent,0,3,1,0,3,0,0,0,0,0,0,0,0,0,5.75,5.75,5.83,5.83,5.83,5.83
+Difensore,Sazonov,TOR,Torino,Free Agent,Free Agent,0,3,1,0,4,0,0,0,0,0,0,0,0,0,5.81,5.81,6.0,6.0,5.9,5.9
 Difensore,Bastoni S.,EMP,Empoli,Free Agent,Free Agent,0,8,1,0,5,1,0,0,0,0,0,0,0,0,5.5,5.6,5.67,5.75,5.4,5.5
-Difensore,Bonfanti,ATA,Atalanta,Free Agent,Free Agent,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,6.0,6.0,6.0,6.0
-Difensore,Pierozzi,FIO,Fiorentina,Free Agent,Free Agent,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
-Centrocampista,Calhanoglu,INT,Inter,Free Agent,Free Agent,0,17,35,0,18,4,0,3,7,6,0,0,0,0,7.65,6.43,7.58,6.36,7.53,6.42
-Centrocampista,Pulisic,MIL,Milan,Vecchie Rocce,Damian,37,20,34,-3,16,1,0,4,6,0,0,0,0,0,7.84,6.5,7.75,6.41,7.75,6.47
-Centrocampista,Luis Alberto,LAZ,Lazio,Atletico Una Volta,Marce,25,22,30,5,16,5,0,1,3,0,0,0,0,0,6.75,6.28,6.5,6.03,6.72,6.25
-Centrocampista,Zaccagni,LAZ,Lazio,Atletico Una Volta,Marce,31,26,29,-2,16,4,0,0,3,0,0,0,0,0,6.59,6.16,6.69,6.25,6.66,6.22
-Centrocampista,Rabiot,JUV,Juventus,AC Cipicchia,Nippon,31,22,28,-3,16,5,0,3,3,0,0,0,0,0,6.78,6.19,6.63,6.03,6.91,6.38
-Centrocampista,Koopmeiners,ATA,Atalanta,Vecchie Rocce,Damian,21,24,27,6,17,1,0,3,3,0,0,0,0,0,6.93,6.25,6.88,6.21,7.06,6.44
-Centrocampista,Barella,INT,Inter,Nottingham Dese,Scap,31,20,26,-5,18,4,0,3,2,0,0,0,0,0,6.63,6.24,6.75,6.36,6.81,6.42
-Centrocampista,Candreva,SAL,Salernitana,Nottingham Dese,Scap,11,17,26,15,17,2,0,4,4,0,0,0,0,0,7.13,6.25,6.91,6.03,7.0,6.12
-Centrocampista,Bonaventura,FIO,Fiorentina,Garda Che Squadra,Fracca,3,15,25,22,16,4,0,2,6,0,0,0,0,0,7.48,6.36,7.38,6.25,7.59,6.47
-Centrocampista,Felipe Anderson,LAZ,Lazio,AC Cipicchia,Nippon,23,22,23,0,18,1,0,5,1,0,0,0,0,0,6.4,5.99,6.17,5.75,6.06,5.64
-Centrocampista,Samardzic,UDI,Udinese,AC Ciughina,Carle,15,17,23,8,16,1,0,2,2,0,0,0,0,0,6.59,6.13,6.44,6.0,6.47,6.06
-Centrocampista,Politano,NAP,Napoli,Nottingham Dese,Scap,13,15,23,10,17,2,1,3,5,1,0,0,0,0,7.34,6.4,7.15,6.21,7.21,6.26
-Centrocampista,Colpani,MON,Monza,Atletico Una Volta,Marce,11,12,23,12,18,0,0,1,6,0,0,0,0,0,7.44,6.39,7.31,6.25,7.53,6.47
-Centrocampista,Ferguson,BOL,Bologna,Garda Che Squadra,Fracca,21,18,22,1,18,5,0,2,4,0,0,0,0,0,6.86,6.22,6.97,6.33,7.17,6.53
-Centrocampista,Mkhitaryan,INT,Inter,AC Ciughina,Carle,1,13,21,20,18,2,0,4,2,0,0,0,0,0,6.81,6.31,6.94,6.44,6.97,6.53
-Centrocampista,Kostic,JUV,Juventus,Garda Che Squadra,Fracca,3,14,20,17,16,2,0,4,0,0,0,0,0,0,6.3,6.11,5.94,5.75,5.94,5.94
-Centrocampista,Zielinski,NAP,Napoli,Free Agent,Free Agent,0,21,18,0,17,0,0,2,2,1,0,0,0,0,6.47,6.0,6.09,5.62,6.47,6.0
-Centrocampista,Frattesi,INT,Inter,Garda Che Squadra,Fracca,20,17,17,-3,12,1,0,0,1,0,0,0,0,0,6.33,6.13,6.27,6.08,6.25,6.04
-Centrocampista,Ilic,TOR,Torino,Free Agent,Free Agent,0,12,17,0,16,2,0,2,2,0,0,0,0,0,6.58,6.14,6.47,6.03,6.31,6.0
-Centrocampista,Lobotka,NAP,Napoli,Garda Che Squadra,Fracca,1,13,16,15,18,2,0,1,0,0,0,0,0,0,6.04,6.04,6.0,6.0,6.19,6.19
-Centrocampista,Malinovskyi,GEN,Genoa,Free Agent,Free Agent,0,15,16,0,13,6,0,1,2,0,0,0,0,0,6.23,5.92,6.19,5.88,6.33,6.0
-Centrocampista,Orsolini,BOL,Bologna,Atletico Una Volta,Marce,10,19,15,5,13,1,0,1,4,1,1,0,0,0,6.98,6.25,6.73,6.0,6.81,6.15
-Centrocampista,Reijnders,MIL,Milan,Free Agent,Free Agent,0,13,15,0,18,4,0,1,2,0,0,0,0,0,6.4,6.13,6.31,6.03,6.5,6.22
-Centrocampista,Kastanos,SAL,Salernitana,Free Agent,Free Agent,0,7,15,0,14,3,0,3,1,0,0,0,0,0,6.27,5.95,6.03,5.77,6.2,6.0
-Centrocampista,Ciurria,MON,Monza,Atletico Una Volta,Marce,7,14,14,7,17,2,0,1,0,0,0,0,0,0,5.81,5.81,5.88,5.88,6.18,6.12
-Centrocampista,Pellegrini Lo.,ROM,Roma,Free Agent,Free Agent,0,15,14,0,10,3,0,0,2,0,0,0,0,0,6.35,5.9,6.25,5.8,6.2,5.75
-Centrocampista,Strefezza,LEC,Lecce,Atletico Una Volta,Marce,5,18,14,9,17,3,0,0,1,1,0,0,0,0,6.1,6.01,6.09,6.0,5.91,5.82
-Centrocampista,Lovric,UDI,Udinese,Garda Che Squadra,Fracca,1,15,14,13,16,1,1,1,0,0,0,0,0,0,5.78,5.81,5.75,5.78,5.88,5.91
-Centrocampista,Lazovic,VER,Verona,Free Agent,Free Agent,0,14,14,0,14,0,0,0,1,0,0,0,0,0,6.18,5.96,6.04,5.82,6.07,5.86
-Centrocampista,El Shaarawy,ROM,Roma,Free Agent,Free Agent,0,16,14,0,13,1,0,1,2,0,0,0,0,0,6.5,6.0,6.43,5.96,6.23,5.81
-Centrocampista,Cristante,ROM,Roma,Nottingham Dese,Scap,3,10,14,11,18,4,0,2,2,0,0,0,0,0,6.46,6.13,6.39,6.06,6.33,6.06
-Centrocampista,Duncan,FIO,Fiorentina,Vecchie Rocce,Damian,1,6,14,13,14,2,0,3,1,0,0,0,0,0,6.86,6.5,6.89,6.54,6.64,6.36
-Centrocampista,Brescianini,FRO,Frosinone,Free Agent,Free Agent,0,6,14,0,16,1,0,1,2,0,0,0,0,0,6.5,6.09,6.47,6.03,6.53,6.1
-Centrocampista,Vlasic,TOR,Torino,AC Cipicchia,Nippon,4,17,14,10,16,1,0,2,1,0,0,0,0,0,6.08,5.8,6.22,5.94,5.97,5.69
-Centrocampista,Ndoye,BOL,Bologna,Free Agent,Free Agent,0,12,14,0,16,3,0,1,0,0,0,0,0,0,6.05,6.08,6.06,6.09,6.13,6.17
-Centrocampista,Guendouzi,LAZ,Lazio,AC Cipicchia,Nippon,2,13,14,12,15,0,0,0,1,0,0,0,0,0,6.2,6.0,6.33,6.13,6.27,6.07
-Centrocampista,Locatelli,JUV,Juventus,AC Ciughina,Carle,1,11,13,12,17,5,0,1,1,0,0,0,0,0,6.13,6.04,6.21,6.12,6.21,6.12
-Centrocampista,Walace,UDI,Udinese,Free Agent,Free Agent,0,6,13,0,18,1,0,0,1,0,0,0,0,0,6.0,5.86,5.94,5.81,5.92,5.78
-Centrocampista,Pasalic,ATA,Atalanta,Free Agent,Free Agent,0,13,13,0,15,0,0,1,2,0,0,0,0,0,6.42,5.95,6.5,6.03,6.54,6.11
-Centrocampista,Frendrup,GEN,Genoa,Free Agent,Free Agent,0,7,13,0,18,4,0,4,0,0,0,0,0,0,6.29,6.18,6.39,6.28,6.17,6.17
-Centrocampista,Mckennie,JUV,Juventus,AC Ciughina,Carle,1,8,13,12,17,4,0,2,0,0,0,0,0,0,6.22,6.22,6.12,6.12,6.28,6.28
-Centrocampista,Coulibaly L.,SAL,Salernitana,Free Agent,Free Agent,0,8,12,0,13,2,0,0,0,0,0,0,0,0,5.65,5.73,5.85,5.92,5.85,5.92
-Centrocampista,De Roon,ATA,Atalanta,Free Agent,Free Agent,0,11,12,0,17,7,0,4,0,0,0,0,0,0,6.12,6.09,6.09,6.06,6.24,6.21
-Centrocampista,De Ketelaere,ATA,Atalanta,Free Agent,Free Agent,0,9,12,0,15,0,0,4,2,0,0,0,0,0,6.68,6.15,6.67,6.13,6.71,6.14
-Centrocampista,Gagliardini,MON,Monza,Free Agent,Free Agent,0,7,11,0,18,3,0,1,1,0,0,0,0,0,6.08,5.94,6.31,6.17,6.28,6.19
-Centrocampista,Badelj,GEN,Genoa,Free Agent,Free Agent,0,5,11,0,14,4,0,1,0,0,0,0,0,0,5.77,5.84,6.0,6.07,5.86,5.93
-Centrocampista,Tameze,TOR,Torino,Free Agent,Free Agent,0,8,11,0,15,3,0,2,0,0,0,0,0,0,5.98,5.95,6.2,6.17,6.03,6.0
-Centrocampista,Fazzini,EMP,Empoli,Free Agent,Free Agent,0,5,11,0,14,4,0,1,1,0,0,0,0,0,6.16,6.02,6.11,5.96,6.1,5.97
-Centrocampista,Bove,ROM,Roma,Free Agent,Free Agent,0,6,11,0,15,2,0,2,0,0,0,0,0,0,6.05,5.98,5.93,5.87,6.13,6.13
-Centrocampista,Aebischer,BOL,Bologna,Free Agent,Free Agent,0,6,11,0,16,4,0,1,0,0,0,0,0,0,6.08,6.14,5.94,6.0,5.97,6.03
-Centrocampista,Thorstvedt,SAS,Sassuolo,Free Agent,Free Agent,0,6,11,0,15,3,0,0,3,0,0,0,0,0,6.63,6.13,6.57,6.04,6.53,6.03
-Centrocampista,Oristanio,CAG,Cagliari,Free Agent,Free Agent,0,5,11,0,16,1,0,1,1,0,0,0,0,0,6.34,6.13,6.47,6.25,6.06,5.84
-Centrocampista,Chukwueze,MIL,Milan,Free Agent,Free Agent,0,19,11,0,11,0,0,1,0,0,0,0,0,0,5.73,5.64,5.5,5.41,5.7,5.6
-Centrocampista,Ramadani,LEC,Lecce,Free Agent,Free Agent,0,7,11,0,17,8,0,0,1,0,0,0,0,0,5.87,5.93,5.85,5.91,5.97,6.03
-Centrocampista,Kamada,LAZ,Lazio,Free Agent,Free Agent,0,15,11,0,12,0,0,1,1,0,0,0,0,0,6.19,5.85,6.0,5.67,5.69,5.46
-Centrocampista,Oudin,LEC,Lecce,Free Agent,Free Agent,0,6,11,0,12,1,0,0,2,0,0,0,0,0,6.5,6.04,6.5,6.04,6.25,5.79
-Centrocampista,Freuler,BOL,Bologna,Free Agent,Free Agent,0,7,11,0,14,4,0,0,0,0,0,0,0,0,5.88,6.02,6.07,6.21,6.18,6.32
-Centrocampista,Payero,UDI,Udinese,Free Agent,Free Agent,0,5,11,0,14,1,1,1,1,0,0,0,0,0,6.04,5.86,6.14,5.96,6.08,5.96
-Centrocampista,Bajrami,SAS,Sassuolo,Free Agent,Free Agent,0,13,10,0,13,0,0,0,1,0,0,0,0,0,6.15,5.92,5.96,5.75,5.92,5.69
-Centrocampista,Mandragora,FIO,Fiorentina,Free Agent,Free Agent,0,10,10,0,13,1,0,1,1,0,0,0,0,0,6.15,5.88,6.19,5.92,6.19,5.92
-Centrocampista,Rovella,LAZ,Lazio,Free Agent,Free Agent,0,4,10,0,13,3,0,0,0,0,0,0,0,0,5.88,6.0,5.96,6.12,6.0,6.14
-Centrocampista,Gonzalez J.,LEC,Lecce,Free Agent,Free Agent,0,6,10,0,12,6,0,1,1,0,0,0,0,0,5.92,5.83,6.0,5.92,6.08,6.0
-Centrocampista,Boloca,SAS,Sassuolo,Free Agent,Free Agent,0,5,10,0,15,2,1,0,1,0,0,0,0,0,5.98,5.92,5.93,5.87,6.0,5.93
-Centrocampista,Folorunsho,VER,Verona,Free Agent,Free Agent,0,3,10,0,17,2,0,0,1,0,0,0,0,0,5.88,5.76,5.88,5.76,5.91,5.79
-Centrocampista,Paredes,ROM,Roma,Free Agent,Free Agent,0,7,10,0,17,9,0,3,0,0,0,0,0,0,5.71,5.79,5.62,5.71,5.47,5.68
-Centrocampista,Suslov,VER,Verona,Free Agent,Free Agent,0,3,10,0,12,3,0,2,0,0,0,0,0,0,5.92,5.88,5.92,5.88,5.79,5.75
-Centrocampista,Baldanzi,EMP,Empoli,Free Agent,Free Agent,0,14,9,0,11,1,0,0,1,0,0,0,0,0,6.18,5.95,6.14,5.91,6.27,6.05
-Centrocampista,Cataldi,LAZ,Lazio,Free Agent,Free Agent,0,8,9,0,11,3,0,0,0,0,0,0,0,0,5.73,5.86,5.5,5.62,5.69,5.81
-Centrocampista,Jankto,CAG,Cagliari,Free Agent,Free Agent,0,8,9,0,9,0,0,2,0,0,0,0,0,0,6.28,6.06,5.89,5.67,5.69,5.56
-Centrocampista,Weah,JUV,Juventus,Free Agent,Free Agent,0,10,9,0,10,1,0,1,0,0,0,0,0,0,6.1,6.05,5.8,5.75,5.85,5.8
-Centrocampista,Nandez,CAG,Cagliari,Free Agent,Free Agent,0,8,9,0,12,0,0,1,1,1,0,0,0,0,6.33,6.0,6.14,5.89,6.12,5.85
-Centrocampista,Strootman,GEN,Genoa,Free Agent,Free Agent,0,6,9,0,11,2,0,2,0,0,0,0,0,0,6.05,5.95,6.18,6.09,6.05,5.95
-Centrocampista,Miretti,JUV,Juventus,Free Agent,Free Agent,0,5,9,0,10,2,0,0,1,0,0,0,0,0,6.28,6.08,5.95,5.75,6.15,5.95
-Centrocampista,Duda,VER,Verona,Free Agent,Free Agent,0,8,9,0,15,5,1,1,1,0,0,0,0,0,6.12,6.08,5.9,5.87,6.04,6.04
-Centrocampista,Saelemaekers,BOL,Bologna,Free Agent,Free Agent,0,4,9,0,13,4,1,0,0,0,0,0,0,0,5.65,5.88,5.54,5.77,5.65,5.88
-Centrocampista,Grassi,EMP,Empoli,Free Agent,Free Agent,0,5,9,0,15,4,0,1,0,0,0,0,0,0,5.67,5.87,5.77,5.97,5.75,5.94
-Centrocampista,Kovalenko,EMP,Empoli,Free Agent,Free Agent,0,4,9,0,8,0,0,1,1,0,0,0,0,0,6.81,6.31,6.79,6.21,6.81,6.31
-Centrocampista,Viola,CAG,Cagliari,Free Agent,Free Agent,0,1,9,0,11,2,0,1,2,0,1,0,0,0,6.52,6.25,6.41,6.14,6.5,6.23
-Centrocampista,Pessina,MON,Monza,AC Cipicchia,Nippon,8,13,8,0,18,2,0,1,1,1,1,0,0,0,5.81,5.81,5.89,5.89,5.86,5.92
+Difensore,Bonfanti,ATA,Atalanta,Free Agent,Free Agent,0,1,1,0,1,0,0,0,0,0,0,0,0,0,6.0,6.0,6.0,6.0,6.0,6.0
+Centrocampista,Calhanoglu,INT,Inter,Free Agent,Free Agent,0,17,38,0,21,5,0,3,9,7,0,0,0,0,7.76,6.45,7.69,6.38,7.62,6.4
+Centrocampista,Pulisic,MIL,Milan,Vecchie Rocce,Damian,37,20,35,-2,20,1,0,5,6,0,0,0,0,0,7.6,6.48,7.45,6.33,7.45,6.38
+Centrocampista,Koopmeiners,ATA,Atalanta,Vecchie Rocce,Damian,21,24,32,11,20,2,0,3,5,1,0,0,0,0,7.18,6.33,7.1,6.25,7.25,6.45
+Centrocampista,Luis Alberto,LAZ,Lazio,Atletico Una Volta,Marce,25,22,29,4,18,5,0,2,3,0,0,0,0,0,6.76,6.29,6.56,6.08,6.72,6.25
+Centrocampista,Candreva,SAL,Salernitana,Nottingham Dese,Scap,11,17,29,18,20,2,0,4,5,0,0,0,0,0,7.23,6.33,7.0,6.1,7.03,6.13
+Centrocampista,Rabiot,JUV,Juventus,AC Cipicchia,Nippon,31,22,28,-3,18,6,0,3,3,0,0,0,0,0,6.68,6.18,6.56,6.06,6.81,6.36
+Centrocampista,Zaccagni,LAZ,Lazio,Atletico Una Volta,Marce,31,26,27,-4,19,5,0,0,3,0,0,0,0,0,6.42,6.08,6.55,6.21,6.53,6.18
+Centrocampista,Barella,INT,Inter,Nottingham Dese,Scap,31,20,26,-5,21,4,0,3,2,0,0,0,0,0,6.57,6.24,6.71,6.38,6.71,6.38
+Centrocampista,Felipe Anderson,LAZ,Lazio,AC Cipicchia,Nippon,23,22,26,3,21,1,0,6,2,0,0,0,0,0,6.62,6.07,6.4,5.86,6.31,5.76
+Centrocampista,Mkhitaryan,INT,Inter,AC Ciughina,Carle,1,13,24,23,21,2,0,6,2,0,0,0,0,0,6.89,6.37,7.0,6.48,6.95,6.52
+Centrocampista,Politano,NAP,Napoli,Nottingham Dese,Scap,13,15,24,11,20,2,1,3,6,2,0,0,0,0,7.29,6.34,7.13,6.18,7.13,6.18
+Centrocampista,Samardzic,UDI,Udinese,AC Ciughina,Carle,15,17,23,8,19,1,0,2,3,0,0,0,0,0,6.72,6.17,6.5,5.98,6.53,6.03
+Centrocampista,Bonaventura,FIO,Fiorentina,Garda Che Squadra,Fracca,3,15,22,19,19,4,0,2,6,0,1,0,0,0,7.03,6.24,6.92,6.13,7.13,6.34
+Centrocampista,Ferguson,BOL,Bologna,Garda Che Squadra,Fracca,21,18,21,0,21,6,0,2,4,0,0,0,0,0,6.67,6.14,6.81,6.29,7.0,6.48
+Centrocampista,Colpani,MON,Monza,Atletico Una Volta,Marce,11,12,20,9,21,1,0,1,6,0,0,0,0,0,7.12,6.24,7.0,6.12,7.17,6.29
+Centrocampista,Kostic,JUV,Juventus,Garda Che Squadra,Fracca,3,14,19,16,20,2,0,4,0,0,0,0,0,0,6.19,6.04,5.8,5.65,5.9,5.9
+Centrocampista,Frattesi,INT,Inter,Garda Che Squadra,Fracca,20,17,19,-1,15,1,0,0,2,0,0,0,0,0,6.57,6.2,6.5,6.16,6.53,6.17
+Centrocampista,Pellegrini Lo.,ROM,Roma,Free Agent,Free Agent,0,15,18,0,13,3,0,0,3,0,0,0,0,0,6.63,6.06,6.62,6.04,6.46,5.88
+Centrocampista,Lovric,UDI,Udinese,Garda Che Squadra,Fracca,1,15,18,17,20,1,1,3,1,0,0,0,0,0,6.15,5.93,6.08,5.85,6.15,5.98
+Centrocampista,Ilic,TOR,Torino,Free Agent,Free Agent,0,12,18,0,19,2,0,2,2,0,0,0,0,0,6.53,6.16,6.45,6.08,6.34,6.08
+Centrocampista,Orsolini,BOL,Bologna,Atletico Una Volta,Marce,10,19,17,7,17,1,0,1,6,2,1,0,0,0,7.19,6.28,7.03,6.12,7.06,6.21
+Centrocampista,El Shaarawy,ROM,Roma,Free Agent,Free Agent,0,16,16,0,15,1,0,3,2,0,0,0,0,0,6.63,6.07,6.47,5.94,6.33,5.83
+Centrocampista,Vlasic,TOR,Torino,AC Cipicchia,Nippon,4,17,16,12,20,2,0,2,2,0,0,0,0,0,6.23,5.88,6.4,6.05,6.15,5.8
+Centrocampista,Lobotka,NAP,Napoli,Garda Che Squadra,Fracca,1,13,15,14,21,2,0,1,0,0,0,0,0,0,6.0,6.0,5.95,5.95,6.14,6.14
+Centrocampista,Zielinski,NAP,Napoli,Free Agent,Free Agent,0,21,15,0,19,1,0,2,2,1,0,0,0,0,6.37,5.97,5.95,5.55,6.29,5.89
+Centrocampista,Reijnders,MIL,Milan,Free Agent,Free Agent,0,13,15,0,22,4,0,2,2,0,0,0,0,0,6.35,6.08,6.3,6.02,6.48,6.2
+Centrocampista,Walace,UDI,Udinese,Free Agent,Free Agent,0,6,15,0,22,2,0,0,2,0,0,0,0,0,6.16,5.93,6.09,5.86,6.02,5.8
+Centrocampista,Duncan,FIO,Fiorentina,Vecchie Rocce,Damian,1,6,15,14,17,2,0,3,1,0,0,0,0,0,6.75,6.46,6.76,6.47,6.53,6.29
+Centrocampista,Malinovskyi,GEN,Genoa,Free Agent,Free Agent,0,15,15,0,16,7,0,1,2,0,0,0,0,0,6.17,5.95,6.19,5.97,6.27,6.03
+Centrocampista,Strefezza,LEC,Lecce,Atletico Una Volta,Marce,5,18,14,9,19,4,0,0,1,1,0,0,0,0,6.08,6.03,6.03,5.97,5.84,5.79
+Centrocampista,Locatelli,JUV,Juventus,AC Ciughina,Carle,1,11,14,13,20,5,0,2,1,0,0,0,0,0,6.16,6.04,6.25,6.13,6.23,6.1
+Centrocampista,Mckennie,JUV,Juventus,AC Ciughina,Carle,1,8,14,13,20,6,0,3,0,0,0,0,0,0,6.23,6.23,6.1,6.1,6.29,6.29
+Centrocampista,Brescianini,FRO,Frosinone,Free Agent,Free Agent,0,6,14,0,18,1,0,1,2,0,0,0,0,0,6.44,6.08,6.41,6.03,6.5,6.12
+Centrocampista,De Ketelaere,ATA,Atalanta,Free Agent,Free Agent,0,9,14,0,19,0,0,6,3,0,0,0,0,0,6.91,6.22,6.95,6.26,6.92,6.19
+Centrocampista,Ciurria,MON,Monza,Atletico Una Volta,Marce,7,14,13,6,19,2,0,1,0,0,0,0,0,0,5.79,5.79,5.84,5.84,6.13,6.08
+Centrocampista,De Roon,ATA,Atalanta,Free Agent,Free Agent,0,11,13,0,21,7,0,5,0,0,0,0,0,0,6.19,6.12,6.21,6.14,6.33,6.26
+Centrocampista,Kastanos,SAL,Salernitana,Free Agent,Free Agent,0,7,13,0,15,3,0,3,1,0,0,0,0,0,6.25,5.95,6.03,5.78,6.19,6.0
+Centrocampista,Pasalic,ATA,Atalanta,Free Agent,Free Agent,0,13,13,0,19,1,0,2,2,0,0,0,0,0,6.36,5.96,6.45,6.05,6.44,6.08
+Centrocampista,Folorunsho,VER,Verona,Free Agent,Free Agent,0,3,13,0,20,3,0,0,2,0,0,0,0,0,6.05,5.83,6.03,5.8,6.08,5.85
+Centrocampista,Oudin,LEC,Lecce,Free Agent,Free Agent,0,6,13,0,15,1,0,1,2,0,0,0,0,0,6.5,6.07,6.4,5.97,6.27,5.9
+Centrocampista,Cristante,ROM,Roma,Nottingham Dese,Scap,3,10,12,9,20,5,0,2,2,0,0,0,0,0,6.35,6.08,6.3,6.03,6.25,6.03
+Centrocampista,Badelj,GEN,Genoa,Free Agent,Free Agent,0,5,12,0,17,5,0,2,0,0,0,0,0,0,5.84,5.87,6.09,6.12,6.0,6.03
+Centrocampista,Rovella,LAZ,Lazio,Free Agent,Free Agent,0,4,12,0,16,3,0,0,0,0,0,0,0,0,5.97,6.06,6.09,6.22,6.15,6.26
+Centrocampista,Frendrup,GEN,Genoa,Free Agent,Free Agent,0,7,12,0,21,5,0,4,0,0,0,0,0,0,6.21,6.14,6.33,6.26,6.1,6.12
+Centrocampista,Bove,ROM,Roma,Free Agent,Free Agent,0,6,12,0,18,2,0,2,0,0,0,0,0,0,6.06,6.0,5.97,5.92,6.17,6.17
+Centrocampista,Oristanio,CAG,Cagliari,Free Agent,Free Agent,0,5,12,0,17,1,0,1,2,0,0,0,0,0,6.56,6.18,6.68,6.29,6.29,5.91
+Centrocampista,Paredes,ROM,Roma,Free Agent,Free Agent,0,7,12,0,20,10,0,3,1,1,0,0,0,0,5.89,5.84,5.8,5.75,5.65,5.7
+Centrocampista,Guendouzi,LAZ,Lazio,AC Cipicchia,Nippon,2,13,12,10,18,1,0,0,1,0,0,0,0,0,6.11,5.97,6.25,6.11,6.22,6.08
+Centrocampista,Pessina,MON,Monza,AC Cipicchia,Nippon,8,13,11,3,21,2,0,1,2,2,1,0,0,0,5.9,5.76,6.07,5.93,5.95,5.86
+Centrocampista,Miretti,JUV,Juventus,Free Agent,Free Agent,0,5,11,0,14,2,0,1,1,0,0,0,0,0,6.16,5.95,5.96,5.75,6.21,6.0
+Centrocampista,Duda,VER,Verona,Free Agent,Free Agent,0,8,11,0,17,5,2,3,1,0,0,0,0,0,6.18,6.09,6.03,5.94,6.09,6.03
+Centrocampista,Tameze,TOR,Torino,Free Agent,Free Agent,0,8,11,0,18,3,0,2,0,0,0,0,0,0,5.96,5.93,6.17,6.14,6.06,6.03
+Centrocampista,Aebischer,BOL,Bologna,Free Agent,Free Agent,0,6,11,0,20,4,0,1,0,0,0,0,0,0,6.05,6.1,5.98,6.02,5.9,5.95
+Centrocampista,Thorstvedt,SAS,Sassuolo,Free Agent,Free Agent,0,6,11,0,18,3,0,0,3,0,0,0,0,0,6.53,6.11,6.44,6.0,6.39,5.97
+Centrocampista,Ramadani,LEC,Lecce,Free Agent,Free Agent,0,7,11,0,20,9,0,0,1,0,0,0,0,0,5.85,5.93,5.85,5.93,5.93,6.0
+Centrocampista,Freuler,BOL,Bologna,Free Agent,Free Agent,0,7,11,0,18,4,0,0,0,0,0,0,0,0,5.92,6.03,6.11,6.22,6.14,6.25
+Centrocampista,Payero,UDI,Udinese,Free Agent,Free Agent,0,5,11,0,17,2,1,1,1,0,0,0,0,0,5.97,5.85,6.09,5.97,6.06,6.0
+Centrocampista,Suslov,VER,Verona,Free Agent,Free Agent,0,3,11,0,15,4,0,2,0,0,0,0,0,0,5.92,5.92,6.0,6.0,5.87,5.87
+Centrocampista,Lazovic,VER,Verona,Free Agent,Free Agent,0,14,10,0,15,0,1,0,1,0,0,0,0,0,6.02,5.88,5.93,5.8,5.93,5.8
+Centrocampista,Gagliardini,MON,Monza,Free Agent,Free Agent,0,7,10,0,21,4,0,1,1,0,0,0,0,0,5.99,5.89,6.14,6.05,6.14,6.1
+Centrocampista,Weah,JUV,Juventus,Free Agent,Free Agent,0,10,10,0,14,2,0,1,0,0,0,0,0,0,6.07,6.07,5.68,5.68,5.86,5.86
+Centrocampista,Nandez,CAG,Cagliari,Free Agent,Free Agent,0,8,10,0,16,1,0,1,1,1,0,0,0,0,6.28,6.06,6.14,5.97,6.12,5.94
+Centrocampista,Mandragora,FIO,Fiorentina,Free Agent,Free Agent,0,10,10,0,16,1,0,1,1,0,0,0,0,0,6.05,5.83,6.13,5.91,6.06,5.84
+Centrocampista,Gonzalez J.,LEC,Lecce,Free Agent,Free Agent,0,6,10,0,15,6,0,1,1,0,0,0,0,0,5.9,5.83,6.0,5.93,6.07,6.0
+Centrocampista,Saelemaekers,BOL,Bologna,Free Agent,Free Agent,0,4,10,0,16,4,1,1,0,0,0,0,0,0,5.77,5.89,5.63,5.75,5.66,5.84
+Centrocampista,Maggiore,SAL,Salernitana,Free Agent,Free Agent,0,3,10,0,14,5,1,0,1,0,0,0,0,0,5.77,5.8,5.64,5.68,5.36,5.39
+Centrocampista,Fazzini,EMP,Empoli,Free Agent,Free Agent,0,5,10,0,15,4,0,1,1,0,0,0,0,0,6.12,5.98,6.13,6.0,6.09,5.97
+Centrocampista,Boloca,SAS,Sassuolo,Free Agent,Free Agent,0,5,10,0,18,2,1,0,1,0,0,0,0,0,5.93,5.88,5.89,5.83,6.0,5.94
+Centrocampista,Grassi,EMP,Empoli,Free Agent,Free Agent,0,5,10,0,19,4,0,1,0,0,0,0,0,0,5.74,5.89,5.76,5.92,5.75,5.9
+Centrocampista,Viola,CAG,Cagliari,Free Agent,Free Agent,0,1,10,0,15,3,0,2,3,0,1,0,0,0,6.68,6.25,6.57,6.13,6.53,6.17
+Centrocampista,Kamada,LAZ,Lazio,Free Agent,Free Agent,0,15,10,0,14,1,0,1,1,0,0,0,0,0,6.09,5.84,5.89,5.64,5.6,5.43
+Centrocampista,Coulibaly L.,SAL,Salernitana,Free Agent,Free Agent,0,8,9,0,13,2,0,0,0,0,0,0,0,0,5.65,5.73,5.85,5.92,5.85,5.92
+Centrocampista,Strootman,GEN,Genoa,Free Agent,Free Agent,0,6,9,0,12,2,0,2,0,0,0,0,0,0,6.08,6.0,6.25,6.17,6.08,6.0
+Centrocampista,Vecino,LAZ,Lazio,Free Agent,Free Agent,0,6,9,0,12,2,0,0,3,0,0,0,0,0,6.75,6.08,6.77,6.15,6.88,6.21
+Centrocampista,Harroui,FRO,Frosinone,Vecchie Rocce,Damian,1,8,9,8,8,0,0,1,3,1,0,0,0,0,7.69,6.44,7.11,6.0,7.22,6.11
+Centrocampista,Carboni V.,MON,Monza,Free Agent,Free Agent,0,1,9,0,10,0,0,2,2,0,0,0,0,0,6.75,5.95,6.8,6.0,6.85,6.05
+Centrocampista,Mazzitelli,FRO,Frosinone,Free Agent,Free Agent,0,5,9,0,14,2,1,0,3,0,0,0,0,0,6.71,6.21,6.64,6.14,6.82,6.32
+Centrocampista,Ndoye,BOL,Bologna,Free Agent,Free Agent,0,12,9,0,17,3,0,1,0,0,0,0,0,0,6.04,6.07,6.06,6.08,6.13,6.16
 Centrocampista,Aouar,ROM,Roma,Free Agent,Free Agent,0,16,8,0,6,2,0,0,2,0,0,0,0,0,7.13,6.29,6.5,5.86,6.83,6.0
-Centrocampista,Marin,EMP,Empoli,Free Agent,Free Agent,0,8,8,0,13,0,0,0,0,0,0,0,0,0,5.75,5.75,5.89,5.89,5.85,5.85
-Centrocampista,Maggiore,SAL,Salernitana,Free Agent,Free Agent,0,3,8,0,12,5,0,0,0,0,0,0,0,0,5.63,5.83,5.46,5.67,5.17,5.38
-Centrocampista,Makoumbou,CAG,Cagliari,Free Agent,Free Agent,0,5,8,0,16,1,2,0,1,0,0,0,0,0,5.73,5.7,5.81,5.78,5.75,5.72
-Centrocampista,Blin,LEC,Lecce,Free Agent,Free Agent,0,6,8,0,10,1,0,2,0,0,0,0,0,0,6.05,5.9,5.95,5.8,5.8,5.75
-Centrocampista,Maleh,EMP,Empoli,Free Agent,Free Agent,0,4,8,0,15,8,0,0,0,0,0,0,0,0,5.47,5.73,5.47,5.73,5.47,5.73
-Centrocampista,Thorsby,GEN,Genoa,Free Agent,Free Agent,0,8,8,0,10,1,0,1,1,0,0,0,0,0,6.28,5.93,6.36,6.05,6.35,5.9
-Centrocampista,Kaba,LEC,Lecce,Free Agent,Free Agent,0,6,8,0,13,1,1,0,0,0,0,0,0,0,5.83,5.94,5.73,5.85,5.88,6.0
-Centrocampista,Legowski,SAL,Salernitana,Free Agent,Free Agent,0,1,8,0,14,2,0,0,0,0,0,0,0,0,5.7,5.77,5.57,5.63,5.57,5.64
-Centrocampista,Radonjic,TOR,Torino,Nottingham Dese,Scap,3,12,7,4,8,0,0,0,3,0,0,0,0,0,7.09,5.97,7.0,5.88,6.88,5.75
-Centrocampista,Bohinen,SAL,Salernitana,Free Agent,Free Agent,0,4,7,0,11,1,0,0,0,0,0,0,0,0,5.73,5.77,5.36,5.41,5.55,5.59
-Centrocampista,Garritano,FRO,Frosinone,Free Agent,Free Agent,0,3,7,0,10,1,0,0,0,0,0,0,0,0,5.8,5.85,5.7,5.75,6.0,5.95
-Centrocampista,Carboni V.,MON,Monza,Free Agent,Free Agent,0,1,7,0,7,0,0,1,1,0,0,0,0,0,6.68,6.11,6.43,5.86,6.57,6.0
-Centrocampista,Hongla,VER,Verona,Free Agent,Free Agent,0,5,7,0,14,0,0,0,0,0,0,0,0,0,5.96,5.96,5.89,5.89,5.89,5.89
-Centrocampista,Prati,CAG,Cagliari,Free Agent,Free Agent,0,1,7,0,13,3,0,0,0,0,0,0,0,0,5.9,6.02,5.96,6.08,5.88,6.0
-Centrocampista,Lindstrom,NAP,Napoli,Free Agent,Free Agent,0,15,7,0,7,0,0,0,0,0,0,0,0,0,5.79,5.79,5.64,5.64,5.64,5.64
-Centrocampista,Tchatchoua,VER,Verona,Free Agent,Free Agent,0,4,7,0,10,0,0,2,0,0,0,0,0,0,6.13,5.93,6.05,5.85,6.0,5.78
-Centrocampista,Reinier,FRO,Frosinone,Free Agent,Free Agent,0,8,7,0,7,2,0,2,1,0,0,0,0,0,6.61,6.04,6.64,6.07,6.57,6.14
-Centrocampista,Saponara,VER,Verona,Free Agent,Free Agent,0,10,6,0,7,0,0,0,0,0,0,0,0,0,5.96,5.96,5.79,5.79,5.8,5.8
-Centrocampista,Vecino,LAZ,Lazio,Free Agent,Free Agent,0,6,6,0,9,1,0,0,2,0,0,0,0,0,6.61,6.0,6.65,6.1,6.67,6.06
-Centrocampista,Mboula,VER,Verona,Free Agent,Free Agent,0,9,6,0,4,0,0,1,0,0,0,0,0,0,5.94,5.69,5.9,5.7,5.38,5.38
-Centrocampista,Volpato,SAS,Sassuolo,Free Agent,Free Agent,0,2,6,0,6,0,0,0,0,0,0,0,0,0,6.25,6.25,6.0,6.0,6.0,6.0
-Centrocampista,Sottil,FIO,Fiorentina,Free Agent,Free Agent,0,8,6,0,8,0,0,1,1,0,0,0,0,0,6.34,5.84,6.15,5.75,5.94,5.44
-Centrocampista,Miranchuk,ATA,Atalanta,Free Agent,Free Agent,0,9,6,0,6,0,0,1,1,0,0,0,0,0,6.67,6.0,6.67,6.0,6.58,5.92
-Centrocampista,Linetty,TOR,Torino,Free Agent,Free Agent,0,6,6,0,12,6,0,0,0,0,0,0,0,0,5.81,6.06,5.92,6.17,5.62,5.85
-Centrocampista,Mazzitelli,FRO,Frosinone,Free Agent,Free Agent,0,5,6,0,11,2,1,0,2,0,0,0,0,0,6.55,6.18,6.45,6.09,6.68,6.32
-Centrocampista,Bennacer,MIL,Milan,Free Agent,Free Agent,0,9,6,0,4,1,0,1,0,0,0,0,0,0,5.81,5.69,6.38,6.25,5.88,6.0
-Centrocampista,Gelli,FRO,Frosinone,Free Agent,Free Agent,0,3,6,0,9,2,0,0,0,0,0,0,0,0,5.92,6.03,5.89,6.0,6.05,6.15
-Centrocampista,Barrenechea,FRO,Frosinone,Free Agent,Free Agent,0,3,6,0,16,7,0,0,0,0,0,0,0,0,5.61,5.83,5.81,6.03,5.97,6.19
-Centrocampista,Musah,MIL,Milan,Free Agent,Free Agent,0,9,6,0,12,4,0,1,0,0,0,0,0,0,5.81,5.9,5.92,6.0,5.92,6.0
-Centrocampista,Castillejo,SAS,Sassuolo,Free Agent,Free Agent,0,5,6,0,8,1,0,0,0,0,0,0,0,0,6.03,6.09,5.63,5.69,5.44,5.5
-Centrocampista,Krunic,MIL,Milan,Free Agent,Free Agent,0,7,5,0,9,3,0,0,0,0,0,0,0,0,5.67,5.83,5.61,5.78,5.44,5.61
-Centrocampista,Barak,FIO,Fiorentina,Free Agent,Free Agent,0,11,5,0,5,1,0,0,0,0,0,0,0,0,5.75,5.85,5.6,5.7,5.4,5.5
-Centrocampista,Messias,GEN,Genoa,Free Agent,Free Agent,0,8,5,0,5,0,0,0,1,0,0,0,0,0,6.9,6.3,7.0,6.5,6.9,6.3
-Centrocampista,Zarraga,UDI,Udinese,Free Agent,Free Agent,0,2,5,0,3,0,0,0,1,0,0,0,0,0,7.0,6.0,6.67,5.67,7.0,6.0
-Centrocampista,Akpa Akpro,MON,Monza,Free Agent,Free Agent,0,2,5,0,4,1,0,0,0,0,0,0,0,0,6.19,6.31,5.88,6.0,6.0,6.13
-Centrocampista,Rafia,LEC,Lecce,Free Agent,Free Agent,0,6,5,0,15,4,0,0,1,0,0,0,0,0,5.73,5.8,5.67,5.73,5.82,5.89
-Centrocampista,Klaassen,INT,Inter,Free Agent,Free Agent,0,9,5,0,1,0,0,0,0,0,0,0,0,0,5.5,5.5,6.0,6.0,6.0,6.0
-Centrocampista,Castrovilli,FIO,Fiorentina,Free Agent,Free Agent,0,9,4,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
-Centrocampista,Harroui,FRO,Frosinone,Vecchie Rocce,Damian,1,8,4,3,5,0,0,0,2,1,0,0,0,0,7.6,6.4,7.08,6.08,7.25,6.25
-Centrocampista,Baez,FRO,Frosinone,Free Agent,Free Agent,0,4,4,0,10,1,0,0,1,0,0,0,0,0,6.35,6.1,6.1,5.85,6.2,5.95
-Centrocampista,Fabbian,BOL,Bologna,Free Agent,Free Agent,0,6,4,0,5,2,0,0,2,0,0,0,0,0,7.3,6.3,7.08,6.25,7.0,6.17
-Centrocampista,Maldini,EMP,Empoli,Free Agent,Free Agent,0,4,3,0,5,1,0,0,0,0,0,0,0,0,5.6,5.7,5.8,5.9,6.08,6.17
-Centrocampista,Machin,MON,Monza,Free Agent,Free Agent,0,6,3,0,8,2,0,0,0,0,0,0,0,0,5.66,5.78,5.38,5.5,5.71,5.79
-Centrocampista,Adli,MIL,Milan,Free Agent,Free Agent,0,1,3,0,7,1,0,0,0,0,0,0,0,0,5.96,6.04,5.69,5.75,5.71,5.79
-Centrocampista,Fagioli,JUV,Juventus,Free Agent,Free Agent,0,12,2,0,6,0,0,1,0,0,0,0,0,0,6.08,5.92,6.17,6.0,6.08,5.92
+Centrocampista,Baldanzi,EMP,Empoli,Free Agent,Free Agent,0,14,8,0,13,1,0,0,2,0,0,0,0,0,6.4,5.98,6.35,5.92,6.54,6.12
+Centrocampista,Bajrami,SAS,Sassuolo,Free Agent,Free Agent,0,13,8,0,14,0,0,0,1,0,0,0,0,0,6.14,5.93,5.94,5.75,5.93,5.71
+Centrocampista,Marin,EMP,Empoli,Free Agent,Free Agent,0,8,8,0,15,1,0,0,0,0,0,0,0,0,5.75,5.78,5.91,5.94,5.89,5.89
+Centrocampista,Makoumbou,CAG,Cagliari,Free Agent,Free Agent,0,5,8,0,20,1,2,0,1,0,0,0,0,0,5.78,5.75,5.93,5.9,5.83,5.8
+Centrocampista,Maleh,EMP,Empoli,Free Agent,Free Agent,0,4,8,0,19,8,0,0,0,0,0,0,0,0,5.47,5.68,5.55,5.76,5.61,5.82
+Centrocampista,Miranchuk,ATA,Atalanta,Free Agent,Free Agent,0,9,8,0,10,0,0,2,2,0,0,0,0,0,6.98,6.18,6.95,6.15,6.95,6.15
+Centrocampista,Chukwueze,MIL,Milan,Free Agent,Free Agent,0,19,8,0,11,0,0,1,0,0,0,0,0,0,5.73,5.64,5.5,5.41,5.7,5.6
+Centrocampista,Legowski,SAL,Salernitana,Free Agent,Free Agent,0,1,8,0,16,3,0,0,0,0,0,0,0,0,5.7,5.8,5.62,5.71,5.59,5.69
+Centrocampista,Radonjic,TOR,Torino,Nottingham Dese,Scap,3,12,7,4,9,0,0,0,3,0,0,0,0,0,6.97,5.97,6.89,5.89,6.78,5.78
+Centrocampista,Saponara,VER,Verona,Free Agent,Free Agent,0,10,7,0,9,0,0,0,0,0,0,0,0,0,5.92,5.92,5.72,5.72,5.71,5.71
+Centrocampista,Blin,LEC,Lecce,Free Agent,Free Agent,0,6,7,0,12,1,0,2,0,0,0,0,0,0,5.98,5.85,5.83,5.71,5.79,5.75
+Centrocampista,Messias,GEN,Genoa,Free Agent,Free Agent,0,8,7,0,7,0,0,0,1,0,0,0,0,0,6.68,6.25,6.88,6.5,6.64,6.21
+Centrocampista,Gelli,FRO,Frosinone,Free Agent,Free Agent,0,3,7,0,12,2,0,0,0,0,0,0,0,0,5.96,6.04,5.88,5.96,6.15,6.23
+Centrocampista,Kovalenko,EMP,Empoli,Free Agent,Free Agent,0,4,7,0,8,0,0,1,1,0,0,0,0,0,6.81,6.31,6.79,6.21,6.81,6.31
+Centrocampista,Adli,MIL,Milan,Free Agent,Free Agent,0,1,7,0,11,2,0,0,1,0,0,0,0,0,6.3,6.11,6.0,5.83,6.0,5.82
+Centrocampista,Thorsby,GEN,Genoa,Free Agent,Free Agent,0,8,7,0,11,1,0,1,1,0,0,0,0,0,6.3,5.98,6.38,6.08,6.32,5.91
+Centrocampista,Musah,MIL,Milan,Free Agent,Free Agent,0,9,7,0,15,4,0,1,0,0,0,0,0,0,5.88,5.95,5.93,6.0,5.97,6.03
+Centrocampista,Kaba,LEC,Lecce,Free Agent,Free Agent,0,6,7,0,16,2,1,0,0,0,0,0,0,0,5.75,5.88,5.84,5.97,5.91,6.03
+Centrocampista,Prati,CAG,Cagliari,Free Agent,Free Agent,0,1,7,0,17,3,0,0,0,0,0,0,0,0,5.91,6.0,5.91,6.0,5.88,5.97
+Centrocampista,Lindstrom,NAP,Napoli,Free Agent,Free Agent,0,15,7,0,9,0,0,0,0,0,0,0,0,0,5.72,5.72,5.72,5.72,5.61,5.61
+Centrocampista,Reinier,FRO,Frosinone,Free Agent,Free Agent,0,8,7,0,9,2,0,2,1,0,0,0,0,0,6.39,5.94,6.28,5.83,6.33,6.0
+Centrocampista,Cataldi,LAZ,Lazio,Free Agent,Free Agent,0,8,6,0,12,3,0,0,0,0,0,0,0,0,5.75,5.88,5.54,5.64,5.71,5.82
+Centrocampista,Jankto,CAG,Cagliari,Free Agent,Free Agent,0,8,6,0,10,0,0,2,0,0,0,0,0,0,6.23,6.03,5.8,5.6,5.61,5.5
+Centrocampista,Mboula,VER,Verona,Free Agent,Free Agent,0,9,6,0,6,0,0,1,0,0,0,0,0,0,5.79,5.63,5.57,5.43,5.33,5.33
+Centrocampista,Volpato,SAS,Sassuolo,Free Agent,Free Agent,0,2,6,0,8,0,0,0,0,0,0,0,0,0,6.13,6.13,5.93,5.93,5.94,5.94
+Centrocampista,Barrenechea,FRO,Frosinone,Free Agent,Free Agent,0,3,6,0,19,8,0,0,0,0,0,0,0,0,5.55,5.76,5.71,5.92,5.92,6.13
+Centrocampista,Tchatchoua,VER,Verona,Free Agent,Free Agent,0,4,6,0,13,1,0,2,0,0,0,0,0,0,5.94,5.83,6.0,5.88,5.83,5.71
+Centrocampista,Castillejo,SAS,Sassuolo,Free Agent,Free Agent,0,5,6,0,10,1,0,0,0,0,0,0,0,0,5.98,6.03,5.6,5.65,5.5,5.55
+Centrocampista,Garritano,FRO,Frosinone,Free Agent,Free Agent,0,3,5,0,10,1,0,0,0,0,0,0,0,0,5.8,5.85,5.7,5.75,6.0,5.95
+Centrocampista,Akpa Akpro,MON,Monza,Free Agent,Free Agent,0,2,5,0,6,2,0,0,0,0,0,0,0,0,5.88,6.04,5.67,5.83,5.75,5.92
+Centrocampista,Serdar,VER,Verona,Free Agent,Free Agent,0,5,5,0,8,1,0,1,0,0,0,0,0,0,6.0,5.94,5.81,5.75,5.75,5.69
+Centrocampista,Klaassen,INT,Inter,Free Agent,Free Agent,0,9,5,0,2,0,0,0,0,0,0,0,0,0,5.75,5.75,6.0,6.0,6.0,6.0
+Centrocampista,Castrovilli,FIO,Fiorentina,Free Agent,Free Agent,0,9,4,0,1,0,0,0,0,0,0,0,0,0,6.0,6.0,6.0,6.0,6.0,6.0
+Centrocampista,Barak,FIO,Fiorentina,Free Agent,Free Agent,0,11,4,0,6,1,0,0,0,0,0,0,0,0,5.79,5.88,5.64,5.71,5.5,5.58
+Centrocampista,Linetty,TOR,Torino,Free Agent,Free Agent,0,6,4,0,14,6,0,0,0,0,0,0,0,0,5.82,6.04,6.0,6.21,5.7,5.9
+Centrocampista,Bennacer,MIL,Milan,Free Agent,Free Agent,0,9,4,0,4,1,0,1,0,0,0,0,0,0,5.81,5.69,6.38,6.25,5.88,6.0
+Centrocampista,Fabbian,BOL,Bologna,Free Agent,Free Agent,0,6,4,0,9,2,0,0,2,0,0,0,0,0,6.67,6.11,6.7,6.2,6.6,6.1
+Centrocampista,Bondo,MON,Monza,Free Agent,Free Agent,0,1,4,0,9,1,0,0,0,0,0,0,0,0,5.81,5.86,5.83,5.89,5.78,5.83
+Centrocampista,Martegani,SAL,Salernitana,Free Agent,Free Agent,0,5,4,0,11,1,0,0,1,0,0,0,0,0,6.18,5.95,6.04,5.83,5.96,5.75
+Centrocampista,Sottil,FIO,Fiorentina,Free Agent,Free Agent,0,8,3,0,9,0,0,1,1,0,0,0,0,0,6.31,5.86,6.14,5.77,5.94,5.5
+Centrocampista,Zarraga,UDI,Udinese,Free Agent,Free Agent,0,2,3,0,3,0,0,0,1,0,0,0,0,0,7.0,6.0,6.67,5.67,7.0,6.0
+Centrocampista,Rafia,LEC,Lecce,Free Agent,Free Agent,0,6,3,0,15,4,0,0,1,0,0,0,0,0,5.73,5.8,5.67,5.73,5.82,5.89
+Centrocampista,Urbanski,BOL,Bologna,Free Agent,Free Agent,0,2,3,0,9,3,0,0,0,0,0,0,0,0,5.47,5.64,5.67,5.83,5.5,5.67
 Centrocampista,Deiola,CAG,Cagliari,Free Agent,Free Agent,0,4,2,0,8,2,0,0,0,0,0,0,0,0,5.47,5.59,5.56,5.67,5.38,5.5
 Centrocampista,Mancosu,CAG,Cagliari,Free Agent,Free Agent,0,6,2,0,3,0,0,0,0,0,1,0,0,0,4.33,5.33,5.0,6.0,4.5,5.5
-Centrocampista,Obiang,SAS,Sassuolo,Free Agent,Free Agent,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
-Centrocampista,Pobega,MIL,Milan,Free Agent,Free Agent,0,6,2,0,7,0,0,0,0,0,0,0,0,0,6.07,6.07,5.93,5.93,5.86,5.86
-Centrocampista,Vignato S.,MON,Monza,Free Agent,Free Agent,0,2,2,0,8,2,0,0,1,0,0,0,0,0,6.25,6.0,6.25,6.0,6.5,6.25
-Centrocampista,Racic,SAS,Sassuolo,Free Agent,Free Agent,0,4,2,0,7,0,0,0,0,0,0,0,0,0,5.5,5.5,5.43,5.43,5.43,5.43
-Centrocampista,Urbanski,BOL,Bologna,Free Agent,Free Agent,0,2,2,0,5,2,0,0,0,0,0,0,0,0,5.55,5.75,5.6,5.8,5.6,5.8
-Centrocampista,Serdar,VER,Verona,Free Agent,Free Agent,0,5,2,0,6,1,0,0,0,0,0,0,0,0,5.88,5.96,5.5,5.58,5.5,5.58
-Centrocampista,Kutlu,GEN,Genoa,Free Agent,Free Agent,0,4,2,0,6,0,0,0,0,0,0,0,0,0,5.96,5.96,6.08,6.08,5.92,5.92
+Centrocampista,Obiang,SAS,Sassuolo,Free Agent,Free Agent,0,2,2,0,1,0,0,0,0,0,0,0,0,0,6.0,6.0,6.0,6.0,6.0,6.0
+Centrocampista,Demme,NAP,Napoli,Free Agent,Free Agent,0,1,2,0,2,0,0,0,0,0,0,0,0,0,6.25,6.25,6.25,6.25,6.75,6.25
+Centrocampista,Racic,SAS,Sassuolo,Free Agent,Free Agent,0,4,2,0,8,0,0,0,0,0,0,0,0,0,5.56,5.56,5.5,5.5,5.5,5.5
+Centrocampista,Fagioli,JUV,Juventus,Free Agent,Free Agent,0,12,1,0,6,0,0,1,0,0,0,0,0,0,6.08,5.92,6.17,6.0,6.08,5.92
 Centrocampista,Rog,CAG,Cagliari,Free Agent,Free Agent,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
-Centrocampista,Jagiello,GEN,Genoa,Free Agent,Free Agent,0,2,1,0,1,0,0,0,0,0,0,0,0,0,5.5,5.5,5.0,5.0,5.0,5.0
-Centrocampista,Asllani,INT,Inter,Free Agent,Free Agent,0,3,1,0,4,0,0,0,0,0,0,0,0,0,6.19,6.19,6.0,6.0,6.25,6.25
-Centrocampista,Basic,LAZ,Lazio,Free Agent,Free Agent,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
-Centrocampista,Gaetano,NAP,Napoli,Free Agent,Free Agent,0,2,1,0,2,1,0,0,1,0,0,0,0,0,7.63,6.38,6.83,6.0,6.83,6.0
-Centrocampista,Sensi,INT,Inter,Free Agent,Free Agent,0,6,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+Centrocampista,Asllani,INT,Inter,Free Agent,Free Agent,0,3,1,0,6,0,0,0,0,0,0,0,0,0,6.13,6.13,6.0,6.0,6.17,6.17
+Centrocampista,Pobega,MIL,Milan,Free Agent,Free Agent,0,6,1,0,7,0,0,0,0,0,0,0,0,0,6.07,6.07,5.93,5.93,5.86,5.86
+Centrocampista,Gaetano,NAP,Napoli,Free Agent,Free Agent,0,2,1,0,4,1,0,0,1,0,0,0,0,0,6.69,6.06,6.3,5.8,6.08,5.67
+Centrocampista,Sensi,INT,Inter,Free Agent,Free Agent,0,6,1,0,1,0,0,0,0,0,0,0,0,0,6.0,6.0,6.0,6.0,6.0,6.0
 Centrocampista,Pogba,JUV,Juventus,Free Agent,Free Agent,0,12,1,0,2,0,0,0,0,0,0,0,0,0,6.13,6.13,6.25,6.25,6.0,6.0
-Centrocampista,El Azzouzi,BOL,Bologna,Free Agent,Free Agent,0,1,1,0,4,2,0,1,0,0,0,0,0,0,5.94,5.94,6.33,6.17,6.38,6.25
-Centrocampista,Demme,NAP,Napoli,Free Agent,Free Agent,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
-Centrocampista,Gineitis,TOR,Torino,Free Agent,Free Agent,0,1,1,0,4,2,0,0,0,0,0,0,0,0,5.5,5.75,5.63,5.88,5.25,5.5
-Centrocampista,Pafundi,UDI,Udinese,Free Agent,Free Agent,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+Centrocampista,Machin,MON,Monza,Free Agent,Free Agent,0,6,1,0,8,2,0,0,0,0,0,0,0,0,5.66,5.78,5.38,5.5,5.71,5.79
+Centrocampista,Baez,FRO,Frosinone,Free Agent,Free Agent,0,4,1,0,10,1,0,0,1,0,0,0,0,0,6.35,6.1,6.1,5.85,6.2,5.95
+Centrocampista,El Azzouzi,BOL,Bologna,Free Agent,Free Agent,0,1,1,0,5,2,0,1,0,0,0,0,0,0,5.95,5.95,6.25,6.13,6.3,6.2
+Centrocampista,Gineitis,TOR,Torino,Free Agent,Free Agent,0,1,1,0,6,2,0,0,0,0,0,0,0,0,5.67,5.83,5.75,5.92,5.42,5.58
 Centrocampista,Quina,UDI,Udinese,Free Agent,Free Agent,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
 Centrocampista,Hrustic,VER,Verona,Free Agent,Free Agent,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
-Centrocampista,Adopo,ATA,Atalanta,Free Agent,Free Agent,0,3,1,0,2,0,0,1,0,0,0,0,0,0,6.5,6.0,5.75,5.25,5.5,5.5
+Centrocampista,Vignato S.,MON,Monza,Free Agent,Free Agent,0,2,1,0,8,2,0,0,1,0,0,0,0,0,6.25,6.0,6.25,6.0,6.5,6.25
+Centrocampista,Adopo,ATA,Atalanta,Free Agent,Free Agent,0,3,1,0,3,0,0,1,0,0,0,0,0,0,6.33,6.0,5.83,5.5,5.67,5.67
 Centrocampista,Belardinelli,EMP,Empoli,Free Agent,Free Agent,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
-Centrocampista,Lipani,SAS,Sassuolo,Free Agent,Free Agent,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
-Centrocampista,Bondo,MON,Monza,Free Agent,Free Agent,0,1,1,0,6,1,0,0,0,0,0,0,0,0,5.83,5.92,5.92,6.0,5.92,6.0
-Centrocampista,Zerbin,NAP,Napoli,Free Agent,Free Agent,0,1,1,0,1,0,0,0,0,0,0,0,0,0,5.5,5.5,4.0,4.0,6.0,6.0
-Centrocampista,Faticanti,LEC,Lecce,Free Agent,Free Agent,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+Centrocampista,Lipani,SAS,Sassuolo,Free Agent,Free Agent,0,1,1,0,1,0,0,0,0,0,0,0,0,0,6.0,6.0,6.0,6.0,6.0,6.0
 Centrocampista,Pagano,ROM,Roma,Free Agent,Free Agent,0,1,1,0,2,0,0,0,0,0,0,0,0,0,6.0,6.0,6.25,6.25,6.0,6.0
 Centrocampista,Joselito,VER,Verona,Free Agent,Free Agent,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
-Centrocampista,Infantino,FIO,Fiorentina,Free Agent,Free Agent,0,4,1,0,2,1,0,0,0,0,0,0,0,0,5.25,5.5,5.25,5.5,5.25,5.5
-Centrocampista,Amatucci,FIO,Fiorentina,Free Agent,Free Agent,0,2,1,0,1,0,0,0,0,0,0,0,0,0,6.0,6.0,0.0,0.0,0.0,0.0
-Centrocampista,Martegani,SAL,Salernitana,Free Agent,Free Agent,0,5,1,0,9,1,0,0,0,0,0,0,0,0,5.75,5.81,5.7,5.75,5.6,5.65
-Centrocampista,Bourabia,FRO,Frosinone,Free Agent,Free Agent,0,4,1,0,3,1,0,0,0,0,0,0,0,0,5.58,5.75,5.0,5.17,5.0,5.17
-Attaccante,Martinez L.,INT,Inter,Free Agent,Free Agent,0,40,61,0,16,2,0,2,15,1,0,0,0,0,9.72,6.84,9.75,6.88,9.66,6.84
-Attaccante,Giroud,MIL,Milan,Vecchie Rocce,Damian,17,28,43,26,15,0,1,5,8,3,0,0,0,0,8.15,6.28,8.13,6.27,8.1,6.23
-Attaccante,Berardi,SAS,Sassuolo,Vecchie Rocce,Damian,3,30,41,38,14,5,0,3,9,5,0,0,0,0,8.55,6.59,8.32,6.36,8.43,6.46
-Attaccante,Osimhen,NAP,Napoli,Free Agent,Free Agent,0,44,40,0,13,2,1,2,7,2,1,0,0,0,7.62,6.23,7.73,6.35,7.58,6.19
-Attaccante,Thuram,INT,Inter,Atletico Una Volta,Marce,17,25,39,22,18,2,0,6,7,0,0,0,0,0,8.01,6.57,8.11,6.67,7.94,6.56
-Attaccante,Lookman,ATA,Atalanta,Garda Che Squadra,Fracca,1,24,36,35,17,2,0,3,7,0,0,0,0,0,7.71,6.35,7.41,6.06,7.68,6.32
-Attaccante,Kvaratskhelia,NAP,Napoli,Free Agent,Free Agent,0,30,35,0,17,4,0,3,5,0,0,0,0,0,7.21,6.26,7.15,6.21,7.26,6.32
-Attaccante,Lukaku,ROM,Roma,AC Ciughina,Carle,14,30,33,19,15,3,1,1,8,0,1,0,0,0,7.47,6.17,7.37,6.07,7.5,6.2
-Attaccante,Dybala,ROM,Roma,Atletico Una Volta,Marce,6,28,30,24,12,2,0,6,4,2,0,0,0,0,7.81,6.4,7.83,6.42,7.83,6.33
-Attaccante,Gonzalez N.,FIO,Fiorentina,Free Agent,Free Agent,0,17,28,0,13,0,0,1,6,1,0,0,0,0,7.73,6.27,7.92,6.46,7.81,6.35
-Attaccante,Vlahovic,JUV,Juventus,Nottingham Dese,Scap,18,28,26,8,15,2,0,2,6,1,2,0,0,0,6.92,6.05,7.0,6.19,6.91,6.09
-Attaccante,Immobile,LAZ,Lazio,AC Ciughina,Carle,1,31,25,24,15,3,0,0,4,3,0,0,0,0,6.47,5.77,6.3,5.6,6.56,5.94
-Attaccante,Dia,SAL,Salernitana,AC Cipicchia,Nippon,1,26,24,23,13,1,0,0,4,1,0,0,0,0,6.77,5.88,6.65,5.77,6.54,5.65
-Attaccante,Zirkzee,BOL,Bologna,Atletico Una Volta,Marce,2,13,24,22,18,4,0,2,7,1,0,0,0,0,7.75,6.58,7.81,6.64,8.11,6.89
-Attaccante,Scamacca,ATA,Atalanta,AC Ciughina,Carle,18,27,24,6,11,1,0,2,5,0,0,0,0,0,7.91,6.41,7.86,6.36,7.91,6.41
-Attaccante,Pinamonti,SAS,Sassuolo,AC Cipicchia,Nippon,3,13,21,18,18,1,0,0,6,0,0,0,0,0,6.99,6.01,6.92,5.94,6.75,5.78
-Attaccante,Sanabria,TOR,Torino,AC Ciughina,Carle,1,23,20,19,15,2,0,0,2,1,0,0,0,0,6.22,5.88,6.3,5.97,6.21,5.86
-Attaccante,Ngonge,VER,Verona,Free Agent,Free Agent,0,14,19,0,17,4,0,2,5,0,0,0,0,0,6.84,5.96,6.71,5.82,6.82,5.94
-Attaccante,Luvumbo,CAG,Cagliari,Free Agent,Free Agent,0,9,19,0,17,2,0,2,3,0,0,0,0,0,6.91,6.32,6.82,6.24,6.65,6.06
-Attaccante,Arnautovic,INT,Inter,Garda Che Squadra,Fracca,6,23,18,12,8,0,0,2,1,0,0,0,0,0,6.88,6.25,6.78,6.22,6.81,6.19
-Attaccante,Jovic,MIL,Milan,Free Agent,Free Agent,0,13,18,0,9,2,0,1,3,0,0,0,0,0,7.06,6.06,6.5,5.6,6.5,5.6
-Attaccante,Raspadori,NAP,Napoli,Atletico Una Volta,Marce,13,9,18,5,16,0,0,2,3,0,1,0,0,0,6.53,6.03,6.69,6.19,6.38,5.94
-Attaccante,Castellanos,LAZ,Lazio,Free Agent,Free Agent,0,12,18,0,13,0,0,3,2,0,0,0,0,0,6.67,5.98,6.54,5.89,6.69,6.0
-Attaccante,Djuric,VER,Verona,Free Agent,Free Agent,0,10,18,0,15,2,0,1,4,1,1,0,0,0,6.73,6.13,6.7,6.1,6.44,5.88
-Attaccante,Lucca,UDI,Udinese,Free Agent,Free Agent,0,7,18,0,15,1,0,1,6,0,0,0,0,0,7.3,6.07,7.0,5.91,7.23,6.0
-Attaccante,Krstovic,LEC,Lecce,AC Cipicchia,Nippon,2,13,17,15,16,2,0,0,4,1,0,0,0,0,6.8,6.11,6.53,5.88,6.63,5.94
-Attaccante,Belotti,ROM,Roma,Free Agent,Free Agent,0,12,16,0,10,1,0,2,3,0,0,0,0,0,7.3,6.25,7.2,6.15,7.33,6.28
-Attaccante,Caputo,EMP,Empoli,Free Agent,Free Agent,0,14,16,0,14,0,0,0,3,1,0,0,0,0,6.43,5.79,6.57,5.93,6.68,6.04
-Attaccante,Mota,MON,Monza,Free Agent,Free Agent,0,10,16,0,16,1,0,0,1,0,0,0,0,0,5.83,5.67,6.0,5.84,5.84,5.69
-Attaccante,Muriel,ATA,Atalanta,Nottingham Dese,Scap,1,13,16,15,11,0,0,1,2,0,0,0,0,0,6.84,6.2,6.58,6.0,6.91,6.27
-Attaccante,Pavoletti,CAG,Cagliari,Free Agent,Free Agent,0,4,16,0,11,3,0,1,4,0,0,0,0,0,7.45,6.41,7.42,6.46,7.7,6.5
-Attaccante,Nzola,FIO,Fiorentina,Garda Che Squadra,Fracca,9,22,16,7,18,0,0,2,1,0,0,0,0,0,5.99,5.71,5.94,5.67,5.94,5.67
-Attaccante,Milik,JUV,Juventus,AC Ciughina,Carle,1,18,15,14,12,2,0,1,2,0,0,0,0,0,6.67,6.17,6.5,6.0,6.77,6.23
-Attaccante,Okafor,MIL,Milan,Free Agent,Free Agent,0,16,15,0,9,1,0,0,3,0,0,0,0,0,7.03,6.08,6.6,5.75,6.65,5.8
-Attaccante,Thauvin,UDI,Udinese,Free Agent,Free Agent,0,11,15,0,13,3,0,1,2,1,0,0,0,0,6.46,6.04,6.53,6.17,6.58,6.13
-Attaccante,Pedro,LAZ,Lazio,Free Agent,Free Agent,0,11,14,0,12,3,0,0,1,0,0,0,0,0,5.98,5.85,5.87,5.77,5.88,5.77
-Attaccante,Retegui,GEN,Genoa,Garda Che Squadra,Fracca,7,23,13,6,11,3,0,1,3,0,0,0,0,0,6.73,5.95,6.68,5.91,6.68,5.91
-Attaccante,Almqvist,LEC,Lecce,Free Agent,Free Agent,0,11,13,0,12,1,0,0,2,0,0,0,0,0,6.71,6.25,6.46,6.0,6.68,6.18
-Attaccante,Cheddira,FRO,Frosinone,Garda Che Squadra,Fracca,1,10,13,12,13,0,0,1,1,1,0,0,0,0,6.12,5.81,6.08,5.77,6.33,6.0
-Attaccante,Azmoun,ROM,Roma,Free Agent,Free Agent,0,12,12,0,7,1,0,0,1,0,0,0,0,0,6.64,6.29,6.11,5.83,6.64,6.29
-Attaccante,Lapadula,CAG,Cagliari,Free Agent,Free Agent,0,14,11,0,4,1,0,0,1,0,0,0,0,0,6.63,6.0,6.1,5.6,6.5,6.0
-Attaccante,Kean,JUV,Juventus,Nottingham Dese,Scap,2,10,11,9,9,2,0,0,0,0,0,0,0,0,5.86,5.97,6.06,6.19,6.0,6.14
-Attaccante,Banda,LEC,Lecce,Free Agent,Free Agent,0,9,11,0,13,3,1,4,2,0,0,0,0,0,6.71,6.13,6.69,6.12,6.85,6.35
-Attaccante,Piccoli,LEC,Lecce,Free Agent,Free Agent,0,7,11,0,12,2,0,0,3,1,0,0,0,0,6.69,6.02,6.57,6.03,6.57,6.0
-Attaccante,Colombo,MON,Monza,Atletico Una Volta,Marce,3,9,11,8,16,1,0,1,3,0,0,0,0,0,6.56,5.97,6.56,5.97,6.5,5.91
-Attaccante,Simeone,NAP,Napoli,Free Agent,Free Agent,0,12,10,0,6,2,0,0,1,0,0,0,0,0,6.33,6.0,6.06,5.88,6.25,6.06
-Attaccante,Petagna,CAG,Cagliari,Free Agent,Free Agent,0,12,10,0,9,1,0,1,0,0,0,0,0,0,5.97,5.92,5.78,5.72,5.68,5.64
+Centrocampista,Infantino,FIO,Fiorentina,Free Agent,Free Agent,0,4,1,0,3,1,0,0,0,0,0,0,0,0,5.5,5.67,5.5,5.67,5.5,5.67
+Centrocampista,Amatucci,FIO,Fiorentina,Free Agent,Free Agent,0,2,1,0,2,0,0,0,0,0,0,0,0,0,6.0,6.0,6.0,6.0,6.0,6.0
+Centrocampista,Bourabia,FRO,Frosinone,Free Agent,Free Agent,0,4,1,0,4,1,0,0,0,0,0,0,0,0,5.69,5.81,5.0,5.17,5.0,5.17
+Attaccante,Martinez L.,INT,Inter,Free Agent,Free Agent,0,40,66,0,19,2,0,2,18,2,0,0,0,0,9.75,6.86,9.82,6.92,9.71,6.87
+Attaccante,Giroud,MIL,Milan,Vecchie Rocce,Damian,17,28,48,31,19,0,1,7,10,4,1,0,0,0,8.09,6.36,8.03,6.29,7.89,6.16
+Attaccante,Thuram,INT,Inter,Atletico Una Volta,Marce,17,25,41,24,21,2,0,7,8,0,0,0,0,0,8.01,6.58,8.07,6.64,7.88,6.55
+Attaccante,Berardi,SAS,Sassuolo,Vecchie Rocce,Damian,3,30,39,36,17,6,0,3,9,5,0,0,0,0,8.03,6.44,7.85,6.26,7.97,6.38
+Attaccante,Osimhen,NAP,Napoli,Free Agent,Free Agent,0,44,34,0,14,2,1,2,7,2,1,0,0,0,7.5,6.21,7.61,6.32,7.46,6.18
+Attaccante,Vlahovic,JUV,Juventus,Nottingham Dese,Scap,18,28,34,16,19,3,0,3,12,1,2,0,0,0,7.96,6.3,8.03,6.45,7.9,6.38
+Attaccante,Lukaku,ROM,Roma,AC Ciughina,Carle,14,30,34,20,18,3,1,1,9,0,1,0,0,0,7.44,6.19,7.33,6.08,7.42,6.17
+Attaccante,Kvaratskhelia,NAP,Napoli,Free Agent,Free Agent,0,30,32,0,20,5,0,3,5,0,0,0,0,0,6.91,6.14,6.83,6.05,6.98,6.2
+Attaccante,Dybala,ROM,Roma,Atletico Una Volta,Marce,6,28,32,26,14,2,0,6,5,3,0,0,0,0,7.84,6.41,7.89,6.46,7.82,6.32
+Attaccante,Lookman,ATA,Atalanta,Garda Che Squadra,Fracca,1,24,32,31,18,2,0,3,7,0,0,0,0,0,7.61,6.33,7.33,6.06,7.58,6.31
+Attaccante,Scamacca,ATA,Atalanta,AC Ciughina,Carle,18,27,23,5,15,1,0,2,6,0,0,0,0,0,7.63,6.33,7.6,6.3,7.63,6.33
+Attaccante,Gonzalez N.,FIO,Fiorentina,Free Agent,Free Agent,0,17,22,0,14,0,0,1,6,1,0,0,0,0,7.61,6.25,7.79,6.43,7.68,6.32
+Attaccante,Pinamonti,SAS,Sassuolo,AC Cipicchia,Nippon,3,13,22,19,21,2,0,0,7,0,0,0,0,0,6.96,6.01,6.88,5.93,6.76,5.81
+Attaccante,Sanabria,TOR,Torino,AC Ciughina,Carle,1,23,21,20,19,2,0,0,3,1,0,0,0,0,6.33,5.91,6.47,6.05,6.36,5.92
+Attaccante,Zirkzee,BOL,Bologna,Atletico Una Volta,Marce,2,13,20,18,21,5,0,2,8,1,0,0,0,0,7.64,6.52,7.69,6.57,8.0,6.83
+Attaccante,Immobile,LAZ,Lazio,AC Ciughina,Carle,1,31,19,18,16,3,0,0,4,3,0,0,0,0,6.44,5.78,6.21,5.62,6.47,5.94
+Attaccante,Jovic,MIL,Milan,Free Agent,Free Agent,0,13,19,0,11,2,0,1,4,0,0,0,0,0,7.16,6.07,6.67,5.67,6.67,5.67
+Attaccante,Thauvin,UDI,Udinese,Free Agent,Free Agent,0,11,19,0,16,4,0,1,4,1,0,0,0,0,6.88,6.19,6.86,6.25,6.93,6.2
+Attaccante,Dia,SAL,Salernitana,AC Cipicchia,Nippon,1,26,18,17,13,1,0,0,4,1,0,0,0,0,6.77,5.88,6.65,5.77,6.54,5.65
+Attaccante,Lucca,UDI,Udinese,Free Agent,Free Agent,0,7,18,0,19,2,0,3,6,0,0,0,0,0,7.04,5.99,6.88,5.93,6.92,5.92
+Attaccante,Raspadori,NAP,Napoli,Atletico Una Volta,Marce,13,9,17,4,19,0,0,2,3,0,1,0,0,0,6.41,5.99,6.45,6.03,6.18,5.82
+Attaccante,Mota,MON,Monza,Free Agent,Free Agent,0,10,16,0,19,2,0,1,2,0,0,0,0,0,6.04,5.72,6.21,5.89,6.05,5.74
+Attaccante,Okafor,MIL,Milan,Free Agent,Free Agent,0,16,16,0,10,1,0,0,4,0,0,0,0,0,7.33,6.18,6.83,5.88,6.95,5.91
+Attaccante,Muriel,ATA,Atalanta,Nottingham Dese,Scap,1,13,16,15,13,0,0,1,2,0,0,0,0,0,6.73,6.19,6.5,6.0,6.77,6.23
+Attaccante,Krstovic,LEC,Lecce,AC Cipicchia,Nippon,2,13,16,14,19,2,0,0,4,1,0,0,0,0,6.61,6.03,6.4,5.85,6.53,5.95
+Attaccante,Arnautovic,INT,Inter,Garda Che Squadra,Fracca,6,23,15,9,10,0,0,2,1,0,0,0,0,0,6.58,6.08,6.45,6.0,6.45,5.95
+Attaccante,Belotti,ROM,Roma,Free Agent,Free Agent,0,12,15,0,11,1,0,2,3,0,0,0,0,0,7.18,6.23,7.14,6.18,7.15,6.2
+Attaccante,Retegui,GEN,Genoa,Garda Che Squadra,Fracca,7,23,15,8,14,4,0,1,4,0,0,0,0,0,6.75,5.96,6.64,5.86,6.75,5.96
+Attaccante,Milik,JUV,Juventus,AC Ciughina,Carle,1,18,15,14,15,2,1,1,2,0,0,0,0,0,6.35,6.02,6.1,5.77,6.33,6.0
+Attaccante,Castellanos,LAZ,Lazio,Free Agent,Free Agent,0,12,15,0,15,0,0,3,2,0,0,0,0,0,6.55,5.95,6.5,5.94,6.63,6.03
+Attaccante,Luvumbo,CAG,Cagliari,Free Agent,Free Agent,0,9,15,0,17,2,0,2,3,0,0,0,0,0,6.91,6.32,6.82,6.24,6.65,6.06
+Attaccante,Pavoletti,CAG,Cagliari,Free Agent,Free Agent,0,4,15,0,13,4,0,1,4,0,0,0,0,0,7.21,6.37,7.18,6.39,7.33,6.38
+Attaccante,Nzola,FIO,Fiorentina,Garda Che Squadra,Fracca,9,22,15,6,21,0,0,2,2,1,0,0,0,0,6.1,5.71,6.07,5.69,6.02,5.64
+Attaccante,Caputo,EMP,Empoli,Free Agent,Free Agent,0,14,14,0,15,0,0,0,3,1,0,0,0,0,6.33,5.73,6.47,5.87,6.57,5.97
+Attaccante,Pedro,LAZ,Lazio,Free Agent,Free Agent,0,11,14,0,15,3,0,0,1,0,0,0,0,0,5.97,5.87,5.81,5.72,5.84,5.75
+Attaccante,Petagna,CAG,Cagliari,Free Agent,Free Agent,0,12,13,0,13,2,0,1,1,0,0,0,0,0,6.35,6.12,6.19,5.96,6.03,5.83
+Attaccante,Almqvist,LEC,Lecce,Free Agent,Free Agent,0,11,13,0,15,1,0,0,2,0,0,0,0,0,6.53,6.17,6.33,5.97,6.54,6.14
+Attaccante,Simeone,NAP,Napoli,Free Agent,Free Agent,0,12,12,0,9,2,0,0,1,0,0,0,0,0,6.11,5.89,6.05,5.91,6.05,5.91
+Attaccante,Colombo,MON,Monza,Atletico Una Volta,Marce,3,9,11,8,18,1,0,1,3,0,0,0,0,0,6.44,5.92,6.42,5.89,6.34,5.87
+Attaccante,Cheddira,FRO,Frosinone,Garda Che Squadra,Fracca,1,10,11,10,16,0,0,1,1,1,0,0,0,0,5.94,5.69,5.97,5.72,6.13,5.87
+Attaccante,Lapadula,CAG,Cagliari,Free Agent,Free Agent,0,14,10,0,6,2,0,0,1,0,0,0,0,0,6.25,5.92,5.79,5.5,6.42,6.0
+Attaccante,Piccoli,LEC,Lecce,Free Agent,Free Agent,0,7,9,0,13,2,0,0,3,1,0,0,0,0,6.6,5.98,6.5,6.0,6.5,5.97
+Attaccante,Azmoun,ROM,Roma,Free Agent,Free Agent,0,12,9,0,7,1,0,0,1,0,0,0,0,0,6.64,6.29,6.11,5.83,6.64,6.29
 Attaccante,Deulofeu,UDI,Udinese,Free Agent,Free Agent,0,13,8,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
-Attaccante,Shomurodov,CAG,Cagliari,Free Agent,Free Agent,0,12,7,0,10,0,0,2,0,0,0,0,0,0,6.1,5.9,5.8,5.6,5.89,5.67
-Attaccante,Henry,VER,Verona,Free Agent,Free Agent,0,11,7,0,5,1,0,0,2,0,0,0,0,0,7.4,6.3,6.9,5.8,7.0,6.08
-Attaccante,Bonazzoli,VER,Verona,Free Agent,Free Agent,0,8,6,0,14,2,0,0,1,0,0,0,0,0,6.07,5.93,5.85,5.69,5.92,5.77
-Attaccante,Ekuban,GEN,Genoa,Free Agent,Free Agent,0,3,6,0,11,0,0,1,1,0,0,0,0,0,6.3,5.93,6.4,6.0,6.55,6.15
-Attaccante,Kaio Jorge,FRO,Frosinone,AC Cipicchia,Nippon,1,1,6,5,5,1,0,0,1,1,0,0,0,0,6.3,5.8,6.1,5.6,6.25,5.83
-Attaccante,Ikwuemesi,SAL,Salernitana,Free Agent,Free Agent,0,2,6,0,12,2,0,1,1,0,0,0,0,0,6.08,5.83,5.83,5.58,6.0,5.75
-Attaccante,Pellegri,TOR,Torino,Free Agent,Free Agent,0,8,4,0,7,2,0,0,0,0,0,0,0,0,5.43,5.57,5.43,5.57,5.43,5.57
-Attaccante,Success,UDI,Udinese,Free Agent,Free Agent,0,7,4,0,12,2,0,1,0,0,1,0,0,0,5.38,5.63,5.35,5.58,5.35,5.65
-Attaccante,Mulattieri,SAS,Sassuolo,Free Agent,Free Agent,0,11,4,0,4,1,0,0,0,0,0,0,0,0,5.88,6.0,6.33,6.33,5.92,6.0
-Attaccante,Cuni,FRO,Frosinone,Free Agent,Free Agent,0,4,4,0,7,0,0,0,1,0,0,0,0,0,6.36,5.93,5.94,5.56,6.14,5.71
-Attaccante,Maric,MON,Monza,Free Agent,Free Agent,0,2,4,0,6,0,0,0,1,0,0,0,0,0,6.54,6.04,6.0,5.5,6.58,6.08
-Attaccante,Caprari,MON,Monza,Free Agent,Free Agent,0,14,3,0,4,0,0,0,0,0,0,0,0,0,5.88,5.88,5.88,5.88,5.88,5.88
-Attaccante,Karlsson,BOL,Bologna,Free Agent,Free Agent,0,11,3,0,5,0,0,0,0,0,0,0,0,0,5.7,5.7,5.8,5.8,6.0,6.0
+Attaccante,Kean,JUV,Juventus,Nottingham Dese,Scap,2,10,8,6,9,2,0,0,0,0,0,0,0,0,5.86,5.97,6.06,6.19,6.0,6.14
+Attaccante,Banda,LEC,Lecce,Free Agent,Free Agent,0,9,8,0,13,3,1,4,2,0,0,0,0,0,6.71,6.13,6.69,6.12,6.85,6.35
+Attaccante,Kaio Jorge,FRO,Frosinone,AC Cipicchia,Nippon,1,1,8,7,7,2,0,0,2,1,0,0,0,0,6.75,6.04,6.5,5.79,6.63,6.0
+Attaccante,Success,UDI,Udinese,Free Agent,Free Agent,0,7,6,0,15,2,0,1,0,0,1,0,0,0,5.42,5.62,5.38,5.56,5.37,5.63
+Attaccante,Ikwuemesi,SAL,Salernitana,Free Agent,Free Agent,0,2,6,0,14,2,0,1,1,0,0,0,0,0,6.04,5.82,5.67,5.47,5.86,5.64
+Attaccante,Henry,VER,Verona,Free Agent,Free Agent,0,11,5,0,6,1,0,0,3,0,1,0,0,0,7.04,6.13,6.67,5.75,6.79,6.0
+Attaccante,Bonazzoli,VER,Verona,Free Agent,Free Agent,0,8,5,0,15,2,0,0,1,0,0,0,0,0,6.03,5.9,5.82,5.68,5.89,5.75
+Attaccante,Ekuban,GEN,Genoa,Free Agent,Free Agent,0,3,5,0,12,0,0,1,1,0,0,0,0,0,6.23,5.9,6.36,6.0,6.59,6.23
+Attaccante,Shomurodov,CAG,Cagliari,Free Agent,Free Agent,0,12,4,0,10,0,0,2,0,0,0,0,0,0,6.1,5.9,5.8,5.6,5.89,5.67
+Attaccante,Pellegri,TOR,Torino,Free Agent,Free Agent,0,8,4,0,9,2,0,0,0,0,0,0,0,0,5.53,5.64,5.56,5.67,5.6,5.7
 Attaccante,Botheim,SAL,Salernitana,Free Agent,Free Agent,0,7,2,0,5,1,0,0,0,0,0,0,0,0,5.1,5.2,4.8,4.9,4.9,5.0
 Attaccante,Brenner,UDI,Udinese,Free Agent,Free Agent,0,10,2,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
-Attaccante,Braaf,VER,Verona,Free Agent,Free Agent,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
-Attaccante,Defrel,SAS,Sassuolo,Free Agent,Free Agent,0,9,2,0,5,0,0,1,0,0,0,0,0,0,6.05,5.85,5.75,5.58,5.75,5.5
-Attaccante,Van Hooijdonk,BOL,Bologna,Free Agent,Free Agent,0,2,2,0,4,0,0,0,0,0,0,0,0,0,5.75,5.75,5.5,5.5,6.0,6.0
-Attaccante,Sanchez,INT,Inter,Free Agent,Free Agent,0,14,2,0,4,0,0,0,0,0,0,0,0,0,5.63,5.63,5.38,5.38,5.6,5.6
+Attaccante,Defrel,SAS,Sassuolo,Free Agent,Free Agent,0,9,2,0,6,0,0,1,0,0,0,0,0,0,6.04,5.88,5.79,5.64,5.8,5.6
+Attaccante,Mulattieri,SAS,Sassuolo,Free Agent,Free Agent,0,11,2,0,5,1,0,0,0,0,0,0,0,0,5.9,6.0,6.25,6.25,5.93,6.0
+Attaccante,Caprari,MON,Monza,Free Agent,Free Agent,0,14,1,0,4,0,0,0,0,0,0,0,0,0,5.88,5.88,5.88,5.88,5.88,5.88
 Attaccante,Abraham,ROM,Roma,AC Cipicchia,Nippon,1,14,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
 Attaccante,Kvernadze,FRO,Frosinone,Free Agent,Free Agent,0,3,1,0,1,0,0,0,0,0,0,0,0,0,5.5,5.5,5.5,5.5,5.5,5.5
-Attaccante,Puscas,GEN,Genoa,Free Agent,Free Agent,0,1,1,0,3,0,0,0,0,0,0,0,0,0,5.17,5.17,5.4,5.4,5.75,5.75
-Attaccante,Seck,TOR,Torino,Free Agent,Free Agent,0,3,1,0,7,1,0,0,0,0,0,0,0,0,5.93,6.0,5.79,5.86,5.71,5.79
-Attaccante,Kallon,VER,Verona,Free Agent,Free Agent,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+Attaccante,Cuni,FRO,Frosinone,Free Agent,Free Agent,0,4,1,0,7,0,0,0,1,0,0,0,0,0,6.36,5.93,5.94,5.56,6.14,5.71
 Attaccante,Burnete,LEC,Lecce,Free Agent,Free Agent,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
-Attaccante,Vivaldo,UDI,Udinese,Vecchie Rocce,Damian,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+Attaccante,Maric,MON,Monza,Free Agent,Free Agent,0,2,1,0,7,0,0,0,1,0,0,0,0,0,6.32,5.89,5.93,5.5,6.43,6.0
 Attaccante,Corfitzen,LEC,Lecce,Free Agent,Free Agent,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0.0,0.0
+Attaccante,Van Hooijdonk,BOL,Bologna,Free Agent,Free Agent,0,2,1,0,6,0,0,0,0,0,0,0,0,0,5.67,5.67,5.5,5.5,5.75,5.75
 Attaccante,Stewart,SAL,Salernitana,Vecchie Rocce,Damian,1,1,1,0,3,0,0,0,0,0,0,0,0,0,5.92,5.92,5.67,5.67,5.83,5.83
+Attaccante,Karlsson,BOL,Bologna,Free Agent,Free Agent,0,11,1,0,6,0,0,0,0,0,0,0,0,0,5.75,5.75,5.83,5.83,6.0,6.0
+Attaccante,Sanchez,INT,Inter,Free Agent,Free Agent,0,14,1,0,5,0,0,0,0,0,0,0,0,0,5.7,5.7,5.5,5.5,5.67,5.67
 Attaccante,Destro,EMP,Empoli,Free Agent,Free Agent,0,2,1,0,5,1,0,0,0,0,0,0,0,0,5.7,5.8,5.6,5.7,5.42,5.5
